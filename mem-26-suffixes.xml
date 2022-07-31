@@ -251,7 +251,7 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="notes_fi">Tämä pääte on liitetty substantiiviin, joka viittaa olentoja, jotka pystyvät puhumaan kieliä, kun tällaisia ​​olentoja on enemmän kuin yksi.
 
 Huomaa, että {-pu':n:suff,nolink}: n käyttö on substantiivi, eikä välttämättä niiden asioiden ominaisuus, joihin se viittaa. Esimerkiksi ryhmään klingoneita, jotka eivät pysty puhumaan, tai ryhmään klingonilaisia, jotka ovat liian nuoria ymmärtämään kieltä, kutsutaan edelleen nimellä {tlhInganpu':n:nolink}.[2] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">The subject of the {KLI mailing list:src} message where this is explained was "long weekend with MO".</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {tlhInganpu':n:nolink} "Klingons"</column>
@@ -1223,7 +1223,7 @@ Kohdasta {qawmoH:v} on selitys siitä, miten tätä päätettä käytetään ver
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
-      <column name="notes">This suffix emphasizes that the noun to which it is attached the topic of the sentence.[1] It is used with the pronouns to form "to be" constructions.[2] It is also used to disambiguate which noun is the head noun in a relative clause (see {-bogh:v}).
+      <column name="notes">This suffix emphasizes that the noun to which it is attached the topic of the sentence.[1] It is used with the pronouns to form "to be" constructions.[2] It is also used to disambiguate which noun is the head noun in a relative clause (see {-bogh:v}).[4]
 
 If the object noun is marked with {-'e':n:suff,nolink}, it can come before adverbials, which still precede the verb.[3]
 
@@ -1239,7 +1239,7 @@ Do not confuse this suffix with the pronoun {'e':n:pro}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">The example from {TKD:src} contains an error: the {jI-:sen:nolink} prefix was omitted by mistake.[1]
+      <column name="hidden_notes">The example from {TKD:src} contains an error: the {jI-:sen:nolink} prefix was omitted by mistake.[7]
 
 In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="components"></column>
@@ -1247,8 +1247,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
 ▶ {cheng'e' DaH Sam!:sen}
 ▶ {jIlujpu' jIH'e'.:sen:nolink} "I, and only I, have failed." or "It is I who has failed."[1]
 ▶ {pa'DajDaq ghaHtaH la''e'.:sen:nolink} "The commander is in his quarters."[2]
-▶ Paramount Pictures {malja' permey bIH:sen:nolink} Star Trek {pong'e' Deghmey'e' je.:sen:nolink}[6]
-▶ {wa' Dol bIH qa''e' porgh'e' je.:sen@@wa':n:num, Dol:n, bIH:n:pro, qa':n, -'e':n, porgh:n, -'e':n, je:conj} "Spirit and body are one."[7]</column>
+▶ Paramount Pictures {malja' permey bIH:sen:nolink} Star Trek {pong'e' Deghmey'e' je.:sen:nolink}[6]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -1264,7 +1263,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD 3.3.5:src}, [2] {TKD 6.3:src}, [3] {TKDA 6.7:src}, [4] {HQ 4.2, p.5-6, Jun. 1995:src}, [5] {KGT p.23:src}, [6] {SkyBox cards:src}, [7] {paq'batlh p.102-103:src}</column>
+      <column name="source">[1] {TKD 3.3.5:src}, [2] {TKD 6.3:src}, [3] {TKDA 6.7:src}, [4] {HQ 4.2, p.5-6, Jun. 1995:src}, [5] {KGT p.23:src}, [6] {SkyBox cards:src}, [7] {KLI mailing list 2021.12.21:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1281,17 +1280,32 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
-      <column name="notes">When this suffix is used, the verb prefix must indicate "no object".</column>
-      <column name="notes_de">Wenn dieses Suffix verwendet wird, muss das Verbpräfix "kein Objekt" angeben. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">هنگامی که از این پسوند استفاده می شود ، پیشوند فعل باید "no object" باشد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">När detta suffix används måste verbprefixet indikera "inget objekt". [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Когда этот суффикс используется, префикс глагола должен указывать «нет объекта». [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">使用此後綴時，動詞前綴必須指示「無對象」。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Quando esse sufixo é usado, o prefixo do verbo deve indicar "nenhum objeto". [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Kun tätä pääteosaa käytetään, verbin etuliitteen on ilmoitettava "ei objektia". [AUTOTRANSLATED]</column>
+      <column name="notes">When this suffix is used, the verb prefix must indicate "no object".[1]
+
+For machines, mechanical devices, automatic doors, etc., this suffix can indicate that something happens "automatically".[2]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
       <column name="hidden_notes">"Ego".</column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">
+▶ {boq'egh:v}
+▶ {boqHa''egh:v}
+▶ {HIl'egh:v}
+▶ {HoH'egh:v}
+▶ {jIb'egh:v}
+▶ {pe''egh:v}
+▶ {tatlh'egh:v}
+▶ {potlhbe'chugh yay qatlh pe''eghlu'?:sen}
+▶ {'ang'eghQo' quv Hutlhbogh jagh neH ghobtaHvIS ghaH.:sen}
+▶ {ghach jIvvo' naH. DaH pIghvamDaq So''eghtaH.:sen}
+▶ {pewuv'egh!:sen}
+▶ {poS'eghmoH lojmIt:sen@@poS:v, -'egh:v, -moH:v, lojmIt:n} "the door opens automatically" (literally, "the door opens itself")[2]
+▶ {'or'egh muD Duj:sen@@'or:v, -'egh:v, muD Duj:n} "the airplane runs automatically, the airplane is on autopilot" (literally, "the airplane operates itself")[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -1307,7 +1321,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD 4.2.1:src}</column>
+      <column name="source">[1] {TKD 4.2.1:src}, [2] {Saarbrücken qepHom'a' 2021:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1542,13 +1556,13 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="see_also"></column>
       <column name="notes">This suffix is rarely used with a first-person subject, as it's culturally taboo.[1]</column>
       <column name="notes_de">Dieses Suffix wird bei einem Thema aus der ersten Person selten verwendet, da es kulturell tabu ist.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این پسوند به ندرت با موضوع اول شخص استفاده می شود ، زیرا از نظر فرهنگی تابو است. [1] [AUTOTRANSLATED]</column>
+      <column name="notes_fa">این پسوند به ندرت با موضوع اول شخص استفاده می شود ، زیرا از نظر فرهنگی تابو است.[1] [AUTOTRANSLATED]</column>
       <column name="notes_sv">Det här suffixet används sällan med ett förstapersonsämne, eftersom det är kulturellt tabu.[1] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Этот суффикс редко используется с предметом от первого лица, поскольку это культурно табу.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴很少用於第一人稱主題，因為它在文化上是忌諱的。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este sufixo raramente é usado com um sujeito de primeira pessoa, pois é culturalmente um tabu.[1] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä päätettä käytetään harvoin ensimmäisen persoonan aiheissa, koska se on kulttuurisesti tabu.[1] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">It's not clear if the taboo still applies if this suffix is negated with {-be':v:suff}. The taboo is described on p.37. Three example sentences on p.49 illustrating the rover {-qu':v:suff} use the prefix {pI-:v:pref} with {-vIp:v:suffix,nolink} and {-be':v:suff,nolink} without mentioning it.</column>
+      <column name="hidden_notes">It's not clear if the taboo still applies if this suffix is negated with {-be':v:suff}. The taboo is described on p.37. Three example sentences on p.49 illustrating the rover {-qu':v:suff} use the prefix {pI-:v:pref} with {-vIp:v:suff,nolink} and {-be':v:suff,nolink} without mentioning it.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -1622,7 +1636,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">продолжать, возобновлять (глагол тип 3)</column>
       <column name="definition_zh_HK">恢復、重複、再做（第三類動詞後綴）</column>
       <column name="definition_pt">resumir, fazer novamente (verbal tipo 3)</column>
-      <column name="definition_fi">jatkaa, tehdä uudestaan (verrbipääte 3)</column>
+      <column name="definition_fi">jatkaa, tehdä uudestaan (verbipääte 3)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1702,7 +1716,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD 4.2.4:src}, [2] {SkyBox 20:src} (reprinted in {HQ 5.2, p.14, Jun. 1996:src}), [3] {paq'batlh p.179:src}</column>
+      <column name="source">[1] {TKD 4.2.4:src}, [2] {SkyBox 20:src} (reprinted in {HQ 5.2, p.14, Jun. 1996:src}), [3] {paq'batlh 2ed p.174-175:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1719,18 +1733,20 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tu'lu':v}, {vay':n}</column>
-      <column name="notes">This suffix indicates that the subject is unknown, indefinite, or general. It is used only with prefixes which normally indicate a third-person singular object ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v}, and {lu-:v}; and also {0:v:pref}). When used with this suffix, these prefixes change in meaning so that instead of indicating the person and number of the subject, they indicate the person and number of the object instead.</column>
-      <column name="notes_de">Dieses Suffix zeigt an, dass das Thema unbekannt, unbestimmt oder allgemein ist. Es wird nur mit Präfixen verwendet, die normalerweise ein einzelnes Objekt einer dritten Person angeben ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v} und {lu-:v} sowie {0:v:pref}). Bei Verwendung mit diesem Suffix ändern diese Präfixe ihre Bedeutung, sodass anstelle der Angabe der Person und der Nummer des Subjekts stattdessen die Person und die Nummer des Objekts angegeben werden. [AUTOTRANSLATED]</column>
+      <column name="notes">This suffix indicates that the subject is unknown, indefinite, or general. It is used only with prefixes which normally indicate a third-person singular object ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v}, and {lu-:v}; and also {0:v:pref}). When used with this suffix, these prefixes change in meaning so that instead of indicating the person and number of the subject, they indicate the person and number of the object instead.[1]
+
+Multiple uses of {-lu'} in a complex sentence refer back to the same indefinite subject.[2]</column>
+      <column name="notes_de"></column>
       <column name="notes_fa"></column>
-      <column name="notes_sv">Detta suffix indikerar att ämnet är okänt, obestämd eller generellt. Det används endast med prefix som normalt indikerar ett tredje person singularobjekt ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v} och {lu-:v}; och även {0:v:pref}). När de används med detta suffix ändras dessa prefix i betydelse så att de istället för att ange personen och numret på motivet indikerar personen och numret på objektet istället. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Этот суффикс указывает, что предмет неизвестен, неопределен или является общим. Он используется только с префиксами, которые обычно обозначают единичный объект от третьего лица ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v} и {lu-:v}; а также {0:v:pref}). При использовании с этим суффиксом эти префиксы меняются по значению, поэтому вместо указания лица и номера субъекта вместо них указываются лицо и номер объекта. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">此後綴表示主題未知，不確定或一般。它僅與通常指示第三人稱單數對象的前綴一起使用（{vI-:v}，{Da-:v}，{wI-:v}，{bo-:v}和{lu-:v}；以及{0:v:pref}）。與該後綴一起使用時，這些前綴的含義發生了變化，因此，它們代替指示對象的人和編號，而不指示對象的人和編號。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Esse sufixo indica que o assunto é desconhecido, indefinido ou geral. É usado apenas com prefixos que normalmente indicam um objeto singular na terceira pessoa ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v} e {lu-:v}; e também {0:v:pref}). Quando usados ​​com esse sufixo, esses prefixos mudam de significado para que, em vez de indicar a pessoa e o número do sujeito, indiquem a pessoa e o número do objeto. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä loppuliite osoittaa, että kohde on tuntematon, määrittelemätön tai yleinen. Sitä käytetään vain etuliitteiden kanssa, jotka normaalisti ilmaisevat kolmannen persoonan yksikön ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v} ja {lu-:v}; ja myös {0:v:pref}). Kun käytetään tämän jälkiliitteen kanssa, näiden etuliitteiden merkitys muuttuu siten, että sen sijaan, että ilmoitettaisiin kohteen henkilö ja numero, ne ilmoittavat sen sijaan kohteen henkilön ja numeron. [AUTOTRANSLATED]</column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {batlh Daqawlu'taH.:sen} "You will be remembered with honor."</column>
+▶ {batlh Daqawlu'taH.:sen}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -1746,7 +1762,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD 4.2.5:src}</column>
+      <column name="source">[1] {TKD 4.2.5:src}, [2] {KLI mailing list 2022.06.11:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -2662,7 +2678,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="notes_fi">Tämä pääte ilmaisee puhujan toiveen tai toiveen siitä, että jotain tapahtuu tulevaisuudessa.
 
 Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi paitsi {Sa'Qej Sep:n}- ja {noHva'Dut Sep:n}-murteissa.[1][2] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">When this suffix is used, there is allegedly never a Type 7 aspect suffix.[1] However, this "rule" is contradicted by canon, as can be seen from the examples.</column>
+      <column name="hidden_notes">It is stated in {TKDA:src} that when this suffix is used, there is never a Type 7 aspect suffix.[1] However, this "rule" is contradicted by canon, as can be seen from the examples. It was later explained that there are circumstances under which {-taH:v} is allowed with {-jaj:v:nolink}, though it wasn't explained what those circumstances were.[3]</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {wo' ghawran DevtaHjaj.:sen@@wo':n, ghawran:n, Dev:v, -taH:v, -jaj:v} "May Gowron continue to lead the Empire" (as a toast)[2]
@@ -2682,7 +2698,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKDA 4.2.9:src}, [2] {KGT p.25-26:src}</column>
+      <column name="source">[1] {TKDA 4.2.9:src}, [2] {KGT p.25-26:src}, [3] {KLI mailing list 2022.06.11:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -2749,7 +2765,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="notes_ru">Этот суффикс обычно не используется для глагола без другого суффикса или для глагола с префиксом. Когда он прикреплен к глаголу состояния, он дает значение, подобное «-ness», а на активном глаголе - что-то вроде «-tion».[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該後綴通常不用於沒有另一個後綴的動詞或帶前綴的動詞。當它附加到一個謂詞動詞上時，其含義為「 -ness」，而在一個主動動詞上則表示「 -tion」。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo geralmente não é usado em um verbo sem outro sufixo ou em um com prefixo. Quando é anexado a um verbo estático, dá um significado como "-ness", enquanto em um verbo ativo significa algo como "-tion".[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä loppuliitettä ei yleensä käytetä verbissä, jossa ei ole toista loppuliitettä, tai yhdessä, jossa on etuliite. Kun se on liitetty staattiseen verbiin, se antaa merkityksen, kuten "-ness", kun taas aktiivisella verbillä se tarkoittaa jotain "-tion".[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tämän päätteen kanssa pitää käyttää ainakin yhtä toista päätettä, eikä verbissä tällöin saa olla etuliitettä. Se vastaa suomen -uus/-yys-päätettä tai -minen-päätettä.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2790,15 +2806,15 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-Qo':v:suff}</column>
-      <column name="notes">This follows the concept it negates. It cannot be used to form negative imperatives, i.e., it cannot be used to mean "don't" (for which use {-Qo':v} instead)[1; 3]. However, a command such as {HIleghbe'moH:sen:nolink} is possible.[3] This suffix can be applied to verbs used as adjectives.[2]</column>
-      <column name="notes_de">Dies folgt dem Konzept, das es negiert. Es kann nicht verwendet werden, um negative Imperative zu bilden, d. H. Es kann nicht verwendet werden, um "nicht" zu bedeuten (für die stattdessen {-Qo':v} verwendet wird). [1; 3]. Ein Befehl wie {HIleghbe'moH:sen:nolink} ist jedoch möglich.[3] Dieses Suffix kann auf Verben angewendet werden, die als Adjektive verwendet werden.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به دنبال مفهومی است که آن را نفی می کند. این نمی تواند مورد استفاده قرار گیرد برای ایجاد ضرورت های منفی ، به عنوان مثال ، نمی توان آن را به معنای "نه" (که در عوض از {-Qo':v} استفاده می کند) استفاده کرد [1; 3]. با این حال ، دستوری مانند {HIleghbe'moH:sen:nolink} امکان پذیر است.[3] این پسوند را می توان برای افعال استفاده شده به عنوان صفت اعمال کرد.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta följer konceptet som den negerar. Det kan inte användas för att bilda negativa krav, dvs det kan inte användas för att betyda "inte" (för vilket använd {-Qo':v} istället) [1; 3]. Emellertid är ett kommando som {HIleghbe'moH:sen:nolink} möjligt.[3] Det här suffixet kan tillämpas på verb som används som adjektiv.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это следует концепции, которая отрицает. Его нельзя использовать для формирования отрицательных императивов, то есть его нельзя использовать для обозначения «не» (для которого вместо этого используется {-Qo':v}) [1; 3]. Однако такая команда, как {HIleghbe'moH:sen:nolink}, возможна.[3] Этот суффикс можно применять к глаголам, используемым в качестве прилагательных.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這遵循其否定的概念。它不能用於形成否定命令，即不能用於表示「不要」（為此使用{-Qo':v}代替）[1; 3]。但是，可以使用諸如{HIleghbe'moH:sen:nolink}之類的命令。[3]該後綴可以應用於用作形容詞的動詞。[2] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso segue o conceito que nega. Ele não pode ser usado para formar imperativos negativos, ou seja, não pode ser usado para significar "não" (para o qual, em vez disso, use {-Qo':v}) [1; 3]. No entanto, um comando como {HIleghbe'moH:sen:nolink} é possível.[3] Esse sufixo pode ser aplicado aos verbos usados ​​como adjetivos.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä seuraa käsitystä, jonka se hylkää. Sitä ei voida käyttää muodostamaan negatiivisia vaatimuksia, toisin sanoen sitä ei voida käyttää merkitsemään "älä" (johon käytetään {-Qo':v} sen sijaan) [1; 3]. Komento, kuten {HIleghbe'moH:sen:nolink}, on kuitenkin mahdollista.[3] Tätä jälkiliitettä voidaan soveltaa verbeihin, joita käytetään adjektiivina.[2] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="notes">This follows the concept it negates. It cannot be used to form negative imperatives, i.e., it cannot be used to mean "don't" (for which use {-Qo':v} instead)[1; 3]. However, a command such as {HIleghbe'moH:sen:nolink} is possible.[3; 4] This suffix can be applied to verbs used as adjectives.[2]</column>
+      <column name="notes_de">Dies folgt dem Konzept, das es negiert. Es kann nicht verwendet werden, um negative Imperative zu bilden, d. H. Es kann nicht verwendet werden, um "nicht" zu bedeuten (für die stattdessen {-Qo':v} verwendet wird). [1; 3]. Ein Befehl wie {HIleghbe'moH:sen:nolink} ist jedoch möglich.[3; 4] Dieses Suffix kann auf Verben angewendet werden, die als Adjektive verwendet werden.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fa">این به دنبال مفهومی است که آن را نفی می کند. این نمی تواند مورد استفاده قرار گیرد برای ایجاد ضرورت های منفی ، به عنوان مثال ، نمی توان آن را به معنای "نه" (که در عوض از {-Qo':v} استفاده می کند) استفاده کرد [1; 3]. با این حال ، دستوری مانند {HIleghbe'moH:sen:nolink} امکان پذیر است.[3; 4] این پسوند را می توان برای افعال استفاده شده به عنوان صفت اعمال کرد.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Detta följer konceptet som den negerar. Det kan inte användas för att bilda negativa krav, dvs det kan inte användas för att betyda "inte" (för vilket använd {-Qo':v} istället) [1; 3]. Emellertid är ett kommando som {HIleghbe'moH:sen:nolink} möjligt.[3; 4] Det här suffixet kan tillämpas på verb som används som adjektiv.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_ru">Это следует концепции, которая отрицает. Его нельзя использовать для формирования отрицательных императивов, то есть его нельзя использовать для обозначения «не» (для которого вместо этого используется {-Qo':v}) [1; 3]. Однако такая команда, как {HIleghbe'moH:sen:nolink}, возможна.[3; 4] Этот суффикс можно применять к глаголам, используемым в качестве прилагательных.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_zh_HK">這遵循其否定的概念。它不能用於形成否定命令，即不能用於表示「不要」（為此使用{-Qo':v}代替）[1; 3]。但是，可以使用諸如{HIleghbe'moH:sen:nolink}之類的命令。[3; 4]該後綴可以應用於用作形容詞的動詞。[2] [AUTOTRANSLATED]</column>
+      <column name="notes_pt">Isso segue o conceito que nega. Ele não pode ser usado para formar imperativos negativos, ou seja, não pode ser usado para significar "não" (para o qual, em vez disso, use {-Qo':v}) [1; 3]. No entanto, um comando como {HIleghbe'moH:sen:nolink} é possível.[3; 4] Esse sufixo pode ser aplicado aos verbos usados ​​como adjetivos.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tämä seuraa käsitystä, jonka se hylkää. Sitä ei voida käyttää muodostamaan negatiivisia vaatimuksia, toisin sanoen sitä ei voida käyttää merkitsemään "älä" (johon käytetään {-Qo':v} sen sijaan) [1; 3]. Komento, kuten {HIleghbe'moH:sen:nolink}, on kuitenkin mahdollista.[3; 4] Tätä jälkiliitettä voidaan soveltaa verbeihin, joita käytetään adjektiivina.[2] [AUTOTRANSLATED]</column>
+      <column name="hidden_notes">In 2017, it was clarified that {-be':v:suff,nolink} can appear in an imperative construction to form a command meaning "do not-X!", and that the proscription in {TKD:src} (which says "The suffix {-be':v:suff,nolink} cannot be used with imperative verbs") is about when the meaning of the command is "don't do X!" (in which case {-Qo':v:suff,nolink} must be used). A shortened, edited version of the explanation (without examples) first appeared at {qep'a' 24 (2017):src}. A longer version of the explanation was subsequently included in the {Saarbrücken qepHom'a' 2017:src} booklet, which is where the example sentence {HIleghbe'moH:sen:nolink} appears.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {wa'maH yIHmey lI'be'@@wa'maH:n, yIH:n, -mey:n, lI':v:1, -be':v} "ten useless tribbles"[2]</column>
@@ -2817,7 +2833,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD 4.3:src}, [2] {PK:src}, [3] {qep'a' 24 (2017):src}</column>
+      <column name="source">[1] {TKD 4.3:src}, [2] {PK:src}, [3] {qep'a' 24 (2017):src}, [4] {Saarbrücken qepHom'a' 2017:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>

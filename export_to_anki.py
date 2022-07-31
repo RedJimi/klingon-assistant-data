@@ -141,7 +141,7 @@ pos_to_tag = {
 
 src_to_tag = {
   "TKD": "Klingon_from_TKD",
-  "TKDA": "Klingon_from_TKD",
+  "TKDA": "Klingon_from_TKD",  # Not a typo; treat TKD/TKDA as one tag for Anki decks.
   "TKW": "Klingon_from_TKW",
   "KGT": "Klingon_from_KGT",
   "CK": "Klingon_from_CK",
@@ -150,12 +150,14 @@ src_to_tag = {
   "BoP": "Klingon_from_BoP",
   "HQ": "Klingon_from_HQ",
   "TNK": "Klingon_from_TalkNow",
+  "QelIS boqHarmey": "Klingon_from_Alice_in_Wonderland",
 }
 
 lang_to_deck_guid = {
   'en': 2024552849,
   'de': 1699081434,
   'pt': 1407434471,
+  'fi': 1255797072,
 }
 
 # Parse arguments.
@@ -228,10 +230,14 @@ def alt_extract_definition(qawHaq, search_name, attrs):
   alt_search_name = alt_entry_name + ":" + match.group(2) + (":" + match.group(3) if match.group(3) else "")
   return extract_definition(qawHaq[alt_search_name], attrs), alt_entry_name
 
-# Get tag for first matching source. It is assumed that earlier sources are more
-# important. The return value can be None, so it should be checked before use.
+# Get tag for first matching source. Sources appearing earlier in the list are
+# matched before sources appearing later. The return value can be None, so it
+# should be checked before use.
 def get_src_tag(data):
-  sources = data['source'].split(',')
+  # TODO: There is a bug here that sources with internal commas are not
+  # detected correctly. For example, "[1] {HQ 8.4, p.11, Dec. 1999:src}" is
+  # split into 3 parts.
+  sources = data['source'].split(', ')
   for source in sources:
     for src in src_to_tag:
       # Each source is of the form: "[1] {TKD:src}", "[2] {KGT p.123:src}", etc.
@@ -241,9 +247,9 @@ def get_src_tag(data):
 
     for year in range(1994, 2022):
       ordinal = year - 1993
-      source_matches = re.findall(r"\[\d\] {{qep'a' {} ({}):src}}".format(year, ordinal), source)
+      source_matches = re.findall(r"\[\d\] {{qep'a' {} \({}\):src}}".format(ordinal, year), source)
       if source_matches:
-        return "Klingon_from_qepa{}_{}".format(year, ordinal)
+        return "Klingon_from_qepa{}_{}".format(ordinal, year)
 
       source_matches = re.findall(r"\[\d\] {{Saarbru\u0308cken qepHom'a' {}:src}}".format(year), source)
       if source_matches:

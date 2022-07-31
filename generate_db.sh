@@ -3,6 +3,15 @@
 # Get the directory with the original data.
 SOURCE_DIR=$PWD
 
+# Sanity check that the export to Anki script isn't broken.
+# TODO: Check not only that the script succeeds, but that the output is as
+# expected.
+./export_to_anki.py --test > /dev/null
+if [[ ! $? = 0 ]]; then
+    echo "Anki export is broken."
+    exit
+fi
+
 # Check for non-interactive mode flag.
 if [[ "$1" = "--noninteractive" ]]
 then
@@ -124,6 +133,15 @@ then
     echo
 fi
 
+# Print any empty Finnish definitions.
+MISSING_FI=$(grep -B8 "definition_fi\"><" $TMP_DIR/mem.xml | grep "entry_name")
+if [[ ! -z "$MISSING_FI" ]]
+then
+    echo "Missing Finnish definitions:"
+    echo "$MISSING_FI"
+    echo
+fi
+
 # Print any untranslated entries.
 MISSED_TRANSLATE=$(grep ">TRANSLATE<" $TMP_DIR/mem.xml)
 if [[ ! -z "$MISSED_TRANSLATE" ]]
@@ -148,6 +166,44 @@ if [[ ! -z "$BROKEN_REFERENCES" ]]
 then
     echo "Broken references:"
     echo "$BROKEN_REFERENCES"
+    echo
+fi
+
+# Print any sources which are not empty but don't begin with "[".
+MISSED_SOURCE_BRACKET=$(grep "source\">[^\[<]" $TMP_DIR/mem.xml)
+if [[ ! -z "$MISSED_SOURCE_BRACKET" ]]
+then
+    echo "Missing source index:"
+    echo "$MISSED_SOURCE_BRACKET"
+    echo
+fi
+
+# Print any sources missing its type.
+MISSED_SOURCE_TYPE=$(grep "source\">.*{[^:]*}" $TMP_DIR/mem.xml)
+if [[ ! -z "$MISSED_SOURCE_TYPE" ]]
+then
+    echo "Missing source type:"
+    echo "$MISSED_SOURCE_TYPE"
+    echo
+fi
+
+# Print any new entries containing {ngh} or {ngH}. The "xifan hol" expansion
+# logic in the Android app needs to be updated if any such entries are added.
+NGH_DIFF=$(grep "entry_name\">.*ng[hH]" $TMP_DIR/mem.xml | diff - expected_ngh.txt)
+if [[ ! -z "$NGH_DIFF" ]]
+then
+    echo "Changed entries with {ngh} or {ngH}:"
+    echo "$NGH_DIFF"
+    echo
+fi
+
+# Print any new 2-letter verbs. The parsing logic in the Android app needs to
+# be updated if any such verbs are added.
+TWO_LETTER_VERBS_DIFF=$(grep -B1 "part_of_speech\">v" $TMP_DIR/mem.xml | grep "entry_name\">..<" | diff - expected_two_letter_verbs.txt)
+if [[ ! -z "$TWO_LETTER_VERBS_DIFF" ]]
+then
+    echo "Changed two-letter verbs:"
+    echo "$TWO_LETTER_VERBS_DIFF"
     echo
 fi
 

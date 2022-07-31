@@ -64,7 +64,7 @@
       <column name="notes_zh_HK">這是{Qu'vatlh:excl}的簡化形式。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma forma abreviada de {Qu'vatlh:excl}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä on lyhennetty {Qu'vatlh:excl}-muoto. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">This might be a retrofit for a line misspoken by Patrick Stewart in {TNG - The Mind's Eye:src}. The script says {Qu'vatlh:excl:nolink}, but he says {va:excl:nolink} instead.</column>
+      <column name="hidden_notes">This might be a backfit for a line misspoken by Patrick Stewart in {TNG - The Mind's Eye:src}. The script says {Qu'vatlh:excl:nolink}, but he says {va:excl:nolink} instead.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -693,7 +693,6 @@
       <column name="source">[1] {KGT p.113:src}</column>
     </table>
     <table name="mem">
-      <!-- Look up {mu'mey val:n} "wise words" in the {paq'batlh:src}. -->
       <column name="_id"></column>
       <column name="entry_name">val</column>
       <column name="part_of_speech">v:is,klcp1</column>
@@ -976,7 +975,7 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
       <column name="notes_ru">Предметом этого глагола является человек, вызывающий конец события. Объект - это событие, которое закончено. Если событие было преждевременно завершено, используйте {ghang:v}. Чтобы описать окончание периода времени, используйте {Dor:v:2}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O assunto desse verbo é a pessoa que está causando o término de um evento. O objeto é o evento que terminou. Se o evento foi prematuramente encerrado, use {ghang:v}. Para descrever o final de um período, use {Dor:v:2}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämän verbin aihe on henkilö, joka aiheuttaa tapahtuman päättymisen. Kohde on tapahtuma, joka on päättynyt. Jos tapahtuma lopetettiin ennenaikaisesti, käytä sen sijaan {ghang:v}. Käytä ajanjakson päättymistä kuvaamalla {Dor:v:2}. [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tämän verbin subjekti on henkilö, joka aiheuttaa tapahtuman päättymisen. Objekti on loppuva tapahtuma. Jos tapahtuma lopetettiin ennenaikaisesti, käytetään tämän sanan sijasta verbiä {ghang:v}. Ajanjakson päättymisestä käytetäänv verbiä {Dor:v:2}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1386,7 +1385,7 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKDA:src}, [2] {paq'batlh p.140-141:src}</column>
+      <column name="source">[1] {TKDA:src}, [2] {paq'batlh 2ed p.142-143:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1741,7 +1740,7 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
       <column name="_id"></column>
       <column name="entry_name">vatlh</column>
       <column name="part_of_speech">n:num</column>
-      <column name="definition">hundred</column>
+      <column name="definition">hundred (number-forming element)</column>
       <column name="definition_de">hundert</column>
       <column name="definition_fa">صد</column>
       <column name="definition_sv">hundra (nummerbildande element)</column>
@@ -1751,8 +1750,8 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
       <column name="definition_fi">sata</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{maH:n:2,num}, {SaD:n:num}, {SanID:n:num}</column>
-      <column name="notes"></column>
+      <column name="see_also">{mI':n}, {maH:n:2,num}, {SaD:n:num}, {SanID:n:num}</column>
+      <column name="notes">This is a number-forming element, and not itself a number. The number 100 (one hundred) is {wa'vatlh:n:num,nolink} in Klingon.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -1779,6 +1778,92 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">vatlhbIp</column>
+      <column name="part_of_speech">n:num,deriv</column>
+      <column name="definition">ten million (number-forming element)</column>
+      <column name="definition_de">zehn Millionen (zahlenbildendes Element) [AUTOTRANSLATED]</column>
+      <column name="definition_fa">ده میلیون (عنصر تشکیل دهنده اعداد) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">tio miljoner (nummerbildande element) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">десять миллионов (числообразующий элемент) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">一千萬（數字形成元素） [AUTOTRANSLATED]</column>
+      <column name="definition_pt">dez milhões (elemento formador de número) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">kymmenen miljoonaa</column>
+      <column name="synonyms">{maH'uy':n}</column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components">{vatlh:n:num}, {bIp:n:num}</column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 27 (2020):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">vatlhSaghan</column>
+      <column name="part_of_speech">n:num,deriv</column>
+      <column name="definition">hundred billion (number-forming element)</column>
+      <column name="definition_de">hundert Milliarden (zahlenbildendes Element) [AUTOTRANSLATED]</column>
+      <column name="definition_fa">صد میلیارد (عنصر تشکیل دهنده اعداد) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">hundra miljarder (nummerbildande element) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">сто миллиардов (числообразующий элемент) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">千億（數字形成元素） [AUTOTRANSLATED]</column>
+      <column name="definition_pt">cem bilhões (elemento formador de número) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">sata miljardia</column>
+      <column name="synonyms">{bIp'uy':n}</column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components">{vatlh:n:num}, {Saghan:n:num}</column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1823,6 +1908,49 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">vatlh'uy'</column>
+      <column name="part_of_speech">n:num,deriv</column>
+      <column name="definition">hundred million (number-forming element)</column>
+      <column name="definition_de">hundert Millionen (zahlenbildendes Element) [AUTOTRANSLATED]</column>
+      <column name="definition_fa">صد میلیون (عنصر تشکیل دهنده اعداد) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">hundra miljoner (nummerbildande element) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">сто миллионов (числообразующий элемент) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">億（數字形成元素） [AUTOTRANSLATED]</column>
+      <column name="definition_pt">cem milhões (elemento formador de número) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">sata miljoonaa</column>
+      <column name="synonyms">{SaDbIp:n}, {SanIDbIp:n}</column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components">{vatlh:n:num}, {'uy':n:num}</column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1914,6 +2042,49 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {qep'a' 25 (2018):src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">vatlhmoH</column>
+          <column name="part_of_speech">v:t_c,deriv</column>
+          <column name="definition">roll up (a scroll)</column>
+          <column name="definition_de">aufrollen (z.B. eine Schriftrolle)</column>
+          <column name="definition_fa">جمع کردن (یک طومار) [AUTOTRANSLATED]</column>
+          <column name="definition_sv">rulla ihop (en rulla) [AUTOTRANSLATED]</column>
+          <column name="definition_ru">свернуть (свиток) [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">捲起（捲軸） [AUTOTRANSLATED]</column>
+          <column name="definition_pt">enrolar (um pergaminho)</column>
+          <column name="definition_fi">kääriä rullalle</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{tetlh:n}, {Qumran:n}</column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{vatlh:v}, {-moH:v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {QelIS boqHarmey:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vav</column>
@@ -1928,7 +2099,7 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
       <column name="definition_fi">isä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{SoS:n}, {vavoy:n}, {'emrIgh:n}, {qaytu':n}</column>
+      <column name="see_also">{SoS:n}, {vavoy:n}, {'emrIgh:n}, {qaytu':n}, {pal'ar:n}</column>
       <column name="notes">The siblings of a {vav:n:nolink} are {tennuS:n} and {'e'mam:n}.</column>
       <column name="notes_de">Die Geschwister eines {vav:n:nolink} sind {tennuS:n} und {'e'mam:n}. [AUTOTRANSLATED]</column>
       <column name="notes_fa">خواهر و برادرهای {vav:n:nolink} {tennuS:n} و {'e'mam:n} هستند. [AUTOTRANSLATED]</column>
@@ -1960,7 +2131,7 @@ Val Kilmer portrayed Batman in the movie "Batman Forever".</column>
         <table name="mem">
           <column name="_id"></column>
           <column name="entry_name">vavoy</column>
-          <column name="part_of_speech">n:deriv,being</column>
+          <column name="part_of_speech">n:being,deriv</column>
           <column name="definition">daddy</column>
           <column name="definition_de">Papi</column>
           <column name="definition_fa">بابا</column>
@@ -2168,7 +2339,7 @@ Toisin kuin {pIl:v}, tämä viittaa itse motivaatioon. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">Visually, "v" and "y" look triangular and there are two "y"s.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -2555,7 +2726,7 @@ To express the ideas of indefinite subject and ability at the same time, it is n
       <column name="definition_fi">turkki</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{DIr:n}, {veDDIr:n}, {jIb:n}</column>
+      <column name="see_also">{DIr:n}, {veDDIr:n}, {pob:n}, {jIb:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -2631,7 +2802,7 @@ To express the ideas of indefinite subject and ability at the same time, it is n
       <column name="_id"></column>
       <column name="entry_name">vegh</column>
       <column name="part_of_speech">v:t_c</column>
-      <column name="definition">go through (an open door, a tunnel, etc.)</column>
+      <column name="definition">go through an existing opening (an open door, a tunnel, etc.)</column>
       <column name="definition_de">(durch Tür, Tunnel usw.) hindurchgehen</column>
       <column name="definition_fa">بروید (درب باز، یک تونل و غیره) [AUTOTRANSLATED]</column>
       <column name="definition_sv">gå igenom (en öppen dörr, tunnel etc.)</column>
@@ -2642,26 +2813,42 @@ To express the ideas of indefinite subject and ability at the same time, it is n
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chob:n}, {'och:n}, {lojmIt:n}, {tol:v}, {'aw:v}</column>
-      <column name="notes">This verb only means to go through an opening of some sort, and not "to traverse" (in the sense of "going through" a forest).[1] The object is the thing being gone through. {-Daq:n:suff} is unnecessary.[2]</column>
-      <column name="notes_de">Dieses Verb bedeutet nur, durch eine Öffnung zu gehen und nicht "zu durchqueren" (im Sinne von "durch einen Wald gehen") .[1] Das Objekt ist das, was durchgemacht wird. {-Daq:n:suff} ist nicht erforderlich.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این فعل فقط به معنای گذر از باز شدن نوعی است و نه "گذشتن" (به معنای "عبور از یک جنگل") .[1] شیء همان چیزی است که از بین می رود. {-Daq:n:suff} غیر ضروری است.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta verb betyder bara att gå igenom en öppning av något slag, och inte "att korsa" (i betydelsen "gå igenom" en skog).[1] Objektet är det som går igenom. {-Daq:n:suff} är onödigt.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Этот глагол означает только пройти через какое-то отверстие, а не «пройти» (в смысле «пройти» через лес) .[1] Объект - это вещь, через которую проходили. {-Daq:n:suff} не нужен.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">該動詞僅意味著經過某種開口，而不意味著「經過」（在「經過」森林的意義上）。[1]對像是正在經歷的事物。 {-Daq:n:suff}是不必要的。[2] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este verbo significa apenas passar por algum tipo de abertura, e não "atravessar" (no sentido de "atravessar" uma floresta) .[1] O objeto é a coisa que está sendo atravessada. {-Daq:n:suff} é desnecessário.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä verbi tarkoittaa vain käydä läpi jonkinlaisen aukon eikä "kulkea" (siinä mielessä, että "käydä läpi" metsän). {-Daq:n:suff} on tarpeeton.[2][1] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="notes">This verb only means to go through an opening of some sort, and not "to traverse" (in the sense of "going through" a forest).[1] The object is the thing being gone through. {-Daq:n:suff} is unnecessary.[2]
+
+For {vegh:v:nolink} to be applicable, the object must completely encircle the vector of travel, so it would not apply to a bridge unless it was covered over. But this need not be exact, in that a meshwork or cage-like object would count.[5] If one wanders around in a tunnel, it would not be {vegh:v:nolink}, and conversely, if a tunnel-like covered path goes through a forest, {vegh:v:nolink} might be applicable.[6]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes">This was the word awarded to the winning team at a contest during {qep'a' 4 (1997):src}. The requested word was "go through", and four example sentences were provided to MO to clarify the meaning: "the bullet goes through the man's heart", "the hunter goes through the forest", "the train goes through the tunnel", and "the bird goes through the [open] window". MO noted that these were three different concepts, with the latter two sentences illustrating the same idea, which is expressed by {vegh:v:nolink}.[1]
+
+This is defined as "go through (an open door, a tunnel, etc.)" in the KLI new words list. However, other attendees wrote down different definitions, such as "go through (an existing aperture)".[1; 2]
+
+In the chapter where the sentence {ghe'tor vegh Duj:sen:nolink} appears, the Barge of the Dead goes through Gre'thor as if it were merely an opening into Sto-vo-kor, which is why {vegh:v:nolink} is appropriate.[6]</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {bISuvtaHvIS qarDaS bIghHa' peQ botjan Daveghchu'.:sen:nolink} "Fight your way beyond magnetic shield of Cardassian prison."[3]
-▶ {QIStaq qoD DISDaq:sen:nolink}
-   {tu''egh qeylIS'e':sen:nolink}
-   {DIS veghlu'chugh:sen:nolink}
-   {pa' Heghpu'bogh nuvpu' qa'pu' tu'lu':sen:nolink}
-  "In the heart of Kri'stak,
-   Kahless finds himself in a cave
+▶ {DIS 'elpu' 'e' tlhoj:sen:nolink}
+   {DISvam veghlu'chugh:sen:nolink}
+   {yInbogh nuvpu' Hutlhbogh qo'Daq pawlu':sen:nolink}
+  "Kahless finds himself in a cave
    Leading to
-   The world beyond the living"[4, p.84-85]</column>
+   The world beyond the living."[4, p.90-91]
+▶ {tlhoS lojmit vegh:sen:nolink}
+   {qeylIS pal'arpu'Daj je:sen:nolink}
+   {'elDI' veqlargh:sen:nolink}
+  "Kahless and his kin
+   Were almost at the gates,
+   When Fek'lhr came in."[4, p.112-113]
+▶ {ghe'tor vegh Duj:sen:nolink}
+   {Suto'vo'qor lojmItmey 'el Duj:sen:nolink}
+   {qeylIS vanlu'chu' 'ej naDlu'chu':sen:nolink}
+  "The barge went through Gre'thor
+   Into the gates of Sto-vo-kor,
+   Kahless was given a hero's welcome."[4, p.184-185]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -2677,7 +2864,7 @@ To express the ideas of indefinite subject and ability at the same time, it is n
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {HQ 6.3, p.5-8, Sept. 1997:src}, [2] {HQ 7.4, Dec. 1998:src}, [3] {Klingon Monopoly:src}, [4] {paq'batlh:src}, [5] {KLI mailing list 2013.07.29:src}</column>
+      <column name="source">[1] {HQ 6.3, p.5-8, Sept. 1997:src}, [2] {HQ 7.4, Dec. 1998:src}, [3] {Klingon Monopoly:src}, [4] {paq'batlh 2ed:src}, [5] {KLI mailing list 2013.07.29:src}, [6] {KLI mailing list 2022.06.24:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -2789,11 +2976,14 @@ To express the ideas of indefinite subject and ability at the same time, it is n
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">{SkyBox 99:src} had only the Klingon text. The English and German text come from {SkyBox 01:src} and {SkyBox 95:src}, respectively, which were just translations into those languages of the same card.</column>
       <column name="components"></column>
       <column name="examples">
-▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink}[1]</column>
-      <column name="examples_de"></column>
+▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink}
+  "It waits... on the edge of the galaxy, beside a passage to unknown regions of the universe, space station Deep Space Nine is the gateway for the exploration, intrigue and enterprise that mark the continuation of the human adventure into space - the final frontier."[1]</column>
+      <column name="examples_de">
+▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink}
+  "Sie wartet... am Rande der Galaxie neben einer Durchfahrt in unbekannte Regionen des Universums. Die Raumstation Deep Space Nine ist der Ausgangspunkt für Entdeckungen, Intrigen und Unternehmungen, die immer weitere Abenteuer des Menschen im Weltraum bedeuten - die letzte Grenze."[1]</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
@@ -2853,7 +3043,11 @@ Tätä verbiä käytetään kuvaamaan maton asettamista. Henkilöä, joka asetta
       <column name="components"></column>
       <column name="examples">
 ▶ {rav vel tlhIm.:sen:nolink} "The carpet covers the floor."
-▶ {rav velmeH tlhIm lo'.:sen:nolink} "He lays the carpet on the floor."</column>
+▶ {rav velmeH tlhIm lo'.:sen:nolink} "He lays the carpet on the floor."
+▶ {chaH vel negh 'Iw ghaylu'pu'mo':sen:nolink}
+   {nga'chuq:sen:nolink}
+  "Showered with the soldiers' blood,
+   They mated"[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -2869,12 +3063,12 @@ Tätä verbiä käytetään kuvaamaan maton asettamista. Henkilöä, joka asetta
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {KLI mailing list 2012.01.09:src}</column>
+      <column name="source">[1] {KLI mailing list 2012.01.09:src}, [2] {paq'batlh 2ed p.138-139:src}</column>
     </table>
         <table name="mem">
           <column name="_id"></column>
           <column name="entry_name">velwI'</column>
-          <column name="part_of_speech">n:deriv,being</column>
+          <column name="part_of_speech">n:being,deriv</column>
           <column name="definition">carpet layer (person)</column>
           <column name="definition_de">Fußbodenleger (Person)</column>
           <column name="definition_fa">لایه فرش (شخص) [AUTOTRANSLATED]</column>
@@ -3313,7 +3507,7 @@ Seuraavissa esimerkeissä voidaan käyttää tiettyä sormen tai varpaan nimeä 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">venwI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">nerd</column>
       <column name="definition_de">Nerd</column>
       <column name="definition_fa">نرد [AUTOTRANSLATED]</column>
@@ -3419,7 +3613,7 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">veng wa'DIch</column>
-      <column name="part_of_speech">n:place,fic,deriv</column>
+      <column name="part_of_speech">n:place,deriv,fic</column>
       <column name="definition">First City; capital of {Qo'noS:n}</column>
       <column name="definition_de">Erste Stadt, Hauptstadt von {Qo'noS:n}</column>
       <column name="definition_fa">شهر اول</column>
@@ -3462,7 +3656,7 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">veng wa'DIch Sep</column>
-      <column name="part_of_speech">n:place,fic,deriv</column>
+      <column name="part_of_speech">n:place,deriv,fic</column>
       <column name="definition">First City region</column>
       <column name="definition_de">Region der Ersten Stadt</column>
       <column name="definition_fa">منطقه اول شهر [AUTOTRANSLATED]</column>
@@ -3949,7 +4143,7 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hut'In vIl:n}</column>
-      <column name="notes"></column>
+      <column name="notes">In context, this can also refer to a button for clothing (see {Sut veragh:n}).</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -3979,51 +4173,8 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">veranchISqo</column>
-      <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">Francisco</column>
-      <column name="definition_de">Francisco</column>
-      <column name="definition_fa">فرانسیسکو [AUTOTRANSLATED]</column>
-      <column name="definition_sv">Francisco [AUTOTRANSLATED]</column>
-      <column name="definition_ru">Франциско [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">弗朗西斯科 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">Francisco</column>
-      <column name="definition_fi">Francisco</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{Hamlet:n:name}</column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components"></column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {Hamlet:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
       <column name="entry_name">verengan</column>
-      <column name="part_of_speech">n:being,fic,deriv</column>
+      <column name="part_of_speech">n:being,deriv,fic</column>
       <column name="definition">Ferengi</column>
       <column name="definition_de">Ferengi</column>
       <column name="definition_fa">فرنگی [AUTOTRANSLATED]</column>
@@ -4486,7 +4637,7 @@ Em {Klingon Monopoly:src}, "Estacionamento gratuito" é traduzido como {vergh 'a
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chovnatlh:n}, {'aplo':n}</column>
-      <column name="notes"></column>
+      <column name="notes">If the things in the set are connected or arranged in some way, then an appropriate word might be {qol:n:1h}.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -4516,7 +4667,7 @@ Em {Klingon Monopoly:src}, "Estacionamento gratuito" é traduzido como {vergh 'a
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {Klingon Monopoly:src}</column>
+      <column name="source">[1] {Klingon Monopoly:src}, [2] {Saarbrücken qepHom'a' 2021:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -4648,6 +4799,49 @@ Em {Klingon Monopoly:src}, "Estacionamento gratuito" é traduzido como {vergh 'a
       <column name="search_tags_fi"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2013:src}, [2] {Star Trek Into Darkness:src}</column>
     </table>
+      <table name="mem">
+        <column name="_id"></column>
+        <column name="entry_name">ve'Ha'</column>
+        <column name="part_of_speech">v:i,deriv</column>
+        <column name="definition">be wavy (hair)</column>
+        <column name="definition_de">wellig sein (Haare)</column>
+        <column name="definition_fa">موج دار بودن (مو) [AUTOTRANSLATED]</column>
+        <column name="definition_sv">vara vågig (hår) [AUTOTRANSLATED]</column>
+        <column name="definition_ru">быть волнистым (волосы) [AUTOTRANSLATED]</column>
+        <column name="definition_zh_HK">呈波浪狀（頭髮） [AUTOTRANSLATED]</column>
+        <column name="definition_pt">ser ondulado (cabelo) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">olla kihara</column>
+        <column name="synonyms"></column>
+        <column name="antonyms"></column>
+        <column name="see_also">{tlhep:v}</column>
+        <column name="notes">Idiomatically, wavy hair is said to "travel aimlessly" or something like that. Straight hair would be described as {tlhep:v}.[1]</column>
+        <column name="notes_de"></column>
+        <column name="notes_fa"></column>
+        <column name="notes_sv"></column>
+        <column name="notes_ru"></column>
+        <column name="notes_zh_HK"></column>
+        <column name="notes_pt"></column>
+        <column name="notes_fi"></column>
+        <column name="hidden_notes"></column>
+        <column name="components"></column>
+        <column name="examples"></column>
+        <column name="examples_de"></column>
+        <column name="examples_fa"></column>
+        <column name="examples_sv"></column>
+        <column name="examples_ru"></column>
+        <column name="examples_zh_HK"></column>
+        <column name="examples_pt"></column>
+        <column name="examples_fi"></column>
+        <column name="search_tags"></column>
+        <column name="search_tags_de"></column>
+        <column name="search_tags_fa"></column>
+        <column name="search_tags_sv"></column>
+        <column name="search_tags_ru"></column>
+        <column name="search_tags_zh_HK"></column>
+        <column name="search_tags_pt"></column>
+        <column name="search_tags_fi"></column>
+        <column name="source">[1] {Saarbrücken qepHom'a' 2021:src}</column>
+      </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vI-</column>
@@ -4883,7 +5077,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="definition_fi">jakolevy ?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{wab:n}, {SIp:n}</column>
+      <column name="see_also">{wab:n}, {SIp:n}, {QIb:v}, {muSghoraw:n}</column>
       <column name="notes">This is a device that regulates the flow of gas, sound, etc.</column>
       <column name="notes_de">Dies ist ein Gerät, das den Fluss von Gas, Schall usw. reguliert. [AUTOTRANSLATED]</column>
       <column name="notes_fa">این وسیله ای است که جریان گاز ، صدا و غیره را تنظیم می کند. [AUTOTRANSLATED]</column>
@@ -4926,7 +5120,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="definition_fi">eräs kissan kaltainen eläin, v'gro</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{tI'qa' vIghro':n}, {ghISnar:n}, {'Imyagh:excl}, {Huy:v:1}, {Saj:n}</column>
+      <column name="see_also">{tI'qa' vIghro':n}, {ghISnar:n}, {'Imyagh:excl}, {Huy:v:1}, {Saj:n}, {lIS'ab:n}, {pu'vengmey:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -5100,7 +5294,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">työntömoottori, moottori</column>
       <column name="source">[1] {TKD:src}</column>
     </table>
     <table name="mem">
@@ -5190,6 +5384,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="source">[1] {qep'a' 25 (2018):src}</column>
     </table>
     <table name="mem">
+      <!-- A reference to someone named "Phil"? -->
       <column name="_id"></column>
       <column name="entry_name">vIl</column>
       <column name="part_of_speech">n</column>
@@ -5200,12 +5395,11 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="definition_ru">кто-то или что-то, кто только там; кто-то, кто рядом, когда ты [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">某人或某物就在那裡;你身邊的人 [AUTOTRANSLATED]</column>
       <column name="definition_pt">alguém ou algo que está lá; alguém que está por perto quando você está</column>
-      <column name="definition_fi">joku tai jokin, joka on läsnä kun itse on läsnä?; hidaste, töyssy</column>
+      <column name="definition_fi">joku tai jokin, joka on aina läsnä kun itse on läsnä; hidaste, töyssy?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes"></column>
-      <!-- A reference to someone named "Phil"? -->
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -5236,7 +5430,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vIlle'</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:being</column>
       <column name="definition">follower, disciple, fan, admirer, minion</column>
       <column name="definition_de">Folger, Fan, Bewunderer, Anhänger</column>
       <column name="definition_fa">پیرو، شاگرد، فن، تحسین، مینیون [AUTOTRANSLATED]</column>
@@ -5279,7 +5473,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vIlHom</column>
-      <column name="part_of_speech">n:deriv,body</column>
+      <column name="part_of_speech">n:body,deriv</column>
       <column name="definition">forehead ridge</column>
       <column name="definition_de">Stirnfalte</column>
       <column name="definition_fa">ریش پیشانی [AUTOTRANSLATED]</column>
@@ -5291,15 +5485,15 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghul:n}</column>
-      <column name="notes">The suggestion was made at {qep'a' 16 (2009):src} that a {vIlHom:n:nolink} could be a single ridge in a {Quch:n}.</column>
-      <column name="notes_de">Der Vorschlag wurde bei {qep'a' 16 (2009):src} gemacht, dass ein {vIlHom:n:nolink} ein einzelner Grat in einem {Quch:n} sein könnte. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این پیشنهاد در {qep'a' 16 (2009):src} که {vIlHom:n:nolink} می تواند یک خط الراس تک در {Quch:n} باشد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Förslaget gjordes vid {qep'a' 16 (2009):src} att en {vIlHom:n:nolink} kan vara en enda kam i en {Quch:n}. [AUTOTRANSLATED]</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">A sugestão foi feita em {qep'a' 16 (2009):src} de que um {vIlHom:n:nolink} poderia ser uma única crista em um {Quch:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Ehdotus tehtiin kohdassa {qep'a' 16 (2009):src}, että {vIlHom:n:nolink} voisi olla yksi harjanne {Quch:n}: ssa. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes">The suggestion was made at {qep'a' 16 (2009):src} that a {vIlHom:n:nolink} could be a single ridge in a {Quch:n}. This was affirmed by MO.</column>
       <column name="components">{vIl:v:1} or {vIl:n:2,hyp,nolink}, {Hom:n:1}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -5373,7 +5567,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="definition_ru">{lor:n:0} или {tey':n:0}; двоюродный брат, племянник / племянница [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">{lor:n:0}或{tey':n:0};堂兄、侄子/侄女 [AUTOTRANSLATED]</column>
       <column name="definition_pt">{lor:n:0} ou {tey':n:0}; primo, sobrinho / sobrinha</column>
-      <column name="definition_fi">{lor:n:0} tai {tey':n:0}; serkku, veljentytär, tyttärentytär, veljenpoika, tyttärenpoika</column>
+      <column name="definition_fi">{lor:n:0} tai {tey':n:0}; serkku, sisaruksen lapsi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lor:n:0}, {tey':n:0}, {yur:n}</column>
@@ -5402,7 +5596,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">veljentytär, tyttärentytär, veljenpoika, tyttärenpoika</column>
       <column name="source">[1] {HQ 9.3, Sept. 2000:src}</column>
     </table>
     <table name="mem">
@@ -5638,12 +5832,11 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="see_also">{jan:n:1}, {SommI':n}, {mutlh:v}</column>
       <column name="notes">This term is more general than a visual piece of art. It covers that, but also an artifact (not in the archeological sense), handicraft, gizmo, gadget, contraption, machine, device, etc. That is, it refers to something manufactured or made.[1] It could be used for a product produced by a company (if the product was physical).[2]</column>
       <column name="notes_de">Dieser Begriff ist allgemeiner als ein visuelles Kunstwerk. Es behandelt das, aber auch ein Artefakt (nicht im archäologischen Sinne), Kunsthandwerk, Gizmo, Gadget, Gerät, Maschine, Gerät usw. Das heißt, es bezieht sich auf etwas Hergestelltes oder Hergestelltes.[1] Es könnte für ein hergestelltes Produkt verwendet werden von einem Unternehmen (wenn das Produkt physisch war).[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این اصطلاح عمومی تر از یک قطعه هنری بصری است. این شامل موارد مصنوعی (نه به معنای باستان شناسی) ، صنایع دستی ، اسباب بازی ، اسباب بازی ، وسایل نقلیه ، دستگاه ، دستگاه و غیره است. به این معنی که به چیزهای تولید شده یا ساخته شده اشاره دارد. [1] توسط یک شرکت (اگر محصول فیزیکی بود) .[2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Denna term är mer allmän än ett visuellt konstverk. Det täcker det, men också en artefakt (inte i arkeologisk mening), hantverk, gizmo, gadget, kontraption, maskin, anordning etc. Det vill säga det hänvisar till något tillverkat eller tillverkat.[1] av ett företag (om produkten var fysisk). [2] [AUTOTRANSLATED]</column>
+      <column name="notes_fa">این اصطلاح عمومی تر از یک قطعه هنری بصری است. این شامل موارد مصنوعی (نه به معنای باستان شناسی) ، صنایع دستی ، اسباب بازی ، اسباب بازی ، وسایل نقلیه ، دستگاه ، دستگاه و غیره است. به این معنی که به چیزهای تولید شده یا ساخته شده اشاره دارد.[1] توسط یک شرکت (اگر محصول فیزیکی بود) .[2] [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Denna term är mer allmän än ett visuellt konstverk. Det täcker det, men också en artefakt (inte i arkeologisk mening), hantverk, gizmo, gadget, kontraption, maskin, anordning etc. Det vill säga det hänvisar till något tillverkat eller tillverkat.[1] av ett företag (om produkten var fysisk).[2] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Этот термин является более общим, чем визуальное произведение искусства. Он охватывает это, а также артефакт (не в археологическом смысле), изделия ручной работы, штуковину, гаджет, штуковину, машину, устройство и т. Д. То есть это относится к чему-то произведенному или изготовленному.[1] компанией (если товар был физическим).[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個術語比視覺藝術品更為籠統。它涵蓋了其中的內容，但同時還涵蓋了人工製品（不是考古意義上的），手工藝品，小發明，小工具，設備，機器，設備等。也就是說，它指的是製造或製造的東西。[1]由公司（如果產品為實體產品）。[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-      <column name="notes_pt">Este termo é mais geral do que uma obra de arte visual. Abrange isso, mas também um artefato (não no sentido arqueológico), artesanato, gizmo, engenhoca, engenhoca, máquina, dispositivo, etc. Ou seja, refere-se a algo fabricado ou feito. por uma empresa (se o produto era físico) .[2][1] [AUTOTRANSLATED]</column>
+      <column name="notes_pt">Este termo é mais geral do que uma obra de arte visual. Abrange isso, mas também um artefato (não no sentido arqueológico), artesanato, gizmo, engenhoca, engenhoca, máquina, dispositivo, etc. Ou seja, refere-se a algo fabricado ou feito.[1] por uma empresa (se o produto era físico).[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä termi kattaa valmistetut fyysiset esineet, kuten taideteokset, käsityöt, koneet, laitteet ja keksinnöt[1]. Sitä voi käyttää yrityksen valmistamista fyysisistä tuotteista[2].</column>
       <column name="hidden_notes">"Fake rock".</column>
       <column name="components"></column>
@@ -5839,6 +6032,49 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">vIrveq</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">terrorism</column>
+      <column name="definition_de">Terrorismus</column>
+      <column name="definition_fa">تروریسم [AUTOTRANSLATED]</column>
+      <column name="definition_sv">terrorism [AUTOTRANSLATED]</column>
+      <column name="definition_ru">терроризм [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">恐怖主義 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">terrorismo</column>
+      <column name="definition_fi">terrorismi</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{jIvvo':n}</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">vISeHmeH Hoch nuHmey Qay!</column>
       <column name="part_of_speech">sen:phr</column>
       <column name="definition">All weapons to my control!</column>
@@ -5885,7 +6121,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="entry_name">vIt</column>
       <column name="part_of_speech">v:t,klcp1</column>
       <column name="definition">tell the truth</column>
-      <column name="definition_de">wahrheit sprechen</column>
+      <column name="definition_de">die Wahrheit sprechen</column>
       <column name="definition_fa">حقیقت را بگو [AUTOTRANSLATED]</column>
       <column name="definition_sv">säga sanningen</column>
       <column name="definition_ru">говорить правду</column>
@@ -6636,7 +6872,7 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">voDleH</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:being</column>
       <column name="definition">emperor</column>
       <column name="definition_de">Imperator</column>
       <column name="definition_fa">امپراتور [AUTOTRANSLATED]</column>
@@ -6819,7 +7055,7 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
       <column name="definition_ru">залоговая стоимость [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">抵押價值 [AUTOTRANSLATED]</column>
       <column name="definition_pt">valor da hipoteca</column>
-      <column name="definition_fi">asuntolainan arvo</column>
+      <column name="definition_fi">kiinnityksen arvo</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{voHDajbo':n}, {qav'ap:n}, {wel:v}</column>
@@ -6908,7 +7144,7 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
       <column name="definition_fi">olkapää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{DeS:n:1}, {mong:n}, {ro:n}, {wIlle':n}</column>
+      <column name="see_also">{DeS:n:1}, {mong:n}, {ro:n}, {qayrI'Hom:n}, {wIlle':n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -6936,49 +7172,6 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">voltImaD</column>
-      <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">Voltimand</column>
-      <column name="definition_de">Voltimand</column>
-      <column name="definition_fa">ولیمانداند [AUTOTRANSLATED]</column>
-      <column name="definition_sv">Voltimand [AUTOTRANSLATED]</column>
-      <column name="definition_ru">Вольтиманд [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">Voltimand [AUTOTRANSLATED]</column>
-      <column name="definition_pt">Voltimand</column>
-      <column name="definition_fi">Voltimand</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{Hamlet:n:name}</column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components"></column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {Hamlet:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -7431,7 +7624,7 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
       <column name="synonyms"></column>
       <column name="antonyms">{veb:v}</column>
       <column name="see_also">{nung:v}, {ret:v}</column>
-      <column name="notes">One can also use {nungbogh:v@@nung:v, -bogh:v}.</column>
+      <column name="notes">One can also use {nungbogh:v@@nung:v, -bogh:v}.[1]</column>
       <column name="notes_de">Man kann auch {nungbogh:v@@nung:v, -bogh:v} verwenden. [AUTOTRANSLATED]</column>
       <column name="notes_fa">همچنین می توان از {nungbogh:v@@nung:v, -bogh:v} استفاده کرد. [AUTOTRANSLATED]</column>
       <column name="notes_sv">Man kan också använda {nungbogh:v@@nung:v, -bogh:v}. [AUTOTRANSLATED]</column>
@@ -7441,7 +7634,9 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
       <column name="notes_fi">Voidaan käyttää myös {nungbogh:v@@nung:v, -bogh:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">
+▶ {tera' DIS wa' Hut vagh Hut, bI'reS puv 'amerI'qa' 'ev chan 'ev X-wa'maH vagh. muDDaq neH muD Dujmey vorgh lu'orlu', 'ach loghDaq puvlaH Dujmey 'orbogh nuv 'e' 'agh X-wa'maH vagh.:sen:nolink}
+  "First flown in 1959, the North American X-15 bridged the gap between human flight in the atmosphere and spaceflight."[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -7457,50 +7652,7 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {qep'a' 23 (2016):src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">vortIbraS</column>
-      <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">Fortinbras</column>
-      <column name="definition_de">Fortinbras</column>
-      <column name="definition_fa">فورتینبراس [AUTOTRANSLATED]</column>
-      <column name="definition_sv">Fortinbras [AUTOTRANSLATED]</column>
-      <column name="definition_ru">Фортинбрас [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">福丁布拉 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">Fortinbras</column>
-      <column name="definition_fi">Fortinbras</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{Hamlet:n:name}</column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components"></column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {Hamlet:src}</column>
+      <column name="source">[1] {qep'a' 23 (2016):src}, [2] {Smithsonian GO FLIGHT app:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -7558,6 +7710,49 @@ Tällä alueella on sanastoeroja {ta' Hol:n}:iin. Termeillä, joilla on erilaine
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {KGT:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">votlh</column>
+      <column name="part_of_speech">v:is</column>
+      <column name="definition">be narcissistic</column>
+      <column name="definition_de">narzisstisch sein [AUTOTRANSLATED]</column>
+      <column name="definition_fa">خودشیفته باش [AUTOTRANSLATED]</column>
+      <column name="definition_sv">vara narcissistisk [AUTOTRANSLATED]</column>
+      <column name="definition_ru">быть самовлюбленным [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">自戀 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">ser narcisista [AUTOTRANSLATED]</column>
+      <column name="definition_fi">olla narsistinen [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{'eDjen:n}, {mIy:v}, {nguq:v}</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 29 (2022):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -7692,7 +7887,50 @@ It was stated during the Q &amp; A session that the primary meaning of this word
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {paq'batlh p.76-77:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {paq'batlh 2ed p.84-85:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">vo'nung</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">phase (physics)</column>
+      <column name="definition_de">Phasenwinkel, Phase</column>
+      <column name="definition_fa">فاز (فیزیک) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">fas (fysik) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">фаза (физика) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">相（物理） [AUTOTRANSLATED]</column>
+      <column name="definition_pt">fase (física)</column>
+      <column name="definition_fi">vaihe (matematiikka)</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This refers to the fraction of a wave cycle. It is not used for phases of the moon or phases of life and so on.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -7870,7 +8108,7 @@ It was stated during the Q &amp; A session that the primary meaning of this word
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {paq'batlh p.136-137:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {paq'batlh 2ed p.138-139:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -8048,7 +8286,7 @@ It was stated during the Q &amp; A session that the primary meaning of this word
         <table name="mem">
           <column name="_id"></column>
           <column name="entry_name">vulqangan</column>
-          <column name="part_of_speech">n:being,fic,deriv,klcp1</column>
+          <column name="part_of_speech">n:being,deriv,fic,klcp1</column>
           <column name="definition">Vulcan (person)</column>
           <column name="definition_de">Vulkanier</column>
           <column name="definition_fa">ولکان (شخص)</column>
@@ -8071,11 +8309,11 @@ There is a Klingon idiom, {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v}, w
           <column name="notes_ru"></column>
           <column name="notes_zh_HK">This transliteration is used in the subtitles of {Star Trek V:src} among other places.</column>
           <column name="notes_pt"></column>
-          <column name="notes_fi">Vulcania kutsutaan joskus myös englanniksi vulcaniansiksi.[2]
+          <column name="notes_fi">Vulkanuslaisia kutsutaan suomessa joskus myös vulkaneiksi.
 
-Huomaa, että tämä on {vulqangan:n:nolink} eikä {vulqanngan:n:nolink} ({n:sen:nolink} {vulqan:n:nolink}: n lopussa hylätään).
+Huomaa, että tämä sana on {vulqangan:n:nolink} eikä {vulqanngan:n:nolink} ({n:sen:nolink} sanan {vulqan:n:nolink} lopussa putoaa pois).
 
-On olemassa klingonin idioomi {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v}, joka on tarkoitettu ironisesti. [AUTOTRANSLATED]</column>
+On sanonta {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v}, jota käytetään ivallisesti.</column>
           <column name="hidden_notes"></column>
           <column name="components">{vulqan:n}, {ngan:n}</column>
           <column name="examples"></column>
@@ -8093,7 +8331,7 @@ On olemassa klingonin idioomi {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi"></column>
+          <column name="search_tags_fi">vulkani</column>
           <column name="source">[1] {TKD:src}, [2] {TOS - Errand of Mercy:src}</column>
         </table>
     <table name="mem">
@@ -8360,7 +8598,7 @@ On olemassa klingonin idioomi {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {paq'batlh p.140-141:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {paq'batlh 2ed p.142-143:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -8494,7 +8732,7 @@ On olemassa klingonin idioomi {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vutmeH 'un</column>
-      <column name="part_of_speech">n:reg,deriv</column>
+      <column name="part_of_speech">n:deriv,reg</column>
       <column name="definition">flat-bottomed pot for food preparation</column>
       <column name="definition_de">flacher Topf zur Nahrungsbereitung</column>
       <column name="definition_fa">ظرف پلاستیکی برای تهیه غذا [AUTOTRANSLATED]</column>
@@ -8580,7 +8818,7 @@ On olemassa klingonin idioomi {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vutwI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">cook, chef</column>
       <column name="definition_de">Koch</column>
       <column name="definition_fa">سرآشپز [AUTOTRANSLATED]</column>
@@ -8623,7 +8861,7 @@ On olemassa klingonin idioomi {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vutwI' quv</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">head chef</column>
       <column name="definition_de">Chefkoch</column>
       <column name="definition_fa">سرآشپز [AUTOTRANSLATED]</column>
@@ -8840,7 +9078,7 @@ On olemassa klingonin idioomi {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vu'wI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">manager</column>
       <column name="definition_de">Verwalter, Manager</column>
       <column name="definition_fa">مدیر [AUTOTRANSLATED]</column>

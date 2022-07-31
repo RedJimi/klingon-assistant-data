@@ -101,7 +101,7 @@
       <column name="definition_fi">vähetä (kuusta tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tabHa':v}</column>
-      <column name="see_also">{qeq:v}</column>
+      <column name="see_also">{qeq:v}, {Dach:v:2}</column>
       <column name="notes">This word can be used when talking about phases of a moon, for example, but it's not used to refer to living things (people, animals, plants) except idiomatically. To say to someone, {bItab:sen@@bI-:v, tab:v} is to say "you are not applying yourself fully to the task at hand." It would be extremely unlikely to hear a Klingon say {jItab:sen@@jI-:v, tab:v} "I wane" or {matab:sen@@ma-:v, tab:v} "we wane".[1]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -474,7 +474,7 @@ Canon violations of this rule include:
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tagh</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:body</column>
       <column name="definition">lung</column>
       <column name="definition_de">Lunge</column>
       <column name="definition_fa">ریه [AUTOTRANSLATED]</column>
@@ -656,7 +656,7 @@ Harkitse verbiliitteen {-choH:v:suff} sijaan, että käytät verbiä {tagh:v:nol
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This was defined as "continue, go on, survive" in {TKDA:src} and as "survive" in {KGT:src}.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {taH pagh taHbe'.:sen}
@@ -704,7 +704,7 @@ Harkitse verbiliitteen {-choH:v:suff} sijaan, että käytät verbiä {tagh:v:nol
       <column name="notes_zh_HK">這是指太空中的船頭向下旋轉的船隻。旋轉90度的負角將意味著船頭相對於先前的方向筆直指向下方。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma nave espacial que girou o nariz para baixo. Uma rotação em um ângulo negativo de 90 graus significaria que o nariz do navio estava apontado diretamente para baixo em relação à sua orientação anterior.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä viittaa avaruudessa olevaan alukseen, joka on pyörittänyt nenäänsä alaspäin. 90 asteen negatiivisen kulman kiertäminen tarkoittaisi, että aluksen nenä osoitti suoraan alaspäin edelliseen suuntaan nähden.[2] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">The mailing list message refers to an explanation given at SerenityCon.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -927,57 +927,100 @@ Katso tämä {Brian Rivera:url:http://www.imdb.com/name/nm2092459/}n esittämän
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}, [2] {SkyBox 2:src} (reprinted in {HQ 3.4, p.10-11, Dec. 1994:src})</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tajHom</column>
-      <column name="part_of_speech">n:deriv</column>
-      <column name="definition">extra blade on a d'k tahg</column>
-      <column name="definition_de">kleine Klingen am D'k tahg</column>
-      <column name="definition_fa">تیغه اضافی در tahg d'k [AUTOTRANSLATED]</column>
-      <column name="definition_sv">extra blad på en katt [AUTOTRANSLATED]</column>
-      <column name="definition_ru">Боковое лезвие клинка d'k tahg</column>
-      <column name="definition_zh_HK">額外的刀片在d k tahg上 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">lâmina extra em um d'k tahg</column>
-      <column name="definition_fi">ylimääräinen terä d'k tahgissa</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{Daqtagh:n}</column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{taj:n}, {-Hom:n}</column>
-      <column name="examples">
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">taj Hol</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">propaganda</column>
+          <column name="definition_de">Propaganda</column>
+          <column name="definition_fa">تبلیغات [AUTOTRANSLATED]</column>
+          <column name="definition_sv">propaganda [AUTOTRANSLATED]</column>
+          <column name="definition_ru">пропаганда [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">宣傳 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">propaganda</column>
+          <column name="definition_fi">propaganda</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{taj:n}, {Hol:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {qep'a' 28 (2021):src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tajHom</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">extra blade on a d'k tahg</column>
+          <column name="definition_de">kleine Klingen am D'k tahg</column>
+          <column name="definition_fa">تیغه اضافی در tahg d'k [AUTOTRANSLATED]</column>
+          <column name="definition_sv">extra blad på en katt [AUTOTRANSLATED]</column>
+          <column name="definition_ru">Боковое лезвие клинка d'k tahg</column>
+          <column name="definition_zh_HK">額外的刀片在d k tahg上 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">lâmina extra em um d'k tahg</column>
+          <column name="definition_fi">ylimääräinen terä d'k tahgissa</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{Daqtagh:n}</column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{taj:n}, {-Hom:n}</column>
+          <column name="examples">
 ▶ {SuvwI' taj:sen:nolink}
    {lI'qu' tlhIngan may' taj. not Hub'eghrupHa' lo'wI'. taj DopmeyDaq nargh cha' tajHom. ghop luQan tajHommey. pe'laH je. moQDaq DuQwI'Hommey jej tu'lu'. pay' HIvDI' lo'wI' pagh mupDI' QIHchu' bIH.:sen:nolink}
   "Blade of the Warrior
    The Klingon battle knife is designed primarily for versatility of use, so that the user is never caught at a disadvantage. Two small, secondary blades eject from the knife's sides, providing both a hand guard and another set of cutting edges. A brutally spiked pommel fastens the hilt together to provide a damaging surprise attack or give a devastating backhand stroke."[2]</column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {KGT:src}, [2] {SkyBox 2:src} (reprinted in {HQ 3.4, p.10-11, Dec. 1994:src})</column>
-    </table>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {KGT:src}, [2] {SkyBox 2:src} (reprinted in {HQ 3.4, p.10-11, Dec. 1994:src})</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tajtIq</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:deriv</column>
       <column name="definition">type of knife (long blade)</column>
       <column name="definition_de">Messertyp (mit besonders langer Klinge, fast wie ein Schwert gehandhabt)</column>
       <column name="definition_fa">نوع چاقو (تیغه بلند) [AUTOTRANSLATED]</column>
@@ -1275,135 +1318,135 @@ Katso tämä {Brian Rivera:url:http://www.imdb.com/name/nm2092459/}n esittämän
       <column name="search_tags_fi"></column>
       <column name="source">[1] {BoP:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tal jo'</column>
-      <column name="part_of_speech">n:deriv</column>
-      <column name="definition">cannon machinery</column>
-      <column name="definition_de">Kanonen-Maschine</column>
-      <column name="definition_fa">ماشین آلات توپ [AUTOTRANSLATED]</column>
-      <column name="definition_sv">kanon maskineri [AUTOTRANSLATED]</column>
-      <column name="definition_ru">пушечная техника [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">大砲機械 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">maquinaria de canhão</column>
-      <column name="definition_fi">tykin koneisto</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tal:n}, {jo':n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {BoP:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tal QanwI'</column>
-      <column name="part_of_speech">n:deriv</column>
-      <column name="definition">cannon guard</column>
-      <column name="definition_de">Kanonen-Wächter</column>
-      <column name="definition_fa">نگهبان توپ [AUTOTRANSLATED]</column>
-      <column name="definition_sv">kanonvakt [AUTOTRANSLATED]</column>
-      <column name="definition_ru">пушечная охрана [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">大砲守衛 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">guarda de canhão</column>
-      <column name="definition_fi">tykin vartija ?</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tal:n}, {Qan:v}, {-wI':v}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {BoP:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tal SeHwI' nguSDI'</column>
-      <column name="part_of_speech">n:deriv</column>
-      <column name="definition">cannon control motor</column>
-      <column name="definition_de">Kanonen-Steuermotor</column>
-      <column name="definition_fa">موتور کنترل توپ [AUTOTRANSLATED]</column>
-      <column name="definition_sv">kanonkontrollmotor [AUTOTRANSLATED]</column>
-      <column name="definition_ru">при́вод нацеливания орудия</column>
-      <column name="definition_zh_HK">加農炮控制馬達 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">motor de controle de canhão</column>
-      <column name="definition_fi">tykin ohjausmoottori</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tal:n}, {SeH:v}, {-wI':v}, {nguSDI':n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {BoP:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tal jo'</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">cannon machinery</column>
+          <column name="definition_de">Kanonen-Maschine</column>
+          <column name="definition_fa">ماشین آلات توپ [AUTOTRANSLATED]</column>
+          <column name="definition_sv">kanon maskineri [AUTOTRANSLATED]</column>
+          <column name="definition_ru">пушечная техника [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">大砲機械 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">maquinaria de canhão</column>
+          <column name="definition_fi">tykin koneisto</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tal:n}, {jo':n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {BoP:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tal QanwI'</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">cannon guard</column>
+          <column name="definition_de">Kanonen-Wächter</column>
+          <column name="definition_fa">نگهبان توپ [AUTOTRANSLATED]</column>
+          <column name="definition_sv">kanonvakt [AUTOTRANSLATED]</column>
+          <column name="definition_ru">пушечная охрана [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">大砲守衛 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">guarda de canhão</column>
+          <column name="definition_fi">tykin vartija ?</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tal:n}, {Qan:v}, {-wI':v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {BoP:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tal SeHwI' nguSDI'</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">cannon control motor</column>
+          <column name="definition_de">Kanonen-Steuermotor</column>
+          <column name="definition_fa">موتور کنترل توپ [AUTOTRANSLATED]</column>
+          <column name="definition_sv">kanonkontrollmotor [AUTOTRANSLATED]</column>
+          <column name="definition_ru">при́вод нацеливания орудия</column>
+          <column name="definition_zh_HK">加農炮控制馬達 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">motor de controle de canhão</column>
+          <column name="definition_fi">tykin ohjausmoottori</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tal:n}, {SeH:v}, {-wI':v}, {nguSDI':n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {BoP:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">talarngan</column>
@@ -1446,6 +1489,49 @@ Katso tämä {Brian Rivera:url:http://www.imdb.com/name/nm2092459/}n esittämän
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {KGT:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">tallIt</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">cobalt</column>
+      <column name="definition_de">Kobalt</column>
+      <column name="definition_fa">کبالت</column>
+      <column name="definition_sv">kobolt</column>
+      <column name="definition_ru">кобальт</column>
+      <column name="definition_zh_HK">鈷 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">cobalto</column>
+      <column name="definition_fi">koboltti</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This is the metallic chemical element with the symbol Co and atomic number 27.</column>
+      <column name="notes_de">Dies ist das metallische chemische Element mit dem Symbol Co und der Ordnungszahl 27.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {Saarbrücken qepHom'a' 2021:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1538,7 +1624,7 @@ Katso tämä {Brian Rivera:url:http://www.imdb.com/name/nm2092459/}n esittämän
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tamey ngo'</column>
-      <column name="part_of_speech">n:deriv,plural</column>
+      <column name="part_of_speech">n:plural,deriv</column>
       <column name="definition">archives</column>
       <column name="definition_de">Archiv</column>
       <column name="definition_fa">بایگانی [AUTOTRANSLATED]</column>
@@ -1615,7 +1701,13 @@ Uma luz fraca seria {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (enquanto {tamg
 Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tamghay Hurgh:n@@tamghay:n, Hurgh:v} kuulostaa oudolta).[1][2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to Tom G. Smith of Industrial Light &amp; Magic, who oversaw visual effects production for {Star Trek II:src} and {Star Trek III:src}.</column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">
+▶ {lubejtaHvIS Heghna' mInDu':sen:nolink}
+   {betleHvo' veqlargh mInDu' mIghDaq:sen:nolink}
+   {'et tamghay:sen:nolink}
+  "When the eyes of death are upon him,
+   Light reflects off the bat'leth
+   Into Fek'lhr's evil eyes."[3, p.104-105]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -1631,7 +1723,7 @@ Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tam
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {KLI mailing list 2018.01.26:src}, [2] {KLI mailing list 2018.01.29:src}</column>
+      <column name="source">[1] {KLI mailing list 2018.01.26:src}, [2] {KLI mailing list 2018.01.29:src}, [3] {paq'batlh 2ed:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1690,7 +1782,7 @@ Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tam
       <column name="definition_fi">alkuaine</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{HeySel:n}, {'o'rIS:n}, {yugh:v}</column>
+      <column name="see_also">{HeySel:n}, {'o'rIS:n}, {yugh:v}, {ghalmov:n}</column>
       <column name="notes">Known words for elements include:
 ▶ {bettI':n}
 ▶ {bIQSIp:n}
@@ -1706,7 +1798,11 @@ Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tam
 ▶ {qol'om:n}
 ▶ {SIrlIy:n}
 ▶ {Sorpuq:n}
+▶ {tallIt:n}
+▶ {targho'nI':n}
+▶ {tarngeb:n}
 ▶ {velSo':n}
+▶ {wa'ngoQ:n}
 ▶ {voQSIp:n}
 ▶ {yInSIp:n}
 ▶ {yuHSIQ:n}
@@ -1733,7 +1829,11 @@ Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tam
 ▶ {qol'om:n}
 ▶ {SIrlIy:n}
 ▶ {Sorpuq:n}
+▶ {tallIt:n}
+▶ {targho'nI':n}
+▶ {tarngeb:n}
 ▶ {velSo':n}
+▶ {wa'ngoQ:n}
 ▶ {voQSIp:n}
 ▶ {yInSIp:n}
 ▶ {yuHSIQ:n}
@@ -1773,7 +1873,7 @@ Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tam
           <column name="definition_fi">kemia</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
-          <column name="see_also">{tamler:n}, {QeD:n}, {HapQeD:n}, {yugh:v}, {'uch:v:3}, {ghIqtu':n}, {tamlertej:n}</column>
+          <column name="see_also">{tamler:n}, {QeD:n}, {HapQeD:n}, {yugh:v}, {'uch:v:3}, {ghIqtu':n}, {tamlertej:n}, {ghalmov:n}</column>
           <column name="notes"></column>
           <column name="notes_de"></column>
           <column name="notes_fa"></column>
@@ -1957,15 +2057,15 @@ Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tam
       <column name="notes_fi"></column>
       <column name="hidden_notes">A reference to the sound made.
 
-The English translation of the sentence from {Star Trek Constellations:src} does not appear in the book, but in the author's annotations which was a separate document. The {'e':n:pro} was probably a mistake, but can be rationalized as a typo for {-'e':n:suff}.</column>
+The English translation of the sentence from {Star Trek Constellations:src} does not appear in the book, but in the author's annotations which was a separate document. The Klingon sentence was printed with a typo in the book, a space after {qIrq:n:name}. It's clear that {-'e':n:suff} was intended since the English translation fronts "Kirk": "Kirk I want alive" (as opposed to "I want Kirk alive").</column>
       <column name="components"></column>
       <column name="examples">
-▶ {yIntaH qIrq 'e' vIneH. DaSwIj bIngDaq latlhpu' vItap.:sen@@yIn:v, -taH:v, qIrq:n:name, -'e':n, vI-:v, neH:v, DaS:n, -wIj:n, bIng:n, -Daq:n, latlh:n, -pu':n, vI-:v, tap:v} "Kirk I want alive. The rest I will grind beneath my boot."[2]</column>
+▶ {yIntaH qIrq'e' vIneH. DaSwIj bIngDaq latlhpu' vItap.:sen@@yIn:v, -taH:v, qIrq:n:name, -'e':n, vI-:v, neH:v, DaS:n, -wIj:n, bIng:n, -Daq:n, latlh:n, -pu':n, vI-:v, tap:v} "Kirk I want alive. The rest I will grind beneath my boot."[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru">
-▶ {yIntaH qIrq 'e' vIneH. DaSwIj bIngDaq latlhpu' vItap.:sen@@yIn:v, -taH:v, qIrq:n:name, -'e':n, vI-:v, neH:v, DaS:n, -wIj:n, bIng:n, -Daq:n, latlh:n, -pu':n, vI-:v, tap:v} "Кирка я хочу взять живым. Остальных я разотру под своим ботинком."[2]</column>
+▶ {yIntaH qIrq'e' vIneH. DaSwIj bIngDaq latlhpu' vItap.:sen@@yIn:v, -taH:v, qIrq:n:name, -'e':n, vI-:v, neH:v, DaS:n, -wIj:n, bIng:n, -Daq:n, latlh:n, -pu':n, vI-:v, tap:v} "Кирка я хочу взять живым. Остальных я разотру под своим ботинком."[2]</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
@@ -2002,7 +2102,7 @@ The English translation of the sentence from {Star Trek Constellations:src} does
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">Tämä on kirsikkaa muistuttava hedelmä. Kun tarvitaan selvennystä, maan hedelmää edeltää {tera':n}. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">Getting three cherries in a slot machine means hitting the "jackpot".</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -2557,6 +2657,49 @@ Tämä murre on tavallaan puolivälissä tavallisen murteen ja {Qotmagh Sep:n}-m
         </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">targhoroj</column>
+      <column name="part_of_speech">n:anim</column>
+      <column name="definition">crab</column>
+      <column name="definition_de">Krabbe, Krebs</column>
+      <column name="definition_fa">خرچنگ [AUTOTRANSLATED]</column>
+      <column name="definition_sv">krabba [AUTOTRANSLATED]</column>
+      <column name="definition_ru">краб [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">螃蟹 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">caranguejo</column>
+      <column name="definition_fi">eräs rapua muistuttava eläin</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This is one of several crab-like animals found on {Qo'noS:n}.</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">targho'nI'</column>
       <column name="part_of_speech">n</column>
       <column name="definition">tungsten</column>
@@ -2775,6 +2918,49 @@ The fact that this looks like {tar:n} "poison" and {ngeb:v} "fake" might just be
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tat taS</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">electrolyte</column>
+          <column name="definition_de">Elektrolyt</column>
+          <column name="definition_fa">الکترولیت [AUTOTRANSLATED]</column>
+          <column name="definition_sv">elektrolyt [AUTOTRANSLATED]</column>
+          <column name="definition_ru">электролит [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">電解質 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">eletrólito</column>
+          <column name="definition_fi">elektrolyytti</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tat:n}, {taS:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {qep'a' 28 (2021):src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tatlh</column>
@@ -2906,6 +3092,49 @@ The fact that this looks like {tar:n} "poison" and {ngeb:v} "fake" might just be
       <column name="search_tags_fi"></column>
       <column name="source">[1] {qep'a' 24 (2017):src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tav neH</column>
+          <column name="part_of_speech">sen:idiom</column>
+          <column name="definition">tinker</column>
+          <column name="definition_de">basteln</column>
+          <column name="definition_fa">قلع و قمع [AUTOTRANSLATED]</column>
+          <column name="definition_sv">knåpa [AUTOTRANSLATED]</column>
+          <column name="definition_ru">возиться [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">修補匠 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">consertar (mexer para tentar consertár)</column>
+      <column name="definition_fi">värkätä, väsäillä</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This slang expression literally means "merely shake". If the context is clear that "shake" in the literal sense is not what is meant, {tav:v} alone can be used.[1]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tav:v}, {neH:adv}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {Saarbrücken qepHom'a' 2021:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">taw</column>
@@ -3482,7 +3711,7 @@ This refers to the expression "going to hell ({Hel:sen:nolink}) in a hand ({ghop
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {TKW p.34:src}, [3] {paq'batlh p.158-159:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {TKW p.34:src}, [3] {paq'batlh 2ed p.156-157:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -3896,7 +4125,7 @@ This refers to the expression "going to hell ({Hel:sen:nolink}) in a hand ({ghop
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">In {TOS - Elaan of Troyius:src}, Spock says that the Klingons claim jurisdiction over {telun Hovtay':n}. As a number of other words in {TKD:src} also come from this episode, it's likely that {teblaw':n:nolink} was intended to translate "jurisdiction" in this abstract sense.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -3919,7 +4148,7 @@ This refers to the expression "going to hell ({Hel:sen:nolink}) in a hand ({ghop
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tebwI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">food server in a Dok'e (fast-food restaurant)</column>
       <column name="definition_de">Bedienung in einem Dok'e (Fast-Food Restaurant)</column>
       <column name="definition_fa">سرور غذا در Dok'e (رستوران فست فود) [AUTOTRANSLATED]</column>
@@ -4032,13 +4261,13 @@ This refers to the expression "going to hell ({Hel:sen:nolink}) in a hand ({ghop
 ▶ {naDev Sughompu':sen:nolink}
    {'ej Qo'noS SuvwI'pu' Hem tlhIH:sen:nolink}
    {qeylIS tIghmey'e':sen:nolink}
-   {DaH tIQoy:sen:nolink}
-   {teH tIghmey:sen:nolink}
-   {'ej bIH bolIjlaHbe':sen:nolink}
   "Hear now,
    All of you here,
-   Proud warriors of Kronos
-   The ways of Kahless,
+   Proud warriors of Kronos"
+  {DaH tIQoy:sen:nolink}
+   {teH tIghmey:sen:nolink}
+   {'ej bIH bolIjlaHbe':sen:nolink}
+  "The ways of Kahless,
    For they are true
    And unforgettable."[3]</column>
       <column name="examples_de"></column>
@@ -4056,7 +4285,7 @@ This refers to the expression "going to hell ({Hel:sen:nolink}) in a hand ({ghop
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {KLI mailing list 2012.03.19:src}, [3] {paq'batlh p.54-55:src}, [4] {KLI mailing list 2014.11.26:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {KLI mailing list 2012.03.19:src}, [3] {paq'batlh 2ed p.64-65:src}, [4] {KLI mailing list 2014.11.26:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -4321,7 +4550,7 @@ This word takes the suffix {-Du':n:suff} when it refers to a body part, and {-me
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tellarngan</column>
-      <column name="part_of_speech">n:being,fic,deriv</column>
+      <column name="part_of_speech">n:being,deriv,fic</column>
       <column name="definition">Tellarite</column>
       <column name="definition_de">Tellarit</column>
       <column name="definition_fa">تلاریت [AUTOTRANSLATED]</column>
@@ -4491,6 +4720,7 @@ This word takes the suffix {-Du':n:suff} when it refers to a body part, and {-me
       <column name="source">[1] {qep'a' 26 (2019):src}</column>
     </table>
     <table name="mem">
+      <!-- When this was defined, it specifically excluded certain definitions (in en and de). Be sure not to accept them as suggestions. -->
       <column name="_id"></column>
       <column name="entry_name">tem</column>
       <column name="part_of_speech">v:t_c,klcp1</column>
@@ -5091,7 +5321,7 @@ Huomaa, että ihminen ({Human:n}) on tärkeimpien maan alkuperäiskielen kykenev
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tera' bIQ lung'a'</column>
-      <column name="part_of_speech">n:anim,deriv</column>
+      <column name="part_of_speech">n:anim,deriv,terran</column>
       <column name="definition">alligator, crocodile</column>
       <column name="definition_de">Alligator, Krokodil</column>
       <column name="definition_fa">تمساح، تمساح [AUTOTRANSLATED]</column>
@@ -5134,7 +5364,7 @@ Huomaa, että ihminen ({Human:n}) on tärkeimpien maan alkuperäiskielen kykenev
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tera' ghIch rop</column>
-      <column name="part_of_speech">n:deriv</column>
+      <column name="part_of_speech">n:deriv,terran</column>
       <column name="definition">common cold</column>
       <column name="definition_de">Erkältung</column>
       <column name="definition_fa">سرماخوردگی [AUTOTRANSLATED]</column>
@@ -5177,7 +5407,7 @@ Huomaa, että ihminen ({Human:n}) on tärkeimpien maan alkuperäiskielen kykenev
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tera' nagh DIr charwI'</column>
-      <column name="part_of_speech">n:anim,deriv</column>
+      <column name="part_of_speech">n:anim,deriv,terran</column>
       <column name="definition">snail</column>
       <column name="definition_de">Schnecke</column>
       <column name="definition_fa">حلزون</column>
@@ -5220,7 +5450,7 @@ Huomaa, että ihminen ({Human:n}) on tärkeimpien maan alkuperäiskielen kykenev
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tera' na'ran</column>
-      <column name="part_of_speech">n:deriv,food</column>
+      <column name="part_of_speech">n:deriv,food,terran</column>
       <column name="definition">orange (fruit)</column>
       <column name="definition_de">Orange (Frucht)</column>
       <column name="definition_fa">پرتقال، نارنج</column>
@@ -5260,96 +5490,182 @@ Huomaa, että ihminen ({Human:n}) on tärkeimpien maan alkuperäiskielen kykenev
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TNK:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tera' na'ran'a'</column>
-      <column name="part_of_speech">n:deriv,food</column>
-      <column name="definition">grapefruit</column>
-      <column name="definition_de">Grapefruit</column>
-      <column name="definition_fa">گریپ فروت [AUTOTRANSLATED]</column>
-      <column name="definition_sv">grapefrukt</column>
-      <column name="definition_ru">грейпфрут [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">葡萄柚 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">Toranja</column>
-      <column name="definition_fi">greippi</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes">This is what Klingons would call the Terran fruit.</column>
-      <column name="notes_de">So würden Klingonen die terranische Frucht nennen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این چیزی است که کلینگون ها آن را تران می نامند. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är vad Klingons skulle kalla Terranfrukten. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это то, что клингоны назвали бы фруктами терранов. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這就是克林崗人所說的人族水果。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isto é o que os klingons chamariam de fruto terráqueo. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä Klingons kutsuisi Terran-hedelmäksi. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tera':n}, {na'ran:n}, {-'a':n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {TNK:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tera' na'ran wIb</column>
-      <column name="part_of_speech">n:deriv,food</column>
-      <column name="definition">lemon</column>
-      <column name="definition_de">Zitrone</column>
-      <column name="definition_fa">لیمو</column>
-      <column name="definition_sv">citron</column>
-      <column name="definition_ru">лимон [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">檸檬</column>
-      <column name="definition_pt">limão</column>
-      <column name="definition_fi">sitruuna</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes">This is what Klingons would call the Terran fruit.</column>
-      <column name="notes_de">So würden Klingonen die terranische Frucht nennen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این چیزی است که کلینگون ها آن را تران می نامند. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är vad Klingons skulle kalla Terranfrukten. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это то, что клингоны назвали бы фруктами терранов. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這就是克林崗人所說的人族水果。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isto é o que os klingons chamariam de fruto terráqueo. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä Klingons kutsuisi Terran-hedelmäksi. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tera':n}, {na'ran:n}, {wIb:v}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {TNK:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tera' na'ran'a'</column>
+          <column name="part_of_speech">n:deriv,food,terran</column>
+          <column name="definition">grapefruit</column>
+          <column name="definition_de">Grapefruit</column>
+          <column name="definition_fa">گریپ فروت [AUTOTRANSLATED]</column>
+          <column name="definition_sv">grapefrukt</column>
+          <column name="definition_ru">грейпфрут [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">葡萄柚 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">Toranja</column>
+          <column name="definition_fi">greippi</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This is what Klingons would call the Terran fruit.</column>
+          <column name="notes_de">So würden Klingonen die terranische Frucht nennen. [AUTOTRANSLATED]</column>
+          <column name="notes_fa">این چیزی است که کلینگون ها آن را تران می نامند. [AUTOTRANSLATED]</column>
+          <column name="notes_sv">Detta är vad Klingons skulle kalla Terranfrukten. [AUTOTRANSLATED]</column>
+          <column name="notes_ru">Это то, что клингоны назвали бы фруктами терранов. [AUTOTRANSLATED]</column>
+          <column name="notes_zh_HK">這就是克林崗人所說的人族水果。 [AUTOTRANSLATED]</column>
+          <column name="notes_pt">Isto é o que os klingons chamariam de fruto terráqueo. [AUTOTRANSLATED]</column>
+          <column name="notes_fi">Tätä Klingons kutsuisi Terran-hedelmäksi. [AUTOTRANSLATED]</column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tera':n}, {na'ran:n}, {-'a':n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {TNK:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tera' na'ran chang</column>
+          <column name="part_of_speech">n:deriv,food,terran</column>
+          <column name="definition">marmalade</column>
+          <column name="definition_de">Marmelade</column>
+          <column name="definition_fa">مارمالاد [AUTOTRANSLATED]</column>
+          <column name="definition_sv">marmelad [AUTOTRANSLATED]</column>
+          <column name="definition_ru">мармелад [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">果醬 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">marmelada</column>
+          <column name="definition_fi">marmeladi</column>
+          <column name="synonyms">{tera' na'ran HuH:n}</column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">The {tera':n:place} may be dropped if the context is clear. This literally means "gelatinous orange".</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tera' na'ran:n}, {chang:v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {QelIS boqHarmey:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tera' na'ran HuH</column>
+          <column name="part_of_speech">n:deriv,food,terran</column>
+          <column name="definition">marmalade</column>
+          <column name="definition_de">Marmelade</column>
+          <column name="definition_fa">مارمالاد [AUTOTRANSLATED]</column>
+          <column name="definition_sv">marmelad [AUTOTRANSLATED]</column>
+          <column name="definition_ru">мармелад [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">果醬 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">marmelada</column>
+          <column name="definition_fi">marmeladi</column>
+          <column name="synonyms">{tera' na'ran chang:n}</column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">The {tera':n:place} may be dropped if the context is clear. This literally means "orange slime".</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tera' na'ran:n}, {HuH:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {QelIS boqHarmey:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tera' na'ran wIb</column>
+          <column name="part_of_speech">n:deriv,food,terran</column>
+          <column name="definition">lemon</column>
+          <column name="definition_de">Zitrone</column>
+          <column name="definition_fa">لیمو</column>
+          <column name="definition_sv">citron</column>
+          <column name="definition_ru">лимон [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">檸檬</column>
+          <column name="definition_pt">limão</column>
+          <column name="definition_fi">sitruuna</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This is what Klingons would call the Terran fruit.</column>
+          <column name="notes_de">So würden Klingonen die terranische Frucht nennen. [AUTOTRANSLATED]</column>
+          <column name="notes_fa">این چیزی است که کلینگون ها آن را تران می نامند. [AUTOTRANSLATED]</column>
+          <column name="notes_sv">Detta är vad Klingons skulle kalla Terranfrukten. [AUTOTRANSLATED]</column>
+          <column name="notes_ru">Это то, что клингоны назвали бы фруктами терранов. [AUTOTRANSLATED]</column>
+          <column name="notes_zh_HK">這就是克林崗人所說的人族水果。 [AUTOTRANSLATED]</column>
+          <column name="notes_pt">Isto é o que os klingons chamariam de fruto terráqueo. [AUTOTRANSLATED]</column>
+          <column name="notes_fi">Tätä Klingons kutsuisi Terran-hedelmäksi. [AUTOTRANSLATED]</column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tera':n}, {na'ran:n}, {wIb:v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {TNK:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tera' peb'ot</column>
-      <column name="part_of_speech">n:deriv,food</column>
+      <column name="part_of_speech">n:deriv,food,terran</column>
       <column name="definition">cucumber</column>
       <column name="definition_de">gurke</column>
       <column name="definition_fa">خیار [AUTOTRANSLATED]</column>
@@ -5476,8 +5792,51 @@ Terran-kuukaudet ovat:
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">tera' raS'IS moQ naH</column>
+      <column name="part_of_speech">n:deriv,terran</column>
+      <column name="definition">pomegranate</column>
+      <column name="definition_de">Granatapfel</column>
+      <column name="definition_fa">انار [AUTOTRANSLATED]</column>
+      <column name="definition_sv">granatäpple [AUTOTRANSLATED]</column>
+      <column name="definition_ru">гранат [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">石榴 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">romã</column>
+      <column name="definition_fi">granaattiomena</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"> This is the Klingon way to refer to the Terran fruit. The {tera':n} is optional.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components">{tera':n}, {raS'IS:n}, {moQ:n}, {naH:n}</column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">tera' tlhuH rop</column>
-      <column name="part_of_speech">n:deriv</column>
+      <column name="part_of_speech">n:deriv,terran</column>
       <column name="definition">common cold</column>
       <column name="definition_de">Erkältung</column>
       <column name="definition_fa">سرماخوردگی [AUTOTRANSLATED]</column>
@@ -5520,7 +5879,7 @@ Terran-kuukaudet ovat:
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tera' yav 'atlhqam</column>
-      <column name="part_of_speech">n:deriv,food</column>
+      <column name="part_of_speech">n:deriv,food,terran</column>
       <column name="definition">mushroom</column>
       <column name="definition_de">Pilz</column>
       <column name="definition_fa">قارچ</column>
@@ -5563,7 +5922,7 @@ Terran-kuukaudet ovat:
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tera' 'arDeH</column>
-      <column name="part_of_speech">n:deriv</column>
+      <column name="part_of_speech">n:deriv,terran</column>
       <column name="definition">ivy (Terran)</column>
       <column name="definition_de">Efeu (irdisch)</column>
       <column name="definition_fa">ایوی (Terran) [AUTOTRANSLATED]</column>
@@ -5778,12 +6137,12 @@ Terran-kuukaudet ovat:
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {paq'batlh p.76-77:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {paq'batlh 2ed p.84-85:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tetyub</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:deriv</column>
       <column name="definition">enamel, coating</column>
       <column name="definition_de">Emaille, Beschichtung</column>
       <column name="definition_fa">مینا ، پوشش [AUTOTRANSLATED]</column>
@@ -5804,7 +6163,7 @@ Terran-kuukaudet ovat:
       <column name="notes_pt">Isso se refere a qualquer tipo de revestimento artificial, não apenas ao esmalte. Não se aplica aos dentes. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä viittaa mihin tahansa keinotekoiseen pinnoitteeseen, ei vain emaliin. Se ei koske hampaita. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{tet:v}, {yub:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -5837,7 +6196,7 @@ Terran-kuukaudet ovat:
       <column name="definition_fi">rulla, käärö; lista, luettelo</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{gher:v}, {patlh:v}, {Dop:v:1}, {mem:n}, {HIDjolev:n}, {buv:n}, {ghu'lIS:n}, {natlIS:n}</column>
+      <column name="see_also">{gher:v}, {patlh:v}, {Dop:v:1}, {mem:n}, {HIDjolev:n}, {buv:n}, {ghu'lIS:n}, {natlIS:n}, {vatlhmoH:v}</column>
       <column name="notes">This word can be used for anything rolled up like a scroll, and has also commonly come to denote any kind of list, while {Qumran:n} refers to a more ceremonial kind of scroll.[3]</column>
       <column name="notes_de">Dieses Wort kann für alles verwendet werden, was wie eine Schriftrolle aufgerollt ist, und bezeichnet häufig auch jede Art von Liste, während {Qumran:n} sich auf eine zeremoniellere Art von Schriftrolle bezieht.[3] [AUTOTRANSLATED]</column>
       <column name="notes_fa">این کلمه می تواند برای هر چیزی که مانند پیمایش پشته شده است ، به کار رود و همچنین معمولاً برای نشان دادن هر نوع لیست وجود دارد ، در حالی که {Qumran:n} به نوعی پیمایش پیموده شده تر اشاره دارد.[3] [AUTOTRANSLATED]</column>
@@ -5972,7 +6331,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="definition_fi">kaapia, raapia pois</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{Hew:n}, {nan:v:1}, {ghItlh:v}</column>
+      <column name="see_also">{Hew:n}, {nan:v:1}, {ghItlh:v}, {lot:v}</column>
       <column name="notes">Aside from its literal meaning, this can also be used for the sense of being close or not having wiggle room or leeway in a situation. See {tey:v:2}.[2]</column>
       <column name="notes_de">Abgesehen von seiner wörtlichen Bedeutung kann dies auch für das Gefühl verwendet werden, in einer Situation nahe zu sein oder keinen Spielraum oder Spielraum zu haben. Siehe {tey:v:2}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fa"></column>
@@ -6697,10 +7056,96 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tIH javmaH</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">X-ray</column>
+          <column name="definition_de">Röntgenstrahl</column>
+          <column name="definition_fa">اشعه ایکس [AUTOTRANSLATED]</column>
+          <column name="definition_sv">Röntgen [AUTOTRANSLATED]</column>
+          <column name="definition_ru">Рентгеновский [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">X射線 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">Raio X</column>
+          <column name="definition_fi">röntgensäde</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">Rays are identified by numbers.[1]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tIH:n:1}, {javmaH:n:num}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de">Röntgenstrahlen, Röntgenstrahlung</column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {qep'a' 28 (2021):src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tIH wej</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">gamma ray</column>
+          <column name="definition_de">Gammastrahl</column>
+          <column name="definition_fa">اشعه گاما [AUTOTRANSLATED]</column>
+          <column name="definition_sv">gammastråle [AUTOTRANSLATED]</column>
+          <column name="definition_ru">гамма-луч [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">伽馬射線 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">raio gama</column>
+          <column name="definition_fi">gammasäde</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">Rays are identified by numbers.[1]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tIH:n:1}, {wej:n:num}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de">Gammastrahlen, Gammastrahlung</column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {qep'a' 28 (2021):src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tIHmey</column>
-      <column name="part_of_speech">n:deriv,plural</column>
+      <column name="part_of_speech">n:plural,deriv</column>
       <column name="definition">railroad tracks</column>
       <column name="definition_de">Eisenbahnschienen</column>
       <column name="definition_fa">آهنگ راه آهن [AUTOTRANSLATED]</column>
@@ -6872,6 +7317,49 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">tIlqemchaw</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">thingamajig</column>
+      <column name="definition_de">Sachemajig [AUTOTRANSLATED]</column>
+      <column name="definition_fa">چیزماجیگ [AUTOTRANSLATED]</column>
+      <column name="definition_sv">thingamajig [AUTOTRANSLATED]</column>
+      <column name="definition_ru">штуковина [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">事情發生 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">coisamajig [AUTOTRANSLATED]</column>
+      <column name="definition_fi">juttu [AUTOTRANSLATED]</column>
+      <column name="synonyms">{qeQvav:n}</column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 29 (2022):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">tIn</column>
       <column name="part_of_speech">v:is,klcp1</column>
       <column name="definition">be big</column>
@@ -6884,7 +7372,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="definition_fi">olla iso, suuri</column>
       <column name="synonyms"></column>
       <column name="antonyms">{mach:v}</column>
-      <column name="see_also">{muq:v}</column>
+      <column name="see_also">{rab:v}, {Qa:v}, {muq:v}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -7004,7 +7492,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="_id"></column>
       <column name="entry_name">tIng 'ev</column>
       <column name="part_of_speech">n:deriv</column>
-      <column name="definition">westward, area toward the west</column>
+      <column name="definition">area westward, area towards the west</column>
       <column name="definition_de">Westen, Richtung Westen</column>
       <column name="definition_fa">غرب، منطقه به سمت غرب است [AUTOTRANSLATED]</column>
       <column name="definition_sv">västerut, område mot väst [AUTOTRANSLATED]</column>
@@ -7054,18 +7542,18 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="definition_ru">тип струнного инструмента [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">弦樂器的類型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de instrumento de cordas</column>
-      <column name="definition_fi">eräs kielisoitin</column>
+      <column name="definition_fi">eräs näppäiltävä kielisoitin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{pang:v}, {yach:v:2}, {Heng:v}</column>
-      <column name="notes">This is a type of {HurDagh:n}.</column>
-      <column name="notes_de">Dies ist eine Art von {HurDagh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این یک نوع {HurDagh:n} است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en typ av {HurDagh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это тип {HurDagh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是一種{HurDagh:n}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é um tipo de {HurDagh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on eräänlainen {HurDagh:n}. [AUTOTRANSLATED]</column>
+      <column name="notes">This is a type of {HurDagh:n}. It is larger than the {Supghew:n} and the {leSpal:n}.</column>
+      <column name="notes_de">Dies ist eine Art von {HurDagh:n}. Es ist größer als {Supghew:n} und {leSpal:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_fa">این یک نوع {HurDagh:n} است. بزرگتر از {Supghew:n} و {leSpal:n} است. [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Detta är en typ av {HurDagh:n}. Den är större än {Supghew:n} och {leSpal:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_ru">Это тип {HurDagh:n}. Он больше, чем {Supghew:n} и {leSpal:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_zh_HK">這是一種 {HurDagh:n}。它比 {Supghew:n} 和 {leSpal:n} 大。 [AUTOTRANSLATED]</column>
+      <column name="notes_pt">Este é um tipo de {HurDagh:n}. É maior que o {Supghew:n} e o {leSpal:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tämä on eräs näppäiltävä kielisoitin ({HurDagh:n}). Se on isompi kuin {Supghew:n} ja {leSpal:n}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7349,7 +7837,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tIqleH</column>
-      <column name="part_of_speech">n:weap,fic</column>
+      <column name="part_of_speech">n:fic,weap</column>
       <column name="definition">tik'leth</column>
       <column name="definition_de">Tik'leth</column>
       <column name="definition_fa">تیکلت [AUTOTRANSLATED]</column>
@@ -7478,7 +7966,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tIqnagh lemDu'</column>
-      <column name="part_of_speech">n:body,food,plural</column>
+      <column name="part_of_speech">n:body,plural,food</column>
       <column name="definition">tknag hooves (a food item)</column>
       <column name="definition_de">Tiknag Hufe (Nahrung)</column>
       <column name="definition_fa">هویج Tknag (یک مورد مواد غذایی) [AUTOTRANSLATED]</column>
@@ -7706,92 +8194,135 @@ Hänen kannattajansa ovat {lIr'el:n:name} ja {voq:n:name}. Hänen lippulaivansa 
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tIr ngogh</column>
-      <column name="part_of_speech">n:deriv,food</column>
-      <column name="definition">bread</column>
-      <column name="definition_de">Brot</column>
-      <column name="definition_fa">نان</column>
-      <column name="definition_sv">bröd</column>
-      <column name="definition_ru">хлеб [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">麵包</column>
-      <column name="definition_pt">pão</column>
-      <column name="definition_fi">leipä</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{jInjoq:n}</column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tIr:n}, {ngogh:n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {TNK:src}, [2] {Saarbrücken qepHom'a' 2010:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tIr ngogh QaD</column>
-      <column name="part_of_speech">n:deriv,food</column>
-      <column name="definition">toast</column>
-      <column name="definition_de">Toast, Zwieback</column>
-      <column name="definition_fa">تست [AUTOTRANSLATED]</column>
-      <column name="definition_sv">rostat bröd</column>
-      <column name="definition_ru">тост [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">多士、西多（烤麵包）</column>
-      <column name="definition_pt">torrada</column>
-      <column name="definition_fi">paahtoleipä</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes">This refers to the physical piece of dried bread, and not to the exclamations made while drinking.</column>
-      <column name="notes_de">Dies bezieht sich auf das physische Stück getrocknetes Brot und nicht auf die Ausrufe, die beim Trinken gemacht werden. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این مربوط به قطعه بدنی نان خشک شده است و نه بهانه هایی که هنگام نوشیدن انجام می شود. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta avser den fysiska biten av torkat bröd och inte till de utropen som gjordes när man dricker. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это относится к физическому куску сушеного хлеба, а не к восклицаниям, сделанным во время питья. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是指乾麵包的實際一塊，而不是指喝酒時的驚嘆號。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Refere-se ao pedaço físico de pão seco, e não às exclamações feitas ao beber. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa fyysiseen palaan kuivattua leipää, eikä juomisen yhteydessä tehtyihin huudahduksiin. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tIr ngogh:n}, {QaD:v:1}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {TNK:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tIr ngat</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">bread crumbs</column>
+          <column name="definition_de">Brotkrumen</column>
+          <column name="definition_fa">پودرهای سوخاری [AUTOTRANSLATED]</column>
+          <column name="definition_sv">brödsmulor [AUTOTRANSLATED]</column>
+          <column name="definition_ru">панировочные сухари [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">麵包屑 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">Migalhas de pão</column>
+          <column name="definition_fi">leivänmuru</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tIr:n}, {ngat:n:2}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {QelIS boqHarmey:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tIr ngogh</column>
+          <column name="part_of_speech">n:deriv,food</column>
+          <column name="definition">bread</column>
+          <column name="definition_de">Brot</column>
+          <column name="definition_fa">نان</column>
+          <column name="definition_sv">bröd</column>
+          <column name="definition_ru">хлеб [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">麵包</column>
+          <column name="definition_pt">pão</column>
+          <column name="definition_fi">leipä</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{jInjoq:n}</column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tIr:n}, {ngogh:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {TNK:src}, [2] {Saarbrücken qepHom'a' 2010:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tIr ngogh QaD</column>
+          <column name="part_of_speech">n:deriv,food</column>
+          <column name="definition">toast</column>
+          <column name="definition_de">Toast, Zwieback</column>
+          <column name="definition_fa">تست [AUTOTRANSLATED]</column>
+          <column name="definition_sv">rostat bröd</column>
+          <column name="definition_ru">тост [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">多士、西多（烤麵包）</column>
+          <column name="definition_pt">torrada</column>
+          <column name="definition_fi">paahtoleipä</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This refers to the physical piece of dried bread, and not to the exclamations made while drinking.</column>
+          <column name="notes_de">Dies bezieht sich auf das physische Stück getrocknetes Brot und nicht auf die Ausrufe, die beim Trinken gemacht werden. [AUTOTRANSLATED]</column>
+          <column name="notes_fa">این مربوط به قطعه بدنی نان خشک شده است و نه بهانه هایی که هنگام نوشیدن انجام می شود. [AUTOTRANSLATED]</column>
+          <column name="notes_sv">Detta avser den fysiska biten av torkat bröd och inte till de utropen som gjordes när man dricker. [AUTOTRANSLATED]</column>
+          <column name="notes_ru">Это относится к физическому куску сушеного хлеба, а не к восклицаниям, сделанным во время питья. [AUTOTRANSLATED]</column>
+          <column name="notes_zh_HK">這是指乾麵包的實際一塊，而不是指喝酒時的驚嘆號。 [AUTOTRANSLATED]</column>
+          <column name="notes_pt">Refere-se ao pedaço físico de pão seco, e não às exclamações feitas ao beber. [AUTOTRANSLATED]</column>
+          <column name="notes_fi">Tämä viittaa fyysiseen palaan kuivattua leipää, eikä juomisen yhteydessä tehtyihin huudahduksiin. [AUTOTRANSLATED]</column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tIr ngogh:n}, {QaD:v:1}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {TNK:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tIr</column>
@@ -8083,7 +8614,7 @@ Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä
         <table name="mem">
           <column name="_id"></column>
           <column name="entry_name">tI'wI'</column>
-          <column name="part_of_speech">n:deriv,being</column>
+          <column name="part_of_speech">n:being,deriv</column>
           <column name="definition">repairman, repairwoman</column>
           <column name="definition_de">Reparaturmann / -Frau</column>
           <column name="definition_fa">تعمیرکار، تعمیرکار [AUTOTRANSLATED]</column>
@@ -8255,7 +8786,7 @@ Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä
         <table name="mem">
           <column name="_id"></column>
           <column name="entry_name">tI'rIlngan</column>
-          <column name="part_of_speech">n:being,fic,deriv</column>
+          <column name="part_of_speech">n:being,deriv,fic</column>
           <column name="definition">Trill (person)</column>
           <column name="definition_de">Trill (Person)</column>
           <column name="definition_fa">تریل (شخص) [AUTOTRANSLATED]</column>
@@ -8352,7 +8883,7 @@ Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä
       <column name="definition_fi">testata perusteellisesti, todistaa</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Daj:v:2}</column>
-      <column name="see_also">{'ol:v}, {waH:v:1}, {nuD:v}, {poj:v}</column>
+      <column name="see_also">{'ol:v}, {woq:v}, {waH:v:1}, {nuD:v}, {poj:v}</column>
       <column name="notes">This verb can be used for proving one's honor ({quv tob:sen@@quv:n, tob:v}). See {Hay':v}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -8659,7 +9190,7 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="definition_fi">rohkeus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also"></column>
+      <column name="see_also">{yoH:v}, {jaq:v}</column>
       <column name="notes">For courage of a surprising or unexpected kind, see {qajunpaQ:n}.</column>
       <column name="notes_de">Für überraschenden oder unerwarteten Mut siehe {qajunpaQ:n}.</column>
       <column name="notes_fa">برای شجاعت یک نوع تعجب آور یا غیر منتظره ، به {qajunpaQ:n} مراجعه کنید. [AUTOTRANSLATED]</column>
@@ -8668,7 +9199,7 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="notes_zh_HK">要獲得令人驚訝或意外的勇氣，請參閱{qajunpaQ:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para coragem de um tipo surpreendente ou inesperado, consulte {qajunpaQ:n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">In the {Smithsonian GO FLIGHT app:src}, the name of the airplane "Spirit of St. Louis" was translated as "St. Louis {toDuj:sen:nolink}".</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {vaj toDuj Daj ngeHbej DI vI'.:sen}</column>
@@ -8679,7 +9210,7 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">spirit</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -8746,7 +9277,7 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="definition_fi">laskea jotkin (asioiden lukumäärä)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{chel:v}, {SIm:v}, {mI':n}</column>
+      <column name="see_also">{chel:v}, {SIm:v}, {mI':n}, {Dol mI':n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -8910,16 +9441,16 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tojbogh pa' tuH</column>
-      <column name="part_of_speech">n:deriv</column>
-      <column name="definition">holodeck adventure</column>
+      <column name="entry_name">tojbogh pa' tuHmey</column>
+      <column name="part_of_speech">n:plural,deriv</column>
+      <column name="definition">holodeck adventures</column>
       <column name="definition_de">Holodeck-Abenteuer</column>
       <column name="definition_fa">ماجراجویی هولودک [AUTOTRANSLATED]</column>
       <column name="definition_sv">holodeck äventyr [AUTOTRANSLATED]</column>
       <column name="definition_ru">холодек приключение [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">holodeck冒險 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">aventura holodeck</column>
-      <column name="definition_fi">holokansiseikkailu</column>
+      <column name="definition_pt">aventuras de holodeck [AUTOTRANSLATED]</column>
+      <column name="definition_fi">holokansiseikkailut</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -8931,8 +9462,8 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">In {STC 104:src} this was given as the plural {tojbogh pa' tuHmey:n:nolink} "Holodeck Adventures".</column>
-      <column name="components">{tojbogh pa':n}, {tuH:n}</column>
+      <column name="hidden_notes">This was given in the plural. A single holodeck adventure might possibly be a {tojbogh pa' tuH:n@@tojbogh pa':n, tuH:n}, but it's not clear whether Klingons think of one holodeck adventure as one maneuver or several.</column>
+      <column name="components">{tojbogh pa':n}, {tuH:n}, {-mey:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -9005,7 +9536,7 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="definition_ru">наклоняться, наклоняться [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">傾斜、歪</column>
       <column name="definition_pt">inclinar, inclinar-se</column>
-      <column name="definition_fi">kallistua, olla kallistunut</column>
+      <column name="definition_fi">kallistua</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{taH:v:2}</column>
@@ -9048,7 +9579,7 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="definition_ru">техника боя [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">戰鬥技術 [AUTOTRANSLATED]</column>
       <column name="definition_pt">técnica de luta</column>
-      <column name="definition_fi">liike, siirto (taistelussa, pelissä tms.)</column>
+      <column name="definition_fi">liike, siirto, asento (taistelussa, pelissä tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{moQbara':n}, {much:v:3}, {tuH:n}</column>
@@ -9077,17 +9608,17 @@ Sitä käytetään myös taistelulajien kantojen nimeämiseen. Käsketään joku
       <column name="examples">
 ▶ {notlh tonSaw'lIj.:sen}
 ▶ {ngIq tonSaw' lo' 'ej tIqDu' lel:sen:nolink}
-   {ngIq tonSaw' lo' 'ej quvqa':sen:nolink}
+   {ngIq tonSaw' lo' 'ej quvqa'moH:sen:nolink}
    {ngIq tonSaw' lo' 'ej rIn may':sen:nolink}
   "In one single move, he removed the hearts,
    In one single move, he restored his honor,
-   In one single move, the battle was done."[2, p.169]
+   In one single move, the battle was done."[2, p.166-167]
 ▶ {ngIq tonSaw' lo':sen:nolink}
    {SaD law' San chenmoH qeylIS:sen:nolink}
    {wej boghbogh nuvpu' San chenmoH:sen:nolink}
   "In one single move,
    Kahless decided the fate
-   Of thousands, and those to come."[2, p.171]
+   Of thousands, and those to come."[2, p.166-167]
 ▶ {mIl'oD tonSaw' yImuch:sen@@mIl'oD:n, tonSaw':n, yI-:v, much:v:3} "strike the sabre bear pose!"[4]
 ▶ {mIl'oD yImuch:sen@@mIl'oD:n, yI-:v, much:v:3} "strike the sabre bear (pose)!"[4]</column>
       <column name="examples_de"></column>
@@ -9105,7 +9636,7 @@ Sitä käytetään myös taistelulajien kantojen nimeämiseen. Käsketään joku
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {KGT:src}, [2] {paq'batlh:src}, [3] {KLI mailing list 2010.09.01:src}, [4] {KLI mailing list 2019.03.01:src}</column>
+      <column name="source">[1] {KGT:src}, [2] {paq'batlh 2ed:src}, [3] {KLI mailing list 2010.09.01:src}, [4] {KLI mailing list 2019.03.01:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -9345,7 +9876,7 @@ Sitä käytetään myös taistelulajien kantojen nimeämiseen. Käsketään joku
       <column name="notes_zh_HK">它的小雞蛋被少數幾個人全部，全部和全部吃掉。[1, p.88] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
       <column name="notes_fi">Sen pienet munat syövät kokonaiset, kuoren ja kaikki, kourallinen.[1, p.88] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">The misspelling "Tokvarian" appears in the K-E word list. The spelling is correct in the E-K word list and on {KGT p.88:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -9355,7 +9886,7 @@ Sitä käytetään myös taistelulajien kantojen nimeämiseen. Käsketään joku
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">Tokvarian skink</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -9471,7 +10002,7 @@ Tällaisen leiman käyttäminen on ensin mustettava se ylös ({laS:v}) mustetyyn
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">toQDuj</column>
-      <column name="part_of_speech">n:fic,deriv</column>
+      <column name="part_of_speech">n:deriv,fic</column>
       <column name="definition">Bird of Prey (vessel)</column>
       <column name="definition_de">Bird-of-Prey</column>
       <column name="definition_fa">پرنده شکار (کشتی) [AUTOTRANSLATED]</column>
@@ -9774,19 +10305,19 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
    {puH QaDDaq paw:sen:nolink}
   "The fearless warrior
    Climbs out of the blood
-   Onto dry land."[2, p.97]
+   Onto dry land."[2, p.103]
 ▶ {raSDaq toS qeylIS:sen:nolink}
-   {rewbe'pu' qaD:sen:nolink}
-   {'ej mu'meyvam ja':sen:nolink}
+   {rewbe'pu'Daq Qeq'egh:sen:nolink}
+   {'ej mu'meyvam jatlh:sen:nolink}
   "Kahless climbs onto the table,
    Turns to the people,
-   And spoke these words."[2, p.131]
+   And spoke these words."[2, p.135]
 ▶ {molor vuQlu':sen:nolink}
    {tu'taHmeH chalqach toS:sen:nolink}
-   {qeylISvam legh neH:sen:nolink}
+   {qeylISvam legh neHmo':sen:nolink}
   "Molor is amused,
    He climbs a watch tower
-   To see this Kahless."[2, p.141]</column>
+   To see this Kahless."[2, p.143]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -9802,7 +10333,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {paq'batlh:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {paq'batlh 2ed:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -9862,14 +10393,14 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
-      <column name="notes">This is the 3rd rank of {yaS:n}.</column>
-      <column name="notes_de">Dies ist der 3. Rang von {yaS:n}.</column>
-      <column name="notes_fa">این رتبه سوم {yaS:n} است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är den tredje rankningen av {yaS:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это 3-й ранг {yaS:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是{yaS:n}的第三等級。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é o terceiro ranking do {yaS:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on upseeriston ({yaS:n}) kolmanneksi korkein sotilasarvo.</column>
+      <column name="notes">This is the 3rd rank of {yaS:n}.[2]</column>
+      <column name="notes_de">Dies ist der 3. Rang von {yaS:n}.[2]</column>
+      <column name="notes_fa">این رتبه سوم {yaS:n} است.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Detta är den tredje rankningen av {yaS:n}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_ru">Это 3-й ранг {yaS:n}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_zh_HK">這是{yaS:n}的第三等級。[2] [AUTOTRANSLATED]</column>
+      <column name="notes_pt">Este é o terceiro ranking do {yaS:n}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tämä on upseeriston ({yaS:n}) kolmanneksi korkein sotilasarvo.[2]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9888,7 +10419,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi">kommodori</column>
-      <column name="source">[1] {TKDA:src}</column>
+      <column name="source">[1] {TKDA:src}, [2] {KGT p.52:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -9932,6 +10463,50 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {KGT:src}, [2] {DS9 - Soldiers of the Empire:src}</column>
+    </table>
+    <table name="mem">
+      <!-- "Toy doll"? -->
+      <column name="_id"></column>
+      <column name="entry_name">toyDal</column>
+      <column name="part_of_speech">n:inhps</column>
+      <column name="definition">tactic</column>
+      <column name="definition_de">Taktik</column>
+      <column name="definition_fa">تاکتیک [AUTOTRANSLATED]</column>
+      <column name="definition_sv">taktik [AUTOTRANSLATED]</column>
+      <column name="definition_ru">тактика [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">戰術 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">tática</column>
+      <column name="definition_fi">taktiikka</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components">{to':n}</column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -9980,7 +10555,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">toy'wI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">servant</column>
       <column name="definition_de">Diener</column>
       <column name="definition_fa">خدمتگزار [AUTOTRANSLATED]</column>
@@ -10023,7 +10598,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">toy'wI''a'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">slave</column>
       <column name="definition_de">Sklave</column>
       <column name="definition_fa">برده [AUTOTRANSLATED]</column>
@@ -10067,7 +10642,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">to'</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:inhpl</column>
       <column name="definition">tactics</column>
       <column name="definition_de">Taktik, Vorgehensweise</column>
       <column name="definition_fa">تدابیر جنگی</column>
@@ -10075,7 +10650,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="definition_ru">тактика</column>
       <column name="definition_zh_HK">戰術、策略</column>
       <column name="definition_pt">táticas</column>
-      <column name="definition_fi">taktiikka</column>
+      <column name="definition_fi">taktiikat</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Dup:n}</column>
@@ -10088,7 +10663,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes">"tic-tac-toe".</column>
-      <column name="components"></column>
+      <column name="components">{toyDal:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10469,17 +11044,20 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="synonyms"></column>
       <column name="antonyms">{pa'logh:n}</column>
       <column name="see_also">{pIq:n}</column>
-      <column name="notes">In comparison, {'op pIq:n@@'op:n, pIq:n} means "at some point in the future".</column>
-      <column name="notes_de">Im Vergleich dazu bedeutet {'op pIq:n@@'op:n, pIq:n} "irgendwann in der Zukunft".</column>
-      <column name="notes_fa">در مقایسه ، {'op pIq:n@@'op:n, pIq:n} به معنای "در برخی از نقطه های آینده" است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Som jämförelse betyder {'op pIq:n@@'op:n, pIq:n} "någon gång i framtiden". [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Для сравнения, {'op pIq:n@@'op:n, pIq:n} означает «в какой-то момент в будущем». [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">相比之下，{'op pIq:n@@'op:n, pIq:n}的意思是「將來的某個時候」。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Em comparação, {'op pIq:n@@'op:n, pIq:n} significa "em algum momento no futuro". [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Vertailun vuoksi {'op pIq:n@@'op:n, pIq:n} tarkoittaa "jossain vaiheessa tulevaisuudessa". [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">In {Star Trek VI:src}, Chancellor Gorkon makes a toast to "the undiscovered country... the future". The phrase "The Undiscovered Country" (TUC) comes from Hamlet's soliloquy and is also the name of the film.</column>
+      <column name="notes">In comparison, {'op pIq:n@@'op:n, pIq:n} means "at some point in the future".[1]</column>
+      <column name="notes_de">Im Vergleich dazu bedeutet {'op pIq:n@@'op:n, pIq:n} "irgendwann in der Zukunft".[1]</column>
+      <column name="notes_fa">در مقایسه ، {'op pIq:n@@'op:n, pIq:n} به معنای "در برخی از نقطه های آینده" است.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Som jämförelse betyder {'op pIq:n@@'op:n, pIq:n} "någon gång i framtiden".[1] [AUTOTRANSLATED]</column>
+      <column name="notes_ru">Для сравнения, {'op pIq:n@@'op:n, pIq:n} означает «в какой-то момент в будущем».[1] [AUTOTRANSLATED]</column>
+      <column name="notes_zh_HK">相比之下，{'op pIq:n@@'op:n, pIq:n}的意思是「將來的某個時候」。[1] [AUTOTRANSLATED]</column>
+      <column name="notes_pt">Em comparação, {'op pIq:n@@'op:n, pIq:n} significa "em algum momento no futuro".[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Vertailun vuoksi {'op pIq:n@@'op:n, pIq:n} tarkoittaa "jossain vaiheessa tulevaisuudessa".[1] [AUTOTRANSLATED]</column>
+      <column name="hidden_notes">In {Star Trek VI:src}, Chancellor Gorkon makes a toast to "the undiscovered country... the future". The phrase "The Undiscovered Country" (TUC) comes from Hamlet's soliloquy and is also the name of the film.
+
+The example sentence {qaSDI' tuch:sen:nolink} lacks some context in the message sent to the mailing list. It was intended to translate a segment for the 50th anniversary of the German children's TV show "Die Sendung mit der Maus" about how people will live "in the future" (not at a specific point in the future, but in the future as a whole). It was proposed by {Quvar:n:name} to Dr. Okrand for that specific context. It's not a fixed expression and "in the future" might be translated in another way in some other context.</column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">
+▶ {qaSDI' tuch:sen:nolink} "in the future (as a whole)"[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -10495,7 +11073,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {qep'a' 23 (2016):src}</column>
+      <column name="source">[1] {qep'a' 23 (2016):src}, [2] {KLI mailing list 2021.03.07:src}</column>
     </table>
     <table name="mem">
       <!-- This cannot be marked as a verb, as it breaks the grammar analysis. -->
@@ -10544,7 +11122,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tuch rItwI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">prophet, future-seer</column>
       <column name="definition_de">Prophet, Seher</column>
       <column name="definition_fa">پیامبر، چشم انداز آینده [AUTOTRANSLATED]</column>
@@ -10783,7 +11361,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {tojbogh pa' tuH:n}</column>
+▶ {tojbogh pa' tuHmey:n}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -10936,7 +11514,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {paq'batlh p.76-77:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {paq'batlh 2ed p.84-85:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -11025,6 +11603,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="source">[1] {HQ 1.3, Sept. 1992:src}</column>
     </table>
     <table name="mem">
+      <!-- https://webb.nasa.gov/content/features/keyFactsInternational/#klingon -->
       <column name="_id"></column>
       <column name="entry_name">tuj 'otlh</column>
       <column name="part_of_speech">n:deriv</column>
@@ -11047,7 +11626,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This was used in the translation of NASA's James Webb Space Telescope Key Facts information sheet. The translation was done by the KLI.</column>
       <column name="components">{tuj:n}, {'otlh:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -11205,7 +11784,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="entry_name">tum</column>
       <column name="part_of_speech">n</column>
       <column name="definition">agency</column>
-      <column name="definition_de">Diensstelle, Agentur</column>
+      <column name="definition_de">Dienststelle, Agentur</column>
       <column name="definition_fa">آژانس [AUTOTRANSLATED]</column>
       <column name="definition_sv">byrå, kontor</column>
       <column name="definition_ru">агентство</column>
@@ -11607,7 +12186,7 @@ Tämä rakenne näyttää liittyvän sananlaskuun {reH tay' ghot tuqDaj je.:sen}
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tuqnIgh</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:being</column>
       <column name="definition">member of a house</column>
       <column name="definition_de">Hausmitglied</column>
       <column name="definition_fa">عضو یک خانه [AUTOTRANSLATED]</column>
@@ -11618,7 +12197,7 @@ Tämä rakenne näyttää liittyvän sananlaskuun {reH tay' ghot tuqDaj je.:sen}
       <column name="definition_fi">huoneen jäsen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{tuq:n}, {qorDu':n}, {muv:v}</column>
+      <column name="see_also">{tuq:n}, {qorDu':n}, {muv:v}, {chuD:n}, {pal'ar:n}</column>
       <column name="notes">See under {tuq:n} for an explanation of how to express membership in a House.</column>
       <column name="notes_de">Unter {tuq:n} finden Sie eine Erklärung, wie Sie die Mitgliedschaft in einem Haus ausdrücken können. [AUTOTRANSLATED]</column>
       <column name="notes_fa">برای توضیح در مورد نحوه بیان عضویت در یک مجلس ، زیر بخش {tuq:n} مراجعه کنید. [AUTOTRANSLATED]</column>
@@ -11650,7 +12229,7 @@ Tämä rakenne näyttää liittyvän sananlaskuun {reH tay' ghot tuqDaj je.:sen}
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tuqvol</column>
-      <column name="part_of_speech">n:reg,body</column>
+      <column name="part_of_speech">n:body,reg</column>
       <column name="definition">forehead</column>
       <column name="definition_de">Stirn</column>
       <column name="definition_fa">پیشانی</column>
@@ -11733,6 +12312,100 @@ Tämä rakenne näyttää liittyvän sananlaskuun {reH tay' ghot tuqDaj je.:sen}
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tuQHa'moH</column>
+          <column name="part_of_speech">v:t_c,deriv</column>
+          <column name="definition">undress</column>
+          <column name="definition_de">(Kleidung) ausziehen</column>
+          <column name="definition_fa">تقسیم کردن [AUTOTRANSLATED]</column>
+          <column name="definition_sv">klä av sig, ta av sig (kläder)</column>
+          <column name="definition_ru">снять (одежду)</column>
+          <column name="definition_zh_HK">脫衣服 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">despir</column>
+          <column name="definition_fi">riisua (vaate päältään)</column>
+          <column name="synonyms"></column>
+          <column name="antonyms">{tuQmoH:v}</column>
+          <column name="see_also">{teq:v}</column>
+          <column name="notes">This always means to remove clothes from oneself (so perhaps "doff" would be a good English translation). Without clarification, it does not indicate how much clothing is removed.[2]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tuQ:v}, {-Ha':v}, {-moH:v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi">riisuutua</column>
+          <column name="source">[1] {TKD:src}, [2] {KLI mailing list 2022.05.20:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tuQmoH</column>
+          <column name="part_of_speech">v:t_c,deriv</column>
+          <column name="definition">put on (clothes)</column>
+          <column name="definition_de">(Kleidung) anziehen</column>
+          <column name="definition_fa">قرار د(ادن بر روی لباس) [AUTOTRANSLATED]</column>
+          <column name="definition_sv">klä på sig, sätta på sig (kläder)</column>
+          <column name="definition_ru">надевать (одежду)</column>
+          <column name="definition_zh_HK">穿上衣服） [AUTOTRANSLATED]</column>
+          <column name="definition_pt">vestir (roupas)</column>
+          <column name="definition_fi">pukea (vaate päälleen)</column>
+          <column name="synonyms"></column>
+          <column name="antonyms">{tuQHa'moH:v}</column>
+          <column name="see_also"></column>
+          <column name="notes">This always means to put clothes on oneself (so perhaps "don" would be a good English translation). The person getting dressed is the subject, and the item of clothing is the object. To express putting clothes on someone else, use {jom:v:2}.[4]
+
+The slang expression {qogh tuQmoHHa':sen}, literally "to take off one's belt", means "to not hear".[2]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tuQ:v}, {-moH:v}</column>
+          <column name="examples">
+▶ {ramvam yIQongqu' ram veb bIyInbe':sen:nolink}
+   {may'luchlIj nIv yItuQmoH:sen:nolink}
+   {pujwI' HIvlu'chugh quvbe'lu':sen:nolink}
+  "Sleep well, for it will be your last night,
+   Put on your finest armor,
+   For there is no honor in attacking the weak."[3]</column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi">pukeutua</column>
+          <column name="source">[1] {TKD:src}, [2] {HQ 2.4, p.17, Dec. 1993:src}, [3] {paq'batlh 2ed p.160-161:src}, [4] {KLI mailing list 2022.05.20:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tuQDoq</column>
@@ -11775,104 +12448,6 @@ Tämä rakenne näyttää liittyvän sananlaskuun {reH tay' ghot tuqDaj je.:sen}
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}, [2] {TOS - Errand of Mercy:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tuQHa'moH</column>
-      <column name="part_of_speech">v:t_c,deriv</column>
-      <column name="definition">undress</column>
-      <column name="definition_de">(Kleidung) ausziehen</column>
-      <column name="definition_fa">تقسیم کردن [AUTOTRANSLATED]</column>
-      <column name="definition_sv">klä av sig, ta av sig (kläder)</column>
-      <column name="definition_ru">снять (одежду)</column>
-      <column name="definition_zh_HK">脫衣服 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">despir</column>
-      <column name="definition_fi">riisua</column>
-      <column name="synonyms"></column>
-      <column name="antonyms">{tuQmoH:v}</column>
-      <column name="see_also">{teq:v}</column>
-      <column name="notes">See {qawmoH:v} for an example of how to use a verb like this one.</column>
-      <column name="notes_de">Siehe {qawmoH:v} für Beispiele, wie man dieses Verb verwenden kann.</column>
-      <column name="notes_fa">برای نمونه ای از چگونگی استفاده از فعل مانند این ، به {qawmoH:v} مراجعه کنید. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Se {qawmoH:v} för ett exempel på hur man använder ett verb som det här. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Посмотрите {qawmoH:v} для примера того, как использовать глагол как этот. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">有關如何使用此類動詞的示例，請參見{qawmoH:v}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Veja {qawmoH:v} para um exemplo de como usar um verbo como este. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Katso {qawmoH:v} esimerkki siitä, miten tämän kaltaista verbiä käytetään. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tuQ:v}, {-Ha':v}, {-moH:v}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">tuQmoH</column>
-      <column name="part_of_speech">v:t_c,deriv</column>
-      <column name="definition">put on (clothes)</column>
-      <column name="definition_de">(Kleidung) anziehen</column>
-      <column name="definition_fa">قرار د(ادن بر روی لباس) [AUTOTRANSLATED]</column>
-      <column name="definition_sv">klä på sig, sätta på sig (kläder)</column>
-      <column name="definition_ru">надевать (одежду)</column>
-      <column name="definition_zh_HK">穿上衣服） [AUTOTRANSLATED]</column>
-      <column name="definition_pt">vestir (roupas)</column>
-      <column name="definition_fi">pukea (vaate päälleen)</column>
-      <column name="synonyms"></column>
-      <column name="antonyms">{tuQHa'moH:v}</column>
-      <column name="see_also"></column>
-      <column name="notes">See {qawmoH:v} for an example of how to use a verb like this one.
-
-The slang expression {qogh tuQmoHHa':sen}, literally "to take off one's belt", means "to not hear".[2]</column>
-      <column name="notes_de">In {qawmoH:v} finden Sie ein Beispiel für die Verwendung eines Verbs wie dieses.
-
-Der Slang-Ausdruck {qogh tuQmoHHa':sen}, wörtlich "den Gürtel abnehmen", bedeutet "nicht hören" .[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">برای نمونه ای از چگونگی استفاده از فعل مانند این ، به {qawmoH:v} مراجعه کنید.
-
-اصطلاح عامیانه {qogh tuQmoHHa':sen} ، به معنای واقعی کلمه "برای کم کردن کمربند شخصی" ، به معنای "شنیدن" نیست. [2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Se {qawmoH:v} för ett exempel på hur man använder ett verb som det här.
-
-Slanguttrycket {qogh tuQmoHHa':sen}, bokstavligen "att ta av sig bältet", betyder "att inte höra" .[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt">Veja {qawmoH:v} para um exemplo de como usar um verbo como este.
-
-A expressão de gíria {qogh tuQmoHHa':sen}, literalmente "tirar o cinto", significa "não ouvir" .[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Katso {qawmoH:v} esimerkki siitä, miten tämän kaltaista verbiä käytetään.
-
-Slangilauseke {qogh tuQmoHHa':sen}, kirjaimellisesti "ottaa pois vyönsä", tarkoittaa "ei kuulla".[2] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
-      <column name="components">{tuQ:v}, {-moH:v}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {HQ 2.4, p.17, Dec. 1993:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -12008,7 +12583,7 @@ Slangilauseke {qogh tuQmoHHa':sen}, kirjaimellisesti "ottaa pois vyönsä", tark
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">turmIq 'enDeq</column>
-      <column name="part_of_speech">n:deriv,body</column>
+      <column name="part_of_speech">n:body,deriv</column>
       <column name="definition">urinary bladder</column>
       <column name="definition_de">Harnblase</column>
       <column name="definition_fa">مثانه [AUTOTRANSLATED]</column>
@@ -12138,7 +12713,7 @@ Slangilauseke {qogh tuQmoHHa':sen}, kirjaimellisesti "ottaa pois vyönsä", tark
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {paq'batlh p.159:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {paq'batlh 2ed p.156-157:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -12243,6 +12818,7 @@ Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja ni
       <column name="source">[1] {qep'a' 25 (2018):src}</column>
     </table>
     <table name="mem">
+      <!-- Reported by Robyn Stewart, on Facebook: https://www.facebook.com/groups/LearnKlingon/permalink/1474580219316856/ -->
       <column name="_id"></column>
       <column name="entry_name">tutlh</column>
       <column name="part_of_speech">v:1,is</column>
@@ -12277,7 +12853,6 @@ Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja ni
       <column name="examples_fi"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
-      <!-- Reported by Robyn Stewart, on Facebook: https://www.facebook.com/groups/LearnKlingon/permalink/1474580219316856/ -->
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
@@ -12289,7 +12864,7 @@ Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja ni
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tutlhmoH</column>
-      <column name="part_of_speech">v:deriv,t_c</column>
+      <column name="part_of_speech">v:t_c,deriv</column>
       <column name="definition">tattoo</column>
       <column name="definition_de">tätowieren</column>
       <column name="definition_fa">خال کوبی [AUTOTRANSLATED]</column>
@@ -12333,7 +12908,7 @@ Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja ni
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tutlh</column>
-      <column name="part_of_speech">v:2,slang</column>
+      <column name="part_of_speech">v:2,is,slang</column>
       <column name="definition">be official</column>
       <column name="definition_de">offiziell sein</column>
       <column name="definition_fa">رسمی بودن [AUTOTRANSLATED]</column>
@@ -12344,7 +12919,7 @@ Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja ni
       <column name="definition_fi">olla virallinen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also"></column>
+      <column name="see_also">{chap:v}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -12485,20 +13060,12 @@ Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja ni
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {QIStaq qoD DISDaq:sen:nolink}
-   {tu''egh qeylIS'e':sen:nolink}
-   {DIS veghlu'chugh:sen:nolink}
-   {pa' Heghpu'bogh nuvpu' qa'pu' tu'lu':sen:nolink}
-  "In the heart of Kri'stak,
-   Kahless finds himself in a cave
-   Leading to
-   The world beyond the living"[2, p.84-85]
 ▶ {molor vuQlu':sen:nolink}
    {tu'taHmeH chalqach toS:sen:nolink}
    {qeylISvam legh neH:sen:nolink}
   "Molor is amused,
    He climbs a watch tower
-   To see this Kahless."[2, p.140-141]</column>
+   To see this Kahless."[2, p.142-143]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -12514,7 +13081,7 @@ Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja ni
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {paq'batlh:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {paq'batlh 2ed:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -12610,7 +13177,7 @@ The KLI got a list of vocabulary used in {KCD:src} in advance, which was printed
       <!-- Treat {tu'lu'} as a derived verb, so it can be a component in analysis. -->
       <column name="_id"></column>
       <column name="entry_name">tu'lu'</column>
-      <column name="part_of_speech">v:deriv,t_c</column>
+      <column name="part_of_speech">v:t_c,deriv</column>
       <column name="definition">there is, there are</column>
       <column name="definition_de">es gibt</column>
       <column name="definition_fa">وجود دارد، وجود دارد [AUTOTRANSLATED]</column>

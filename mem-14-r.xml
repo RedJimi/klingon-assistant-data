@@ -43,6 +43,49 @@
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">rab</column>
+      <column name="part_of_speech">v:is</column>
+      <column name="definition">be gigantic, be huge, be humongous</column>
+      <column name="definition_de">gigantisch sein, riesig sein</column>
+      <column name="definition_fa">غول پیکر باشید، بزرگ باشید، بزرگ باشید [AUTOTRANSLATED]</column>
+      <column name="definition_sv">vara gigantisk, vara enorm, vara enorm [AUTOTRANSLATED]</column>
+      <column name="definition_ru">быть гигантским, быть огромным, быть огромным [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">變得巨大，變得巨大，變得巨大 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">ser gigante, ser enorme</column>
+      <column name="definition_fi">olla jättimäinen, valtava, suunnaton</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{tIn:v}</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi">jättiläismäinen</column>
+      <column name="source">[1] {QelIS boqHarmey:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">rach</column>
       <column name="part_of_speech">v:t_c</column>
       <column name="definition">invigorate, fortify, strengthen</column>
@@ -67,12 +110,12 @@
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {chalqach rachlu'ta'bogh:n:nolink} "fortified tower"[2]</column>
+▶ {chalqachlIj rachlu'ta'bogh:n:nolink} "your fortified tower"[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru">
-▶ {chalqach rachlu'ta'bogh:n:nolink} "Укрепленная башня"[2]</column>
+▶ {chalqachlIj rachlu'ta'bogh:n:nolink} "твоя укрепленная башня"[2]</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
@@ -84,12 +127,12 @@
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {s.k 1998.10.20:src}, [2] {paq'batlh p.159:src}</column>
+      <column name="source">[1] {s.k 1998.10.20:src}, [2] {paq'batlh 2ed p.156-157:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">rachwI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">nurse</column>
       <column name="definition_de">Krankenschwester, Krankenpfleger</column>
       <column name="definition_fa">پرستار [AUTOTRANSLATED]</column>
@@ -615,7 +658,7 @@
       <column name="definition_ru">быть ответственным за</column>
       <column name="definition_zh_HK">對...負責任 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser responsável por</column>
-      <column name="definition_fi">olla vastuussa jostakin</column>
+      <column name="definition_fi">vastata jostakin, olla vastuussa jostakin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -626,7 +669,7 @@
       <column name="notes_ru">Это значит "быть за старшего, иметь власть над кем-то". Будет странным для этого глагола использоваться без объекта.[2]</column>
       <column name="notes_zh_HK">這意味著「負責，有權力」。不帶賓語使用該動詞將很奇怪。 {ngoy':v}.[2]的含義有些重疊 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa "estar no comando, ter autoridade sobre". Seria estranho que esse verbo fosse usado sem um objeto. Existe alguma sobreposição de significado com {ngoy':v}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä tarkoittaa "olla vastuussa, sinulla on valta". Olisi outoa, että tätä verbiä käytetään ilman esinettä. Merkityksessä on jonkin verran päällekkäisyyttä {ngoy':v}.[2]: n kanssa [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Olisi outoa käyttää tätä ilman objektia. Merkitys on osittain päällekkäinen verbin {ngoy':v} kanssa.[2]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -658,7 +701,7 @@
       <column name="definition_ru">быть одинаковым, быть идентичным</column>
       <column name="definition_zh_HK">相同、一樣</column>
       <column name="definition_pt">ser o mesmo</column>
-      <column name="definition_fi">olla sama, identtinen</column>
+      <column name="definition_fi">olla sama, samanlainen, yhtäläinen</column>
       <column name="synonyms">{nIb:v}</column>
       <column name="antonyms">{pIm:v}</column>
       <column name="see_also">{Sar:v}, {rur:v}, {nel:v}, {... X law' ... X puS:sen}</column>
@@ -750,49 +793,6 @@ Tätä verbiä voidaan käyttää myös ilmaisemaan käsite, että kahdella asia
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {qep'a' 25 (2018):src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">raptor</column>
-      <column name="part_of_speech">n:fic,alt,noanki</column>
-      <column name="definition">{qISa'ruj:n}</column>
-      <column name="definition_de">{qISa'ruj:n}</column>
-      <column name="definition_fa">{qISa'ruj:n}</column>
-      <column name="definition_sv">{qISa'ruj:n}</column>
-      <column name="definition_ru">{qISa'ruj:n}</column>
-      <column name="definition_zh_HK">{qISa'ruj:n}</column>
-      <column name="definition_pt">{qISa'ruj:n}</column>
-      <column name="definition_fi">{qISa'ruj:n}</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components"></column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {Haynes BoP Manual:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1069,7 +1069,7 @@ In contrast to {ruQ:v:nolink}, which is more likely to be used when the handling
       <column name="definition_fi">liitin, pistoke</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also"></column>
+      <column name="see_also">{'ul ghom'oH:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -1123,7 +1123,7 @@ In contrast to {ruQ:v:nolink}, which is more likely to be used when the handling
       <column name="notes_fi"></column>
       <column name="hidden_notes">"Tabula rasa".</column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">{ghItlh raS:n}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -1352,11 +1352,11 @@ On olemassa klingonin idioomi {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUTOTRA
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">It's unclear why {rav:n:2,nolink} seems to follow the noun while {'aqroS:n:2,nolink} seems to precede the noun.</column>
       <column name="components"></column>
       <column name="examples">
-▶ {Hung buv rav:sen}: {patlh Hut:sen:nolink}[1]
-▶ {nen rav:sen}: {chorgh ben:sen:nolink}[2]</column>
+▶ {Hung buv rav:n}[1]
+▶ {nen rav:n}[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -1377,7 +1377,7 @@ On olemassa klingonin idioomi {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUTOTRA
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">rav ...</column>
-      <column name="part_of_speech">sen:alt,noanki</column>
+      <column name="part_of_speech">sen:alt,noanki,nodict</column>
       <column name="definition">{rav ... 'aqroS ...:sen}</column>
       <column name="definition_de">{rav ... 'aqroS ...:sen}</column>
       <column name="definition_fa">{rav ... 'aqroS ...:sen}</column>
@@ -1824,7 +1824,7 @@ Tämän sanan ensimmäinen osa on {rav:n:1} "lattia", mutta toinen osa ei liity 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ray' tIr</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:food,terran</column>
       <column name="definition">rice</column>
       <column name="definition_de">Reis</column>
       <column name="definition_fa">برنج [AUTOTRANSLATED]</column>
@@ -2145,7 +2145,7 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="definition_ru">командная группа, командный состав [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">指揮小組、指揮人員 [AUTOTRANSLATED]</column>
       <column name="definition_pt">grupo de comando, pessoal de comando</column>
-      <column name="definition_fi">johtoesikunta</column>
+      <column name="definition_fi">(tehtävän, yksikön, armeijan tms.) johto, johtoesikunta</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ra'ghomquv:n}</column>
@@ -2232,7 +2232,7 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="definition_ru">кофе с ликером [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">咖啡加酒 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Café com licor</column>
-      <column name="definition_fi">eräs juoma, jossa kahviin on sekoitettu alkoholia, raktajino</column>
+      <column name="definition_fi">eräs juoma, jossa kahviin on sekoitettu alkoholia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qa'vIn:n}</column>
@@ -2268,7 +2268,7 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="_id"></column>
       <column name="entry_name">ra'wI'</column>
       <column name="part_of_speech">n:being,deriv</column>
-      <column name="definition">commander</column>
+      <column name="definition">commander (any officer of rank {Sogh:n:nolink} or higher)</column>
       <column name="definition_de">Kommandant, Befehlshaber</column>
       <column name="definition_fa">فرمانده [AUTOTRANSLATED]</column>
       <column name="definition_sv">befälhavare (person som ger order)</column>
@@ -2279,14 +2279,16 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yaS:n}</column>
-      <column name="notes">This refers to someone of rank {Sogh:n} or higher.</column>
-      <column name="notes_de">Dies bezieht sich auf jemanden mit dem Rang {Sogh:n} oder höher. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این مربوط به شخص درجه {Sogh:n} یا بالاتر می باشد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta avser någon med rankning {Sogh:n} eller högre. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Относится к кому-то с рангом {Sogh:n} или выше.</column>
-      <column name="notes_zh_HK">這是指{Sogh:n}或更高級別的人。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Refere-se a alguém de classificação {Sogh:n} ou superior. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa henkilöön, jonka sotilasarvo on luutnantti ({Sogh:n}) tai korkeampi.</column>
+      <column name="notes">This refers to someone of rank {Sogh:n} or higher, and may be used either as a description or a title.[2]
+
+Do not confuse this with {la':n}, which is also translated as "commander" in English.[2]</column>
+      <column name="notes_de">Dies bezieht sich auf jemanden mit dem Rang {Sogh:n} oder höher.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fa">این مربوط به شخص درجه {Sogh:n} یا بالاتر می باشد.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Detta avser någon med rankning {Sogh:n} eller högre.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_ru">Относится к кому-то с рангом {Sogh:n} или выше.[2]</column>
+      <column name="notes_zh_HK">這是指{Sogh:n}或更高級別的人。[2] [AUTOTRANSLATED]</column>
+      <column name="notes_pt">Refere-se a alguém de classificação {Sogh:n} ou superior.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tämä viittaa henkilöön, jonka sotilasarvo on luutnantti ({Sogh:n}) tai korkeampi.[2]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ra':v:1}, {-wI':v}</column>
       <column name="examples"></column>
@@ -2305,7 +2307,7 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {KGT p.52:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -2416,9 +2418,9 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">"Gummy bear".</column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">{pIw rebmugh:n}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -2537,15 +2539,15 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mey':n}, {Dop:n}</column>
-      <column name="notes">This word refers to the side of a polygon. Its only appearance in canon has been between a number and one of {mey':n} or {'Impey':n}.</column>
-      <column name="notes_de">Dieses Wort bezieht sich auf die Seite eines Polygons. Sein einziges Auftreten im Kanon war zwischen einer Zahl und einer von {mey':n} oder {'Impey':n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این کلمه به ضلع یک ضرب اشاره دارد. تنها ظاهر آن در کانن بین یک شماره و یکی از {mey':n} یا {'Impey':n} بوده است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta ord hänvisar till sidan av en polygon. Dess enda utseende i kanon har varit mellan ett nummer och ett av {mey':n} eller {'Impey':n}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это слово относится к стороне многоугольника. Его единственное появление в каноне было между числом и одним из {mey':n} или {'Impey':n}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這個詞是指多邊形的一面。它在佳能中的唯一出現在{mey':n}或{'Impey':n}之間。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Esta palavra se refere ao lado de um polígono. Sua única aparência no cânone foi entre um número e um de {mey':n} ou {'Impey':n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä sana viittaa monikulmion sivuun. Sen ainoa esiintyminen kaanonissa on ollut numeron ja yhden välillä {mey':n} tai {'Impey':n}. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="notes">In geometry, this word refers to the side of a polygon.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes">In the geometry usage, this word's only appearance in canon has been between a number and one of {mey':n} or {'Impey':n}.</column>
       <column name="components"></column>
       <column name="examples">{loS reD mey':n}, {vagh reD mey':n}</column>
       <column name="examples_de"></column>
@@ -2563,7 +2565,140 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {KLI mailing list 2014.01.27:src}</column>
+      <column name="source">[1] {KLI mailing list 2014.01.27:src}, [2] {QelIS boqHarmey:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">reD</column>
+      <column name="part_of_speech">n:3</column>
+      <column name="definition">side (exterior surface)</column>
+      <column name="definition_de">Seite, Außenseite</column>
+      <column name="definition_fa">طرف (چیزی) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">sida (av något) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">сторона (чего-то) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">（某物的）側面 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">lado (de algo)</column>
+      <column name="definition_fi">sivupuoli</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This is an extension of {reD:n:1} to refer to an object's surface which is not the top, bottom, front, or back. In this context, the front of the object is its {logh'ob:n:2} and the back is its {Sa'Hut:n:2}.[1; 2]
+
+Even when applied to a person or an animal, this doesn't take the suffix {-Du':n:suff}, because it refers to an area and not a specific body part. This word does not mean "side" in the sense of one of two opposite directions such as "left" and "right" or "top" and "bottom", for which see {Dop:n}.[3]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes">An explanation of {logh'ob:n:2,nolink}, {Sa'Hut:n:2,nolink}, and {reD:n:3,nolink} was given during the Q &amp; A session at {Saarbrücken qepHom'a' 2021:src}.
+
+This was defined as "side". The clarification "exterior surface" was added based on the explanation, and to differentiate it from {Dop:n:nolink}.</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {QelIS boqHarmey:src}, [2] {KLI mailing list 2021.11.15:src}, [3] {Saarbrücken qepHom'a' 2021:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">reDyev</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">shortage</column>
+      <column name="definition_de">Mangel, Engpass</column>
+      <column name="definition_fa">کمبود [AUTOTRANSLATED]</column>
+      <column name="definition_sv">brist [AUTOTRANSLATED]</column>
+      <column name="definition_ru">нехватка [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">短缺 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">escassez</column>
+      <column name="definition_fi">pula, vajaus, puute</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{Hutlh:v}</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">reD'eS</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">bureaucracy</column>
+      <column name="definition_de">Bürokratie</column>
+      <column name="definition_fa">دیوان سالاری [AUTOTRANSLATED]</column>
+      <column name="definition_sv">byråkrati [AUTOTRANSLATED]</column>
+      <column name="definition_ru">бюрократия [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">官僚 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">burocracia</column>
+      <column name="definition_fi">byrokratia</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">The slang expression {pumnuj reD'eS:n@@pumnuj:n, reD'eS:n} is used if things are definitely inefficient.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -2784,7 +2919,7 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">reghuluSngan</column>
-      <column name="part_of_speech">n:being,fic,deriv</column>
+      <column name="part_of_speech">n:being,deriv,fic</column>
       <column name="definition">Regulan</column>
       <column name="definition_de">Regulanier</column>
       <column name="definition_fa">رگولان [AUTOTRANSLATED]</column>
@@ -3878,7 +4013,7 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="definition_ru">дизайн, карта, план [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">設計、製圖、計劃</column>
       <column name="definition_pt">desenhar, mapear, planejar</column>
-      <column name="definition_fi">suunnitella</column>
+      <column name="definition_fi">suunnitella (esine tai rakennus)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{pu'jIn:n}, {Qur:n}, {renwI':n}</column>
@@ -3913,7 +4048,7 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">renwI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">designer, architect</column>
       <column name="definition_de">Designer, Planer, Architekt</column>
       <column name="definition_fa">طراح، معمار [AUTOTRANSLATED]</column>
@@ -3968,7 +4103,7 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tup:n}, {lup:n}</column>
-      <column name="notes"></column>
+      <column name="notes">See {'arlogh Qoylu'pu'?:sen} for some ways to tell time.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -3978,7 +4113,9 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">
+▶ {rep yIper!:sen} (to ask for the time in the Federation system, see {tera' poH:n})
+▶ {tera' rep cha':sen:nolink} or {rep cha':sen:nolink} "two o'clock" (in the Federation system)</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -3994,7 +4131,7 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {s.k 1999.02.02:src}</column>
     </table>
         <table name="mem">
           <column name="_id"></column>
@@ -4127,8 +4264,51 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">reqwer</column>
+      <column name="part_of_speech">n:anim</column>
+      <column name="definition">shrimp-like animal</column>
+      <column name="definition_de">garnelenartiges Tier</column>
+      <column name="definition_fa">حیوانی شبیه میگو [AUTOTRANSLATED]</column>
+      <column name="definition_sv">räkliknande djur [AUTOTRANSLATED]</column>
+      <column name="definition_ru">креветкоподобное животное [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">蝦狀動物 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">animal parecido com camarão</column>
+      <column name="definition_fi">eräs katkarapua muistuttava eläin</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {Saarbrücken qepHom'a' 2021:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">reS</column>
-      <column name="part_of_speech">v:t_c</column>
+      <column name="part_of_speech">v:1,t_c</column>
       <column name="definition">conjure, cast (a spell)</column>
       <column name="definition_de">verzaubern, einen Zauberspruch sprechen</column>
       <column name="definition_fa">التماس، بازیگری (یک طلسم) [AUTOTRANSLATED]</column>
@@ -4140,14 +4320,14 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'IDnar:n}, {'IDnar pIn'a':n}</column>
-      <column name="notes">One can say either {tlheH reS@@tlheH:n, reS:v} or just {reS:sen:nolink} for "he/she casts a spell". It's unclear if anything other than {tlheH:n} can be the object of {reS:v:nolink}.</column>
-      <column name="notes_de">Man kann entweder {tlheH reS@@tlheH:n, reS:v} oder nur {reS:sen:nolink} für "er / sie spricht einen Zauber" sagen. Es ist unklar, ob etwas anderes als {tlheH:n} das Objekt von {reS:v:nolink} sein kann. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">می توان گفت {tlheH reS@@tlheH:n, reS:v} یا فقط {reS:sen:nolink} را برای "او طلسم می کند" می گوید. مشخص نیست که آیا چیزی غیر از {tlheH:n} می تواند موضوع {reS:v:nolink} باشد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Man kan säga antingen {tlheH reS@@tlheH:n, reS:v} eller bara {reS:sen:nolink} för "han / hon sätter en besvärjelse". Det är oklart om något annat än {tlheH:n} kan vara föremål för {reS:v:nolink}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Можно сказать или {tlheH reS@@tlheH:n, reS:v} или просто {reS:sen:nolink} для "он / она читает заклинание". Неясно, может ли что-либо кроме {tlheH:n} быть объектом {reS:v:nolink}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">可以說{tlheH reS@@tlheH:n, reS:v}或{reS:sen:nolink}都是「他/她施了咒語」。不清楚{reS:v:nolink}的對像是否可以是{tlheH:n}以外的其他對象。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Pode-se dizer {tlheH reS@@tlheH:n, reS:v} ou apenas {reS:sen:nolink} para "ele / ela lança um feitiço". Não está claro se algo diferente de {tlheH:n} pode ser o objeto de {reS:v:nolink}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Voidaan sanoa joko {tlheH reS@@tlheH:n, reS:v} tai vain {reS:sen:nolink} sanoille "hän loitsee". On epäselvää, voiko jokin muu kuin {tlheH:n} olla {reS:v:nolink}: n kohde. [AUTOTRANSLATED]</column>
+      <column name="notes">One can say either {tlheH reS@@tlheH:n, reS:v:1} or just {reS:sen:nolink} for "he/she casts a spell". It's unclear if anything other than {tlheH:n} can be the object of {reS:v:1,nolink}.</column>
+      <column name="notes_de">Man kann entweder {tlheH reS@@tlheH:n, reS:v:1} oder nur {reS:sen:nolink} für "er / sie spricht einen Zauber" sagen. Es ist unklar, ob etwas anderes als {tlheH:n} das Objekt von {reS:v:1,nolink} sein kann. [AUTOTRANSLATED]</column>
+      <column name="notes_fa">می توان گفت {tlheH reS@@tlheH:n, reS:v:1} یا فقط {reS:sen:nolink} را برای "او طلسم می کند" می گوید. مشخص نیست که آیا چیزی غیر از {tlheH:n} می تواند موضوع {reS:v:1,nolink} باشد. [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Man kan säga antingen {tlheH reS@@tlheH:n, reS:v:1} eller bara {reS:sen:nolink} för "han / hon sätter en besvärjelse". Det är oklart om något annat än {tlheH:n} kan vara föremål för {reS:v:1,nolink}. [AUTOTRANSLATED]</column>
+      <column name="notes_ru">Можно сказать или {tlheH reS@@tlheH:n, reS:v:1} или просто {reS:sen:nolink} для "он / она читает заклинание". Неясно, может ли что-либо кроме {tlheH:n} быть объектом {reS:v:1,nolink}. [AUTOTRANSLATED]</column>
+      <column name="notes_zh_HK">可以說{tlheH reS@@tlheH:n, reS:v:1}或{reS:sen:nolink}都是「他/她施了咒語」。不清楚{reS:v:1,nolink}的對像是否可以是{tlheH:n}以外的其他對象。 [AUTOTRANSLATED]</column>
+      <column name="notes_pt">Pode-se dizer {tlheH reS@@tlheH:n, reS:v:1} ou apenas {reS:sen:nolink} para "ele / ela lança um feitiço". Não está claro se algo diferente de {tlheH:n} pode ser o objeto de {reS:v:1,nolink}. [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Voidaan sanoa joko {tlheH reS@@tlheH:n, reS:v:1} tai vain {reS:sen:nolink} sanoille "hän loitsee". On epäselvää, voiko jokin muu kuin {tlheH:n} olla {reS:v:1,nolink}: n kohde. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4168,6 +4348,49 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {KLI mailing list 2016.11.25:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">reS</column>
+          <column name="part_of_speech">v:2,t_c</column>
+          <column name="definition">grow (flowers/plant/vegetables)</column>
+          <column name="definition_de">züchten (Pflanzen, Blumen, Gemüse)</column>
+          <column name="definition_fa">رشد (گل/گیاه/سبزیجات) [AUTOTRANSLATED]</column>
+          <column name="definition_sv">växa (blommor/växter/grönsaker) [AUTOTRANSLATED]</column>
+          <column name="definition_ru">расти (цветы / растение / овощи) [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">成長（花卉/植物/蔬菜） [AUTOTRANSLATED]</column>
+          <column name="definition_pt">crescer (flores / planta / vegetais)</column>
+          <column name="definition_fi">kasvattaa (kasveja)</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{wIj:v}, {poch:v}, {nenchoH:v}, {Qa:v}</column>
+          <column name="notes">The object is the plant which is grown by the subject.[1]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi">-</column>
+          <column name="hidden_notes"></column>
+          <column name="components"></column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {QelIS boqHarmey:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">reStav</column>
@@ -4610,6 +4833,49 @@ Tämä on sama sana kuin verbi {ret:v}.[2][1] [AUTOTRANSLATED]</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">rewve' mIjDang</column>
+      <column name="part_of_speech">n:alt,deriv</column>
+      <column name="definition">{SuS mIjDang:n}</column>
+      <column name="definition_de">{SuS mIjDang:n}</column>
+      <column name="definition_fa">{SuS mIjDang:n}</column>
+      <column name="definition_sv">{SuS mIjDang:n}</column>
+      <column name="definition_ru">{SuS mIjDang:n}</column>
+      <column name="definition_zh_HK">{SuS mIjDang:n}</column>
+      <column name="definition_pt">{SuS mIjDang:n}</column>
+      <column name="definition_fi">{SuS mIjDang:n}</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components">{rewve':n}, {mIjDang:n}</column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {QelIS boqHarmey:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">rey</column>
       <column name="part_of_speech">v:t_c</column>
       <column name="definition">squeeze and stretch out (windbag instrument)</column>
@@ -4631,7 +4897,7 @@ Tämä on sama sana kuin verbi {ret:v}.[2][1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指交替擠壓和拉出{may'ron:n}的袋子部分的動作。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se à ação de apertar e esticar alternadamente a parte do saco do {may'ron:n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä viittaa {may'ron:n}: n pussiosan vuorotellen puristamiseen ja venyttämiseen. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This word and {qeb:v} make "cabaret".</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -4653,19 +4919,62 @@ Tämä on sama sana kuin verbi {ret:v}.[2][1] [AUTOTRANSLATED]</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">reynalDo</column>
-      <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">Reynaldo</column>
-      <column name="definition_de">Reynaldo</column>
-      <column name="definition_fa">رینالدو [AUTOTRANSLATED]</column>
-      <column name="definition_sv">Reynaldo [AUTOTRANSLATED]</column>
-      <column name="definition_ru">Рейнальдо [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">雷納爾多 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">Reynaldo</column>
-      <column name="definition_fi">Reynaldo</column>
+      <column name="entry_name">rey'</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">a special performance or presentation</column>
+      <column name="definition_de">besondere Aufführung</column>
+      <column name="definition_fa">یک اجرا یا ارائه ویژه [AUTOTRANSLATED]</column>
+      <column name="definition_sv">en speciell föreställning eller presentation [AUTOTRANSLATED]</column>
+      <column name="definition_ru">специальный перформанс или презентация [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">特別表演或展示 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">uma performance ou apresentação especial</column>
+      <column name="definition_fi">erityinen esitys</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{Hamlet:n:name}</column>
+      <column name="see_also">{much:n}</column>
+      <column name="notes">This noun refers to a performance or presentation that's pretty special in some way. Maybe it's something that happens only once, not to be repeated. Or maybe it occurs regularly but not very often, so it's something which is looked forward to well in advance. Maybe it's something that features a special performer or performers.[1]</column>
+      <column name="notes_de">Dies ist ein nomen das man nicht einfach mit zwei Wörtern erklären kann, abe es ist eine Art Aufführung oder Darbietung, die an sich irgendwie besonders ist. Vielleicht passiert sie nur einmal, und wird nicht wiederholt. Oder vielleicht findet sie nur sehr selten satt, also ist es etwas, auf das man sich besonders lange im Voraus freut. Vielleicht ist es ein Auftritt mit besonderen Künstlern.[1]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes">The KLI Cabaret is a special performance which takes place at the {qep'a':n} (making it a {qep'a' rey':n:nolink}).</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">re'chIv</column>
+      <column name="part_of_speech">n:body</column>
+      <column name="definition">organ, internal organ</column>
+      <column name="definition_de">Organ, inneres Organ [AUTOTRANSLATED]</column>
+      <column name="definition_fa">اندام، اندام داخلی [AUTOTRANSLATED]</column>
+      <column name="definition_sv">organ, inre organ [AUTOTRANSLATED]</column>
+      <column name="definition_ru">орган, внутренний орган [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">器官，內臟 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">órgão, órgão interno [AUTOTRANSLATED]</column>
+      <column name="definition_fi">elin, sisäelin [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{porgh:n}, {bIraqlul:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -4692,7 +5001,50 @@ Tämä on sama sana kuin verbi {ret:v}.[2][1] [AUTOTRANSLATED]</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {Hamlet:src}</column>
+      <column name="source">[1] {qep'a' 29 (2022):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">re'lIng</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">instinct, talent, facility, aptitude</column>
+      <column name="definition_de">Instinkt, Talent, Fähigkeit, Begabung</column>
+      <column name="definition_fa">غریزه، استعداد، امکانات، استعداد [AUTOTRANSLATED]</column>
+      <column name="definition_sv">instinkt, talang, anläggning, begåvning [AUTOTRANSLATED]</column>
+      <column name="definition_ru">инстинкт, талант, способность, способность [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">本能，才能，設施，資質 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">instinto, talento, facilidade, aptidão</column>
+      <column name="definition_fi">(luontainen) vaisto, taipumus, lahjakkuus, kyky</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{po':v}, {Duj:n:2}</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {Saarbrücken qepHom'a' 2021:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -5152,7 +5504,7 @@ Tämän verbin refleksiivisellä muodolla on erityinen merkitys. Katso selitys a
       <column name="definition_ru">играть (духовой инструмент) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">玩（管樂器） [AUTOTRANSLATED]</column>
       <column name="definition_pt">tocar (um instrumento de sopro)</column>
-      <column name="definition_fi">soittaa (puhallinsoitinta)</column>
+      <column name="definition_fi">soittaa (torvea)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{gheb:n}, {SuS:v}, {chu':v:3}, {rIl:v:1}</column>
@@ -5189,7 +5541,7 @@ Tämän verbin refleksiivisellä muodolla on erityinen merkitys. Katso selitys a
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">rIlwI'</column>
-      <column name="part_of_speech">n:deriv,body</column>
+      <column name="part_of_speech">n:body,deriv</column>
       <column name="definition">thumb (child)</column>
       <column name="definition_de">Daumen (Kind)</column>
       <column name="definition_fa">انگشت شست (کودک) [AUTOTRANSLATED]</column>
@@ -5287,30 +5639,30 @@ Tämän verbin refleksiivisellä muodolla on erityinen merkitys. Katso selitys a
       <column name="synonyms"></column>
       <column name="antonyms">{tagh:v}</column>
       <column name="see_also">{pItlh:excl}, {bertlham:n}, {Dor:v:2}, {ghang:v}, {van:v:2}, {'o'megh:n}</column>
-      <column name="notes">By itself, {rIn:v:nolink} is used in radio transmissions to indicate end of transmission, similar to "over".
+      <column name="notes">This verb is used with the suffix {-taH:v} to form {rIntaH:v}, a construction used to indicate finality (cf. the suffix {-ta':v}).[1]
 
-This verb is used with the suffix {-taH:v} to form {rIntaH:v}, a construction used to indicate finality (cf. the suffix {-ta':v}).</column>
-      <column name="notes_de">{rIn:v:nolink} wird für sich genommen bei Funkübertragungen verwendet, um das Ende der Übertragung anzuzeigen, ähnlich wie bei "Over".
+By itself, {rIn:v:nolink} is used in radio transmissions to indicate end of transmission, similar to "over".[2]</column>
+      <column name="notes_de">Dieses Verb wird mit dem Suffix {-taH:v} verwendet, um {rIntaH:v} zu bilden, eine Konstruktion, die verwendet wird, um die Endgültigkeit anzuzeigen (vgl. das Suffix {-ta':v}).[1]
 
-Dieses Verb wird mit dem Suffix {-taH:v} verwendet, um {rIntaH:v} zu bilden, eine Konstruktion, die zur Angabe der Endgültigkeit verwendet wird (vgl. Das Suffix {-ta':v}). [AUTOTRANSLATED]</column>
-      <column name="notes_fa">به خودی خود ، {rIn:v:nolink} در انتقال رادیویی برای نشان دادن پایان انتقال ، مشابه "بیش از" استفاده می شود.
+{rIn:v:nolink} allein wird in Funkübertragungen verwendet, um das Ende der Übertragung anzuzeigen, ähnlich wie "over".[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fa">این فعل با پسوند {-taH:v} برای تشکیل {rIntaH:v} استفاده می شود ، ساختاری که برای نشان دادن نهایی به کار می رود (نک. پسوند {-ta':v}).[1]
 
-این فعل با پسوند {-taH:v} برای شکل دادن {rIntaH:v} ، ساختاری که برای نشان دادن نهایی استفاده می شود (به عنوان مثال پسوند {-ta':v}) استفاده می شود. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">{rIn:v:nolink} används i sig själv i radiosändningar för att indikera slutet av överföringen, liknande "över".
+به تنهایی ، {rIn:v:nolink} در انتقال رادیویی برای نشان دادن پایان انتقال ، شبیه به "بیش از" استفاده می شود. [2] [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Detta verb används med suffixet {-taH:v} för att bilda {rIntaH:v}, en konstruktion som används för att indikera finalitet (jfr suffixet {-ta':v}). [1]
 
-Detta verb används med suffixet {-taH:v} för att bilda {rIntaH:v}, en konstruktion som används för att indikera slutlighet (jfr. Suffixet {-ta':v}). [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Сам по себе, {rIn:v:nolink} используется в радио передачах, чтобы обозначить окончание передаваемого сообщения, что очень похоже на "конец связи".
+I sig självt används {rIn:v:nolink} i radiosändningar för att indikera slutet på överföringen, liknande "över" .[2] [AUTOTRANSLATED]</column>
+      <column name="notes_ru">Глагол используется вместе с суффиксом {-taH:v} чтобы сформировать {rIntaH:v}, т.е конструкцию, чтобы обозначить завершение процесса (сравните с суффиксом {-ta':v}).[1]
 
-Глагол используется вместе с суффиксом {-taH:v} чтобы сформировать {rIntaH:v}, т.е конструкцию, чтобы обозначить завершение процесса (сравните с суффиксом {-ta':v}).</column>
-      <column name="notes_zh_HK">{rIn:v:nolink}本身在無線電傳輸中用於指示傳輸結束，類似於「 over」。
+Сам по себе, {rIn:v:nolink} используется в радио передачах, чтобы обозначить окончание передаваемого сообщения, что очень похоже на "конец связи".[2]</column>
+      <column name="notes_zh_HK">該動詞與後綴 {-taH:v} 一起使用以形成 {rIntaH:v}，該結構用於表示終結（參見後綴 {-ta':v}）。[1]
 
-該動詞與後綴{-taH:v}一起使用以形成{rIntaH:v}，這是一種用於指示終結性的結構（請參見後綴{-ta':v}）。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Por si só, {rIn:v:nolink} é usado em transmissões de rádio para indicar o fim da transmissão, semelhante a "encerrado".
+{rIn:v:nolink} 本身在無線電傳輸中用於指示傳輸結束，類似於“over”。 [2] [AUTOTRANSLATED]</column>
+      <column name="notes_pt">Este verbo é usado com o sufixo {-taH:v} para formar {rIntaH:v}, uma construção usada para indicar finalidade (cf. o sufixo {-ta':v}) .[1]
 
-Este verbo é usado com o sufixo {-taH:v} para formar {rIntaH:v}, uma construção usada para indicar finalidade (cf. o sufixo {-ta':v}). [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Itse asiassa {rIn:v:nolink}: tä käytetään radiolähetyksissä osoittamaan lähetyksen loppu, samanlainen kuin "yli".
+Por si só, {rIn:v:nolink} é usado em transmissões de rádio para indicar o fim da transmissão, semelhante a "over" .[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tätä verbiä käytetään loppuliitteen {-taH:v} kanssa muodostaen {rIntaH:v}, rakenteen, jota käytetään osoittamaan lopullisuutta (vrt. Loppuliite {-ta':v}).[1]
 
-Tätä verbiä käytetään loppuliitteen {-taH:v} kanssa muodostaen {rIntaH:v}, rakenteen, jota käytetään osoittamaan lopullisuutta (vrt. Loppuliite {-ta':v}). [AUTOTRANSLATED]</column>
+Itse asiassa {rIn:v:nolink}: tä käytetään radiolähetyksissä osoittamaan lähetyksen loppu, samanlainen kuin "yli".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5329,12 +5681,12 @@ Tätä verbiä käytetään loppuliitteen {-taH:v} kanssa muodostaen {rIntaH:v},
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {Star Trek VI:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">rIntaH</column>
-      <column name="part_of_speech">v:deriv,i_c</column>
+      <column name="part_of_speech">v:i_c,deriv</column>
       <column name="definition">fait accompli</column>
       <column name="definition_de">erledigt</column>
       <column name="definition_fa">انجام عملی [AUTOTRANSLATED]</column>
@@ -5554,18 +5906,18 @@ Tätä verbiä käytetään loppuliitteen {-taH:v} kanssa muodostaen {rIntaH:v},
       <column name="_id"></column>
       <column name="entry_name">rIS</column>
       <column name="part_of_speech">v:t_c</column>
-      <column name="definition">make a cracking or snapping sound, emit a signal</column>
+      <column name="definition">make a cracking, snapping, or clicking sound, emit a signal</column>
       <column name="definition_de">ein knackendes oder klickendes Geräusch machen, ein Signal aussenden</column>
       <column name="definition_fa">صدای ترک خوردن یا تکان دادن را ایجاد کنید، یک سیگنال را منتشر کردن [AUTOTRANSLATED]</column>
-      <column name="definition_sv">göra ett knäppande eller snäppande ljud, avge en signal</column>
+      <column name="definition_sv">göra ett knäppande eller snäppande ljud, avge en signal [AUTOTRANSLATED]</column>
       <column name="definition_ru">издать треск или щелчок, подать сигнал [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">發出破裂或劈啪聲、發出信號 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">fazer um som de estalido ou estalo, emita um sinal</column>
+      <column name="definition_pt">fazer um som de estalido ou estalo, emitir um sinal</column>
       <column name="definition_fi">tehdä naksahtava tai napsahtava ääni; lähettää ulos signaali, säteillä, erittää, päästää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{rISwI':n:extcan}</column>
-      <column name="notes">This originally referred only to emitting sound. Later, the meaning was extended to mean emitting any sort of signal: sound, radiation, smell, etc. In comparison, {tlhuD:v} refers only to the emission of radiation.</column>
+      <column name="see_also">{rIS:n}, {tlhen:v} {rISwI':n:extcan}</column>
+      <column name="notes">This word originally referred only to emitting sound. Later, the meaning was extended to mean emitting any sort of signal: sound, radiation, smell, etc. In comparison, {tlhuD:v} refers only to the emission of radiation.</column>
       <column name="notes_de">Dies bezog sich ursprünglich nur auf das Aussenden von Ton. Später wurde die Bedeutung erweitert, um jede Art von Signal zu emittieren: Schall, Strahlung, Geruch usw. Im Vergleich dazu bezieht sich {tlhuD:v} nur auf die Emission von Strahlung. [AUTOTRANSLATED]</column>
       <column name="notes_fa">این در ابتدا فقط به انتشار صدا اشاره داشت. بعداً ، این معنی به معنای ساطع هر نوع سیگنال افزایش یافته است: صدا ، تابش ، بو و غیره. در مقایسه ، {tlhuD:v} فقط به انتشار تابش اشاره دارد. [AUTOTRANSLATED]</column>
       <column name="notes_sv">Detta hänvisade ursprungligen bara till avgivande ljud. Senare utvidgades betydelsen till att avge någon typ av signal: ljud, strålning, lukt, etc. I jämförelse hänvisar {tlhuD:v} endast till strålning. [AUTOTRANSLATED]</column>
@@ -5573,7 +5925,9 @@ Tätä verbiä käytetään loppuliitteen {-taH:v} kanssa muodostaen {rIntaH:v},
       <column name="notes_zh_HK">最初僅指發出聲音。後來，該含義擴展為表示發出任何類型的信號：聲音，輻射，氣味等。相比之下，{tlhuD:v}僅指輻射的發射。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso originalmente se referia apenas à emissão de som. Mais tarde, o significado foi estendido para significar emitir qualquer tipo de sinal: som, radiação, cheiro, etc. Em comparação, {tlhuD:v} refere-se apenas à emissão de radiação. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Alun perin tämä tarkoitti vain äänen lähettämistä. Myöhemmin merkitystä laajennettiin tarkoittamaan kaikenlaisen signaalin lähettämistä: ääntä, säteilyä, hajua jne. Vertailun vuoksi {tlhuD:v} viittaa vain säteilyemissioon. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">Snap, Crackle, Pop are the cartoon mascots of Rice Krispies, a breakfast cereal.</column>
+      <column name="hidden_notes">Snap, Crackle, Pop are the cartoon mascots of Rice Krispies, a breakfast cereal.
+
+At {Saarbrücken qepHom'a' 2017:src}, the definition included only "a cracking and snapping sound". At {qep'a' 28 (2021):src}, this was expanded to include "clicking".</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -5591,7 +5945,51 @@ Tätä verbiä käytetään loppuliitteen {-taH:v} kanssa muodostaen {rIntaH:v},
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {Saarbrücken qepHom'a' 2017:src}, [2] {DSC - Battle at the Binary Stars:src}</column>
+      <column name="source">[1] {Saarbrücken qepHom'a' 2017:src}, [2] {DSC - Battle at the Binary Stars:src}, [3] {qep'a' 28 (2021):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">rIS</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">click</column>
+      <column name="definition_de">klicken</column>
+      <column name="definition_fa">کلیک [AUTOTRANSLATED]</column>
+      <column name="definition_sv">klick [AUTOTRANSLATED]</column>
+      <column name="definition_ru">щелкнуть [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">點擊 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">clique</column>
+      <column name="definition_fi">klik-ääni</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{rIS:v}</column>
+      <column name="notes">This is used with {tlhen:v}.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi">Tätä käytetään {tlhen:v}-verbin kanssa.[1]</column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples">
+▶ {rIS tlhen:sen@@rIS:n, tlhen:v} "(it) produces a click sound"[1]</column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -6082,7 +6480,7 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">rI'gheS</column>
-      <column name="part_of_speech">n:fic,inhps</column>
+      <column name="part_of_speech">n:inhps,fic</column>
       <column name="definition">deflector</column>
       <column name="definition_de">Deflektor</column>
       <column name="definition_fa">منحرف کننده [AUTOTRANSLATED]</column>
@@ -6179,7 +6577,7 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
       <column name="definition_fi">ylävartalo, torso</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{porgh:n}, {logh'ob:n}, {chor:n:1}, {Dub:n}, {joQ:n:1}, {DeS:n:1}, {'uS:n}, {volchaH:n}, {mong:n}, {nach:n}, {tIq:n}</column>
+      <column name="see_also">{porgh:n}, {logh'ob:n:1}, {chor:n:1}, {Dub:n}, {joQ:n:1}, {DeS:n:1}, {'uS:n}, {volchaH:n}, {mong:n}, {nach:n}, {tIq:n}</column>
       <column name="notes">Do not confuse this with {ro':n}.</column>
       <column name="notes_de">Verwechseln Sie dies nicht mit {ro':n}. [AUTOTRANSLATED]</column>
       <column name="notes_fa">این را با {ro':n} اشتباه نگیرید. [AUTOTRANSLATED]</column>
@@ -6251,6 +6649,49 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
       <column name="search_tags_fi"></column>
       <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">rober jan</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">lathe</column>
+          <column name="definition_de">Drehbank</column>
+          <column name="definition_fa">ماشین تراش [AUTOTRANSLATED]</column>
+          <column name="definition_sv">svarv [AUTOTRANSLATED]</column>
+          <column name="definition_ru">токарный станок [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">車床 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">torno</column>
+          <column name="definition_fi">sorvi</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{rober:n}, {jan:n:1}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {qep'a' 28 (2021):src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">robwIl</column>
@@ -6274,7 +6715,9 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
       <column name="notes_zh_HK">這可能是{naj:v}「夢」或{SIQ:v}「忍受」和其他一些動詞的對象，但通常不是{ghaj:v}「有」（除非您從某種意義上說是一場噩夢）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este pode ser o objeto de {naj:v} "sonho" ou {SIQ:v} "resistir" e alguns outros verbos, mas geralmente não {ghaj:v} "ter" (a menos que você literalmente possua um pesadelo). [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä voi olla {naj:v} "unelma" tai {SIQ:v} "kestää" ja joidenkin muiden verbien kohde, mutta yleensä ei {ghaj:v} "ole" (ellei sinulla ole kirjaimellisesti painajaista). [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">One of the tracks on the Robin Williams comedy album "Reality... What a Concept" is named "Shakespeare (A Meltdowner's Nightmare)".</column>
+      <column name="hidden_notes">William Shatner played a character named Robert Wilson in the Twilight Zone episode "Nightmare at 20,000 Feet".
+
+One of the tracks on the Robin Williams comedy album "Reality... What a Concept" is named "Shakespeare (A Meltdowner's Nightmare)", but this is probably a genuine concidence.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -6422,6 +6865,49 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {qep'a' 26 (2019):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">roDSon</column>
+      <column name="part_of_speech">n:body</column>
+      <column name="definition">uvula</column>
+      <column name="definition_de">Zäpfchen</column>
+      <column name="definition_fa">توفان [AUTOTRANSLATED]</column>
+      <column name="definition_sv">dröja [AUTOTRANSLATED]</column>
+      <column name="definition_ru">язычок [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">小舌 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">úvula</column>
+      <column name="definition_fi">kitakieleke</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{Hugh:n}, {qurmoQ:n}</column>
+      <column name="notes">Informally, the term {tlhepwI':n} is often used.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes">Backwards of "nose door". One of the functions of the uvula is to close off the nasopharynx when swallowing.</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -6984,96 +7470,96 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}, [2] {Klingon Monopoly:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">romuluS HIq</column>
-      <column name="part_of_speech">n:deriv,food</column>
-      <column name="definition">Romulan ale</column>
-      <column name="definition_de">Romulanisches Ale</column>
-      <column name="definition_fa">رومولان آل [AUTOTRANSLATED]</column>
-      <column name="definition_sv">romulansk öl</column>
-      <column name="definition_ru">Ромуланский эль</column>
-      <column name="definition_zh_HK">Romulan ale [AUTOTRANSLATED]</column>
-      <column name="definition_pt">Ale Romulano</column>
-      <column name="definition_fi">eräs alkoholijuoma, romuluslainen olut</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes">This is considered too potent for tourists.</column>
-      <column name="notes_de">Dies wird als zu stark für Touristen angesehen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این برای گردشگران بسیار قدرتمند در نظر گرفته می شود. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta anses vara för potent för turister. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Считается слишком сильнодействующим для туристов.</column>
-      <column name="notes_zh_HK">這被認為對遊客來說太強大了。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso é considerado muito potente para os turistas. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä pidetään turisteille liian voimakkaana. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
-      <column name="components">{romuluS:n}, {HIq:n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {CK:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">romuluSngan</column>
-      <column name="part_of_speech">n:being,fic,deriv</column>
-      <column name="definition">Romulan</column>
-      <column name="definition_de">Romulaner</column>
-      <column name="definition_fa">رومولان [AUTOTRANSLATED]</column>
-      <column name="definition_sv">romulan</column>
-      <column name="definition_ru">Ромуланец</column>
-      <column name="definition_zh_HK">羅慕倫人</column>
-      <column name="definition_pt">Romulano</column>
-      <column name="definition_fi">romuluslainen</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{romuluS:n}</column>
-      <column name="notes">There is an idiom, {matlhHa'; romuluSngan rur}.</column>
-      <column name="notes_de">Es gibt eine Redewendung, {matlhHa'; romuluSngan rur}. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">یک اصطلاح ، {matlhHa'; romuluSngan rur} وجود دارد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Det finns ett formspråk, {matlhHa'; romuluSngan rur}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Есть идиома, {matlhHa'; romuluSngan rur}.</column>
-      <column name="notes_zh_HK">有一個成語，{matlhHa'; romuluSngan rur}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Existe um idioma, {matlhHa'; romuluSngan rur}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">On idioomi {matlhHa'; romuluSngan rur}. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
-      <column name="components">{romuluS:n}, {ngan:n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">romuluS HIq</column>
+          <column name="part_of_speech">n:deriv,food</column>
+          <column name="definition">Romulan ale</column>
+          <column name="definition_de">Romulanisches Ale</column>
+          <column name="definition_fa">رومولان آل [AUTOTRANSLATED]</column>
+          <column name="definition_sv">romulansk öl</column>
+          <column name="definition_ru">Ромуланский эль</column>
+          <column name="definition_zh_HK">Romulan ale [AUTOTRANSLATED]</column>
+          <column name="definition_pt">Ale Romulano</column>
+          <column name="definition_fi">eräs alkoholijuoma, romuluslainen olut</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This is considered too potent for tourists.</column>
+          <column name="notes_de">Dies wird als zu stark für Touristen angesehen. [AUTOTRANSLATED]</column>
+          <column name="notes_fa">این برای گردشگران بسیار قدرتمند در نظر گرفته می شود. [AUTOTRANSLATED]</column>
+          <column name="notes_sv">Detta anses vara för potent för turister. [AUTOTRANSLATED]</column>
+          <column name="notes_ru">Считается слишком сильнодействующим для туристов.</column>
+          <column name="notes_zh_HK">這被認為對遊客來說太強大了。 [AUTOTRANSLATED]</column>
+          <column name="notes_pt">Isso é considerado muito potente para os turistas. [AUTOTRANSLATED]</column>
+          <column name="notes_fi">Tätä pidetään turisteille liian voimakkaana. [AUTOTRANSLATED]</column>
+          <column name="hidden_notes"></column>
+          <column name="components">{romuluS:n}, {HIq:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {CK:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">romuluSngan</column>
+          <column name="part_of_speech">n:being,deriv,fic</column>
+          <column name="definition">Romulan</column>
+          <column name="definition_de">Romulaner</column>
+          <column name="definition_fa">رومولان [AUTOTRANSLATED]</column>
+          <column name="definition_sv">romulan</column>
+          <column name="definition_ru">Ромуланец</column>
+          <column name="definition_zh_HK">羅慕倫人</column>
+          <column name="definition_pt">Romulano</column>
+          <column name="definition_fi">romuluslainen</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{romuluS:n}</column>
+          <column name="notes">There is an idiom, {matlhHa'; romuluSngan rur}.</column>
+          <column name="notes_de">Es gibt eine Redewendung, {matlhHa'; romuluSngan rur}. [AUTOTRANSLATED]</column>
+          <column name="notes_fa">یک اصطلاح ، {matlhHa'; romuluSngan rur} وجود دارد. [AUTOTRANSLATED]</column>
+          <column name="notes_sv">Det finns ett formspråk, {matlhHa'; romuluSngan rur}. [AUTOTRANSLATED]</column>
+          <column name="notes_ru">Есть идиома, {matlhHa'; romuluSngan rur}.</column>
+          <column name="notes_zh_HK">有一個成語，{matlhHa'; romuluSngan rur}。 [AUTOTRANSLATED]</column>
+          <column name="notes_pt">Existe um idioma, {matlhHa'; romuluSngan rur}. [AUTOTRANSLATED]</column>
+          <column name="notes_fi">On idioomi {matlhHa'; romuluSngan rur}. [AUTOTRANSLATED]</column>
+          <column name="hidden_notes"></column>
+          <column name="components">{romuluS:n}, {ngan:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {TKD:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">romuluSngan Sambogh 'ej HoHbogh nejwI'</column>
-      <column name="part_of_speech">n:weap,fic,deriv</column>
+      <column name="part_of_speech">n:deriv,fic,weap</column>
       <column name="definition">Romulan hunter-killer probe</column>
       <column name="definition_de">romulanische Jagd- und Tötungs-Sonde</column>
       <column name="definition_fa">پروانه شکارچی روحانی قاتل [AUTOTRANSLATED]</column>
@@ -7115,6 +7601,49 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">rom'on</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">zinc</column>
+      <column name="definition_de">Zink</column>
+      <column name="definition_fa">فلز روی [AUTOTRANSLATED]</column>
+      <column name="definition_sv">zink [AUTOTRANSLATED]</column>
+      <column name="definition_ru">цинк [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">鋅 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">zinco</column>
+      <column name="definition_fi">sinkki</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This is the metallic chemical element with the symbol Zn and atomic number 30.</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">ron</column>
       <column name="part_of_speech">v:1,i_c</column>
       <column name="definition">roll, be rolling</column>
@@ -7124,7 +7653,7 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
       <column name="definition_ru">катиться, катиться [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">轆、翻</column>
       <column name="definition_pt">rolar, estar rolando</column>
-      <column name="definition_fi">kieriä, vieriä, pyöriä</column>
+      <column name="definition_fi">kieriä tai vieriä epätasaisesti, poukkoilla</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -7163,11 +7692,11 @@ Detta verb kan tillämpas på flygplan, för vilka se {ron:v:2}. [AUTOTRANSLATED
 Quando aplicado a uma pessoa, significa que a pessoa está rolando ao acaso. Dar uma cambalhota é {Hay:v} e rolar colina abaixo (como um tronco) é {tetlh:v}.[2]
 
 Este verbo pode ser aplicado a aeronaves, para as quais consulte {ron:v:2}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Noppien pelaamisen yhteydessä tämä sana viittaa noppien toimintaan heidän pyörittäessään. (Noppien "heittäminen" tai "heittäminen" olisi {ronmoH:v:nolink}.)[1]
+      <column name="notes_fi">Tätä käytetään nopista kun ne pyörivät heittämisen jälkeen (heittäminen itsessään on {ronmoH:v:nolink}).[1]
 
-Kun sitä käytetään henkilöön, se tarkoittaa, että henkilö liikkuu sattumanvaraisesti. Kummersuolen suorittaminen on {Hay:v}, ja mäkeä alas vierittäminen (kuten loki) on {tetlh:v}.[2]
+Henkilön yhteydessä tämä viittaa sattumanvaraiseen kierimiseen tai vierimiseen (kuperkeikasta sanotaan {Hay:v}, ja mäkeä alas vieriminen on {tetlh:v}).[2]
 
-Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {ron:v:2}. [AUTOTRANSLATED]</column>
+Tällä on täsmällinen merkitys lentokoneista puhuttaessa, ks. {ron:v:2}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -7233,6 +7762,49 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {ron:v:2}. [AUTOTRANS
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {HQ 11.2, Jun. 2002:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">rong</column>
+      <column name="part_of_speech">v:t_c</column>
+      <column name="definition">roast, grill, broil</column>
+      <column name="definition_de">braten, grillen, grillen [AUTOTRANSLATED]</column>
+      <column name="definition_fa">کباب، گریل، کبابی [AUTOTRANSLATED]</column>
+      <column name="definition_sv">steka, grilla, steka [AUTOTRANSLATED]</column>
+      <column name="definition_ru">жаркое, гриль, бройл [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">烤，烤，烤 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">assar, grelhar, grelhar [AUTOTRANSLATED]</column>
+      <column name="definition_fi">paisti, grilli, paista [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This can be used generally, not just for how Terrans tend to ruin food.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 29 (2022):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -7324,49 +7896,49 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {ron:v:2}. [AUTOTRANS
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}, [2] {Saarbrücken qepHom'a' 2016:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">rop'a'</column>
-      <column name="part_of_speech">n:deriv</column>
-      <column name="definition">plague</column>
-      <column name="definition_de">Plage, Epidemie, Pest</column>
-      <column name="definition_fa">طاعون [AUTOTRANSLATED]</column>
-      <column name="definition_sv">pest, farsot, epidemi</column>
-      <column name="definition_ru">чума, бич, мор, эпидемия</column>
-      <column name="definition_zh_HK">鼠疫 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">praga</column>
-      <column name="definition_fi">rutto, kulkutauti</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{rop:n}, {ruDelya' rop'a':n}</column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{rop:n}, {-'a':n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags">epidemic</column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru">эпидемия</column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {Klingon Monopoly:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">rop'a'</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">plague, major disease</column>
+          <column name="definition_de">Plage, Epidemie, Pest</column>
+          <column name="definition_fa">طاعون [AUTOTRANSLATED]</column>
+          <column name="definition_sv">pest, farsot, epidemi</column>
+          <column name="definition_ru">чума, бич, мор, эпидемия</column>
+          <column name="definition_zh_HK">鼠疫 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">praga</column>
+          <column name="definition_fi">rutto, kulkutauti</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{rop:n}, {ruDelya' rop'a':n}</column>
+          <column name="notes">This refers to any epidemic, and not specifically the infectious disease caused by the bacterium Yersinia pestis.</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes">This word was not given a definition in isolation, and appears only as a component of {ruDelya' rop'a':n:nolink}.</column>
+          <column name="components">{rop:n}, {-'a':n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags">epidemic</column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru">эпидемия</column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {Klingon Monopoly:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ropchoHbe' tlhInganpu'.</column>
@@ -7823,9 +8395,52 @@ Sanan käsite voidaan ilmaista muodossa {puq lut:n@@puq:n, lut:n} tai {lut rorgh
       <column name="search_tags_fi"></column>
       <column name="source">[1] {HQ 10.2, Jun. 2001:src}</column>
     </table>
-    <!-- Not marked "deriv" because {roS:v:3} is hypothetical. -->
-    <!-- Note: {roS:v:3} is in the "extra" section. -->
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">roSbe'</column>
+          <column name="part_of_speech">v:i_c,slang</column>
+          <column name="definition">be libidinous</column>
+          <column name="definition_de">triebhaft sein [AUTOTRANSLATED]</column>
+          <column name="definition_fa">میل جنسی باشد [AUTOTRANSLATED]</column>
+          <column name="definition_sv">vara libidinös [AUTOTRANSLATED]</column>
+          <column name="definition_ru">быть страстным [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">性慾旺盛 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">ser libidinoso [AUTOTRANSLATED]</column>
+          <column name="definition_fi">olla libidinen [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This is a slang term based on {roS:v:1} or {roS:v:2} meaning {qIS:v}.[1]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components"></column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags">randy, horny</column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {qep'a' 29 (2022):src}</column>
+        </table>
     <table name="mem">
+      <!-- Not marked "deriv" because {roS:v:3} is hypothetical. -->
+      <!-- Note: {roS:v:3} is in the "extra" section. -->
       <column name="_id"></column>
       <column name="entry_name">roSHa'moH</column>
       <column name="part_of_speech">v:t_c</column>
@@ -7871,7 +8486,7 @@ Sanan käsite voidaan ilmaista muodossa {puq lut:n@@puq:n, lut:n} tai {lut rorgh
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">roSwI'</column>
-      <column name="part_of_speech">n:deriv,body</column>
+      <column name="part_of_speech">n:body,deriv</column>
       <column name="definition">third toe</column>
       <column name="definition_de">dritter Zehe</column>
       <column name="definition_fa">پا سوم [AUTOTRANSLATED]</column>
@@ -7925,7 +8540,7 @@ Sanan käsite voidaan ilmaista muodossa {puq lut:n@@puq:n, lut:n} tai {lut rorgh
       <column name="definition_fi">DNA</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{'uchgha':n}</column>
+      <column name="see_also">{'uchgha':n}, {roSmaH:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -7958,20 +8573,20 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">roSenQatlh</column>
-      <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">Rosencrantz</column>
-      <column name="definition_de">Rosencrantz</column>
-      <column name="definition_fa">روزنکرانتز [AUTOTRANSLATED]</column>
-      <column name="definition_sv">Rosencrantz [AUTOTRANSLATED]</column>
-      <column name="definition_ru">Розенкранц</column>
-      <column name="definition_zh_HK">羅森克蘭茨 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">Rosencrantz</column>
-      <column name="definition_fi">Rosencrantz</column>
+      <column name="entry_name">roSmaH</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">chromosome</column>
+      <column name="definition_de">Chromosom</column>
+      <column name="definition_fa">کروموزوم [AUTOTRANSLATED]</column>
+      <column name="definition_sv">kromosom [AUTOTRANSLATED]</column>
+      <column name="definition_ru">хромосома [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">染色體 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">cromossomo</column>
+      <column name="definition_fi">kromosomi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{Hamlet:n:name}, {ghIlDeSten:n:name}</column>
-      <column name="notes"></column>
+      <column name="see_also">{roSghaH:n}</column>
+      <column name="notes">Chromosomes are numbered (e.g., {roSmaH wej:n:nolink}). The two sex chromosomes are {roSmaH pagh:n:nolink} and {roSmaH bID:n:nolink}. Two {roSmaH bID:n:nolink} chromosomes occur in females, and one of each occur in males.[1]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -7997,7 +8612,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {Hamlet:src}</column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -8269,7 +8884,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="definition_ru">идиоматическая фраза, которая выражает контраст [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">反而</column>
       <column name="definition_pt">frase idiomática que expressa contraste</column>
-      <column name="definition_fi">vastakkainasettelua ilmaiseva idiomi, toisaalta</column>
+      <column name="definition_fi">toisaalta</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -8280,7 +8895,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="notes_ru">Это буквально означает «если открытая рука становится кулаком». Он используется аналогично английскому выражению «с другой стороны». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這字面意思是「如果張開的手變成拳頭」。它的使用方式與英語「另一方面」類似。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa literalmente "se a mão aberta se tornar um punho". É usado de maneira semelhante à expressão em inglês "por outro lado". [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä tarkoittaa kirjaimellisesti "jos avoimesta kädestä tulee nyrkki". Sitä käytetään samalla tavalla kuin englanninkielistä ilmaisua "toisaalta". [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tämä tarkoittaa kirjaimellisesti "jos avoimesta kädestä tulee nyrkki". Sitä käytetään ilmaisemaan vastakkainasettelua samoin kuin suomen sanaa "toisaalta".</column>
       <column name="hidden_notes"></column>
       <column name="components">{ro':n}, {moj:v}, {-chugh:v}, {ghIt:n:1}</column>
       <column name="examples"></column>
@@ -8343,6 +8958,49 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKDA:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">rubyo'</column>
+      <column name="part_of_speech">n:being</column>
+      <column name="definition">politician</column>
+      <column name="definition_de">Politiker</column>
+      <column name="definition_fa">سیاستمدار [AUTOTRANSLATED]</column>
+      <column name="definition_sv">politiker [AUTOTRANSLATED]</column>
+      <column name="definition_ru">политик [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">政治家 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">político</column>
+      <column name="definition_fi">poliitikko</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes">Possibly a reference to a specific politician.</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 28 (2021):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -8436,7 +9094,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ruDelya' rop'a'</column>
-      <column name="part_of_speech">n:fic,deriv</column>
+      <column name="part_of_speech">n:deriv,fic</column>
       <column name="definition">Rudellian plague</column>
       <column name="definition_de">Rudellianische Pest</column>
       <column name="definition_fa">طاعون رودهایی [AUTOTRANSLATED]</column>
@@ -8651,6 +9309,49 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">ruj</column>
+      <column name="part_of_speech">v:is</column>
+      <column name="definition">be physical (subject to laws of physics)</column>
+      <column name="definition_de">physikalisch sein (unterliegt physikalischen Gesetzen) [AUTOTRANSLATED]</column>
+      <column name="definition_fa">فیزیکی باشد (مطابق با قوانین فیزیک) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">vara fysisk (underställd fysikens lagar) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">быть физическим (в соответствии с законами физики) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">是物理的（服從物理定律） [AUTOTRANSLATED]</column>
+      <column name="definition_pt">ser físico (sujeito às leis da física) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">olla fyysinen (fysiikan lakien alainen) [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This means that something is subject to the laws of physics; it could be applied to something corporeal but also to energy.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 29 (2022):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">run</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be short (in stature)</column>
@@ -8696,7 +9397,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {KGT:src}, [2] {paq'batlh p.158-159:src}</column>
+      <column name="source">[1] {KGT:src}, [2] {paq'batlh 2ed p.156-157:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -8799,14 +9500,14 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIp:n}, {vuj:v}, {ghIm:v}</column>
-      <column name="notes">The gas produced is called {SIp:n} (a general word for gas of any kind) or {Qep'It:n} (a gas produced within the body).[1] To distinguish between gas emission from different orifices, use a phrase involving {nuj:n}, {Hugh:n}, or {Sa'Hut:n}.[2]</column>
+      <column name="notes">The gas produced is called {SIp:n} (a general word for gas of any kind) or {Qep'It:n} (a gas produced within the body).[1] To distinguish between gas emission from different orifices, use a phrase involving {nuj:n}, {Hugh:n}, or {Sa'Hut:n:1}.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
-      <column name="notes_sv">Den producerade gasen kallas {SIp:n} (ett allmänt ord för gas av alla slag) eller {Qep'It:n} (en gas som produceras i kroppen).[1] För att skilja mellan gasutsläpp från olika öppningar, använd en fras som involverar {nuj:n}, {Hugh:n} eller {Sa'Hut:n}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Получаемый газ называется {SIp:n} (общее слово для газа любого вида) или {Qep'It:n} (газ, вырабатываемый внутри тела).[1] Чтобы различать выбросы газа из разных отверстий, используйте фразу, включающую {nuj:n}, {Hugh:n} или {Sa'Hut:n}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">產生的氣體稱為{SIp:n}（任何種類的氣體的通用詞）或{Qep'It:n}（體內產生的氣體）。[1]要區分不同孔的氣體排放，請使用涉及{nuj:n}，{Hugh:n}或{Sa'Hut:n}的短語。[2] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">O gás produzido é chamado {SIp:n} (uma palavra geral para qualquer tipo de gás) ou {Qep'It:n} (um gás produzido no corpo).[1] Para distinguir entre emissão de gases de diferentes orifícios, use uma frase envolvendo {nuj:n}, {Hugh:n} ou {Sa'Hut:n}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tuotettua kaasua kutsutaan nimellä {SIp:n} (yleinen sana kaikenlaiselle kaasulle) tai {Qep'It:n} (kehossa tuotettu kaasu).[1]{nuj:n}{Hugh:n}{Sa'Hut:n}[2] [AUTOTRANSLATED]</column>
+      <column name="notes_sv">Den producerade gasen kallas {SIp:n} (ett allmänt ord för gas av alla slag) eller {Qep'It:n} (en gas som produceras i kroppen).[1] För att skilja mellan gasutsläpp från olika öppningar, använd en fras som involverar {nuj:n}, {Hugh:n} eller {Sa'Hut:n:1}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_ru">Получаемый газ называется {SIp:n} (общее слово для газа любого вида) или {Qep'It:n} (газ, вырабатываемый внутри тела).[1] Чтобы различать выбросы газа из разных отверстий, используйте фразу, включающую {nuj:n}, {Hugh:n} или {Sa'Hut:n:1}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_zh_HK">產生的氣體稱為{SIp:n}（任何種類的氣體的通用詞）或{Qep'It:n}（體內產生的氣體）。[1]要區分不同孔的氣體排放，請使用涉及{nuj:n}，{Hugh:n}或{Sa'Hut:n:1}的短語。[2] [AUTOTRANSLATED]</column>
+      <column name="notes_pt">O gás produzido é chamado {SIp:n} (uma palavra geral para qualquer tipo de gás) ou {Qep'It:n} (um gás produzido no corpo).[1] Para distinguir entre emissão de gases de diferentes orifícios, use uma frase envolvendo {nuj:n}, {Hugh:n} ou {Sa'Hut:n:1}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fi">Tuotettua kaasua kutsutaan nimellä {SIp:n} (yleinen sana kaikenlaiselle kaasulle) tai {Qep'It:n} (kehossa tuotettu kaasu).[1]{nuj:n}{Hugh:n}{Sa'Hut:n:1}[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">From the Latin "eructare", or the English "eructation". The belch definition came from {HQ 12.4:src}[1]. It was expanded to also mean fart in a message to the {KLI mailing list:src}.[2]</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8827,6 +9528,49 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="search_tags_fi"></column>
       <column name="source">[1] {HQ 12.4, Dec. 2003:src}, [2] {KLI mailing list 2015.08.03:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">ruqwI'</column>
+          <column name="part_of_speech">n:alt,deriv,slang</column>
+          <column name="definition">{Senjorgh:n}</column>
+          <column name="definition_de">{Senjorgh:n}</column>
+          <column name="definition_fa">{Senjorgh:n}</column>
+          <column name="definition_sv">{Senjorgh:n}</column>
+          <column name="definition_ru">{Senjorgh:n}</column>
+          <column name="definition_zh_HK">{Senjorgh:n}</column>
+          <column name="definition_pt">{Senjorgh:n}</column>
+          <column name="definition_fi">{Senjorgh:n}</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components"></column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {qep'a' 28 (2021):src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ruq'e'vet</column>
@@ -9085,6 +9829,49 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">ruryuD</column>
+      <column name="part_of_speech">n:anim</column>
+      <column name="definition">rhinoceros-like animal</column>
+      <column name="definition_de">nashornartiges Tier [AUTOTRANSLATED]</column>
+      <column name="definition_fa">حیوانی شبیه کرگدن [AUTOTRANSLATED]</column>
+      <column name="definition_sv">noshörningsliknande djur [AUTOTRANSLATED]</column>
+      <column name="definition_ru">животное похожее на носорога [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">類似犀牛的動物 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">animal parecido com rinoceronte [AUTOTRANSLATED]</column>
+      <column name="definition_fi">sarvikuonon kaltainen eläin [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {qep'a' 29 (2022):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">ruS</column>
       <column name="part_of_speech">n</column>
       <column name="definition">bond</column>
@@ -9110,33 +9897,33 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="components"></column>
       <column name="examples">
 ▶ {vaj:sen:nolink}
-   {qorDu' ruS HoS law':sen:nolink}
+   {qorDu'maj ruS HoS law':sen:nolink}
    {Hegh HoS puS:sen:nolink}
   "This can only mean
    Our family bonds are stronger
-   Than even death itself."[3, p.100-101]
+   Than even death itself."[3, p.106-107]
 ▶ {vaj ruS cher 'Iw:sen:nolink}
    {rap cha' ghot HoS rap cha' ghot vuD:sen:nolink}
    {chen yIn ruS:sen:nolink}
   "So the bond was sealed in blood
    Of two equal in body and thought,
-   The bond of life."[3, p.136-137]</column>
+   The bond of life."[3, p.138-139]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru">
 ▶ {vaj:sen:nolink}
-   {qorDu' ruS HoS law':sen:nolink}
+   {qorDu'maj ruS HoS law':sen:nolink}
    {Hegh HoS puS:sen:nolink}
   "Это только может значить
    Наши семейные связи сильнее
-   Чем сама смерть."[3, p.100-101]
+   Чем сама смерть."[3, p.106-107]
 ▶ {vaj ruS cher 'Iw:sen:nolink}
    {rap cha' ghot HoS rap cha' ghot vuD:sen:nolink}
    {chen yIn ruS:sen:nolink}
   "Таким образом связь была сокрыта в крови
    Двух равных телесно и мысленно,
-   Связь жизни."[3, p.136-137]</column>
+   Связь жизни."[3, p.138-139]</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
@@ -9148,7 +9935,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {qep'a' 17 (2010):src}, [2] {'u':src}, [3] {paq'batlh:src}</column>
+      <column name="source">[1] {qep'a' 17 (2010):src}, [2] {'u':src}, [3] {paq'batlh 2ed:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
