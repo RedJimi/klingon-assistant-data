@@ -7320,13 +7320,13 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="entry_name">tIlqemchaw'</column>
       <column name="part_of_speech">n</column>
       <column name="definition">thingamajig</column>
-      <column name="definition_de">Sachemajig [AUTOTRANSLATED]</column>
+      <column name="definition_de">Dingsbums</column>
       <column name="definition_fa">چیزماجیگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">thingamajig [AUTOTRANSLATED]</column>
       <column name="definition_ru">штуковина [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">事情發生 [AUTOTRANSLATED]</column>
       <column name="definition_pt">coisamajig [AUTOTRANSLATED]</column>
-      <column name="definition_fi">kapistus, hilavitkutin</column>
+      <column name="definition_fi">juttu, härpäke, hilavitkutin; mikä se nyt olikaan</column>
       <column name="synonyms">{qeQvav:n}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -7338,7 +7338,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">"Whatchamacallit" backwards.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>

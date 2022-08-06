@@ -3191,7 +3191,7 @@ This was defined as "side". The clarification "exterior surface" was added based
       <column name="definition">Always it is the brave ones who die.</column>
       <column name="definition_de">Es sind immer die tapferen, die sterben.</column>
       <column name="definition_fa">همیشه آنهایی که شجاع هستند که میمیرند. [AUTOTRANSLATED]</column>
-o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
+      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="definition_ru">Всегда есть кто-то храбрый, кто умирает.</column>
       <column name="definition_zh_HK">永遠是勇敢的人死了。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Sempre são os corajosos que morrem.</column>
@@ -4965,7 +4965,7 @@ Tämä on sama sana kuin verbi {ret:v}.[2][1] [AUTOTRANSLATED]</column>
       <column name="entry_name">re'chIv</column>
       <column name="part_of_speech">n:body</column>
       <column name="definition">organ, internal organ</column>
-      <column name="definition_de">Organ, inneres Organ [AUTOTRANSLATED]</column>
+      <column name="definition_de">inneres Organ</column>
       <column name="definition_fa">اندام، اندام داخلی [AUTOTRANSLATED]</column>
       <column name="definition_sv">organ, inre organ [AUTOTRANSLATED]</column>
       <column name="definition_ru">орган, внутренний орган [AUTOTRANSLATED]</column>
@@ -4983,7 +4983,7 @@ Tämä on sama sana kuin verbi {ret:v}.[2][1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">"Viscera" backwards.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -7768,13 +7768,13 @@ Tällä on täsmällinen merkitys lentokoneista puhuttaessa, ks. {ron:v:2}.</col
       <column name="entry_name">rong</column>
       <column name="part_of_speech">v:t_c</column>
       <column name="definition">roast, grill, broil</column>
-      <column name="definition_de">braten, grillen, grillen [AUTOTRANSLATED]</column>
+      <column name="definition_de">rösten, grillen</column>
       <column name="definition_fa">کباب، گریل، کبابی [AUTOTRANSLATED]</column>
       <column name="definition_sv">steka, grilla, steka [AUTOTRANSLATED]</column>
       <column name="definition_ru">жаркое, гриль, бройл [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">烤，烤，烤 [AUTOTRANSLATED]</column>
       <column name="definition_pt">assar, grelhar, grelhar [AUTOTRANSLATED]</column>
-      <column name="definition_fi">paistaa, paahtaa, grillata</column>
+      <column name="definition_fi">paistaa, grillata</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -7786,7 +7786,7 @@ Tällä on täsmällinen merkitys lentokoneista puhuttaessa, ks. {ron:v:2}.</col
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This is preparing food in the "wrong" way, from a Klingon point of view.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -8400,7 +8400,7 @@ Sanan käsite voidaan ilmaista muodossa {puq lut:n@@puq:n, lut:n} tai {lut rorgh
           <column name="entry_name">roSbe'</column>
           <column name="part_of_speech">v:i_c,slang</column>
           <column name="definition">be libidinous</column>
-          <column name="definition_de">triebhaft sein [AUTOTRANSLATED]</column>
+          <column name="definition_de">triebhaft sein</column>
           <column name="definition_fa">میل جنسی باشد [AUTOTRANSLATED]</column>
           <column name="definition_sv">vara libidinös [AUTOTRANSLATED]</column>
           <column name="definition_ru">быть страстным [AUTOTRANSLATED]</column>
@@ -8435,7 +8435,7 @@ Sanan käsite voidaan ilmaista muodossa {puq lut:n@@puq:n, lut:n} tai {lut rorgh
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi"></column>
+          <column name="search_tags_fi">kiimainen</column>
           <column name="source">[1] {qep'a' 29 (2022):src}</column>
         </table>
     <table name="mem">
@@ -8931,7 +8931,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'Iw:n}, {chab:n:1}, {ro'qegh:n:hyp}</column>
-      <column name="notes"></column>
+      <column name="notes">One of its ingredients is the {DayquS:n} plant.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -8957,7 +8957,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKDA:src}</column>
+      <column name="source">[1] {TKDA:src}, [2] {KCD:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -8973,7 +8973,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="definition_fi">poliitikko</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also"></column>
+      <column name="see_also">{qum:n}, {qo'rob:n}, {woQ:n}, {moH:v:2}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -8982,7 +8982,9 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">Possibly a reference to a specific politician.</column>
+      <column name="hidden_notes">Possibly a reference to a specific politician.
+
+The original request wasn't neutral: "A person who is professionally involved in politics. Also a derogatory term for a person who manipulates or pleases others just to gain own advantage. For example, Gowron is described as a politician in DS9." Based on this, it seems the term may be used in a derogatory manner, to mean something like "political careerist" or "political opportunist".</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -8992,7 +8994,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">opportunist, careerist</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -9312,13 +9314,13 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="entry_name">ruj</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be physical (subject to laws of physics)</column>
-      <column name="definition_de">physikalisch sein (unterliegt physikalischen Gesetzen) [AUTOTRANSLATED]</column>
+      <column name="definition_de">physikalisch sein</column>
       <column name="definition_fa">فیزیکی باشد (مطابق با قوانین فیزیک) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara fysisk (underställd fysikens lagar) [AUTOTRANSLATED]</column>
       <column name="definition_ru">быть физическим (в соответствии с законами физики) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">是物理的（服從物理定律） [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser físico (sujeito às leis da física) [AUTOTRANSLATED]</column>
-      <column name="definition_fi">olla fysikaalinen, aineellinen</column>
+      <column name="definition_fi">olla fyysinen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9832,13 +9834,13 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="entry_name">ruryuD</column>
       <column name="part_of_speech">n:anim</column>
       <column name="definition">rhinoceros-like animal</column>
-      <column name="definition_de">nashornartiges Tier [AUTOTRANSLATED]</column>
+      <column name="definition_de">Nashorn-ähnliches</column>
       <column name="definition_fa">حیوانی شبیه کرگدن [AUTOTRANSLATED]</column>
       <column name="definition_sv">noshörningsliknande djur [AUTOTRANSLATED]</column>
       <column name="definition_ru">животное похожее на носорога [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">類似犀牛的動物 [AUTOTRANSLATED]</column>
       <column name="definition_pt">animal parecido com rinoceronte [AUTOTRANSLATED]</column>
-      <column name="definition_fi">eräs sarvikuonon kaltainen eläin</column>
+      <column name="definition_fi">eräs sarvikuonoa muistuttava eläin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>

@@ -4325,7 +4325,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/HVOJkR51l
       <column name="entry_name">yIr'ach</column>
       <column name="part_of_speech">n:being</column>
       <column name="definition">close friend</column>
-      <column name="definition_de">enger Freund [AUTOTRANSLATED]</column>
+      <column name="definition_de">enge/r Freund/in</column>
       <column name="definition_fa">دوست صمیمی [AUTOTRANSLATED]</column>
       <column name="definition_sv">nära vän [AUTOTRANSLATED]</column>
       <column name="definition_ru">близкие друзья [AUTOTRANSLATED]</column>
@@ -4560,7 +4560,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/HVOJkR51l
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">Backwards of "Tikriti", a reference to wars widely believed to have been fought over petroleum.</column>
+      <column name="hidden_notes">Backwards of "Texas Tea", a slang term for petroleum popularised by "The Ballad of Jed Clampett", the theme song of The Beverly Hillbillies.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -4988,13 +4988,13 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="entry_name">yI'De'</column>
       <column name="part_of_speech">n:anim</column>
       <column name="definition">cervid-like animal</column>
-      <column name="definition_de">hirnartiges Tier [AUTOTRANSLATED]</column>
+      <column name="definition_de">Hirsch-ähnliches Tier</column>
       <column name="definition_fa">حیوانی شبیه دهانه رحم [AUTOTRANSLATED]</column>
       <column name="definition_sv">hjortdjursliknande djur [AUTOTRANSLATED]</column>
       <column name="definition_ru">цервидоподобное животное [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">類似子宮的動物 [AUTOTRANSLATED]</column>
       <column name="definition_pt">animal tipo cervídeo [AUTOTRANSLATED]</column>
-      <column name="definition_fi">eräs hirven kaltainen eläin</column>
+      <column name="definition_fi">eräs hirveä muistuttava eläin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -5006,7 +5006,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">The TV show Frasier had a character named Eddie ({'eD'Iy:sen:nolink}) Crane played by a dog named "Moose".</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -5023,7 +5023,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">hirvi</column>
       <column name="source">[1] {qep'a' 29 (2022):src}</column>
     </table>
     <table name="mem">

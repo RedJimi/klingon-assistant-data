@@ -280,7 +280,7 @@
           <column name="notes_zh_HK">此命令用於挑戰某人進行決鬥。通常將其縮短為{HI'ang!:sen:nolink}，有關更多信息，請參閱{Hay':v}。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Este comando é usado para desafiar alguém a um duelo. Geralmente é encurtado para {HI'ang!:sen:nolink} Consulte {Hay':v} para obter mais detalhes. [AUTOTRANSLATED]</column>
           <column name="notes_fi">Tätä komentoa käytetään haastamaan joku kaksintaisteluun. Se lyhennetään usein muotoon {HI'ang!:sen:nolink}. Katso lisää etaileja kohdasta {Hay':v}. [AUTOTRANSLATED]</column>
-  <column name="hidden_notes">The Klingon version of this sentence has no punctuation as printed on {KGT p.68:src}, but the English one has an exclamation mark. The exclamation mark has been added for consistency.</column>
+          <column name="hidden_notes">The Klingon version of this sentence has no punctuation as printed on {KGT p.68:src}, but the English one has an exclamation mark. The exclamation mark has been added for consistency.</column>
           <column name="components">{qab:n}, {-lIj:n}, {HI-:v}, {'ang:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
@@ -5721,15 +5721,15 @@ Kouluttaa todella hyvin, työskennellä siinä todella paljon ja saavuttaa aiotu
       <column name="_id"></column>
       <column name="entry_name">qeQvav</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">thingamajig</column>
+      <column name="definition">Dingsbums</column>
       <column name="definition_de">Sachemajig [AUTOTRANSLATED]</column>
       <column name="definition_fa">چیزماجیگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">thingamajig [AUTOTRANSLATED]</column>
       <column name="definition_ru">штуковина [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">事情發生 [AUTOTRANSLATED]</column>
       <column name="definition_pt">coisamajig [AUTOTRANSLATED]</column>
-      <column name="definition_fi">kapistus, hilavitkutin</column>
-      <column name="synonyms">{tIlqemchaw:n}</column>
+      <column name="definition_fi">juttu, härpäke, hilavitkutin; mikä se nyt olikaan</column>
+      <column name="synonyms">{tIlqemchaw':n}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes"></column>
@@ -5740,7 +5740,7 @@ Kouluttaa todella hyvin, työskennellä siinä todella paljon ja saavuttaa aiotu
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">"Doodad" ({qeQ:n} + {vav:n}).</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -6636,7 +6636,7 @@ Kuuluisa kirjailija {Qa'taq:n:name} kirjoitti kommentin tähän teokseen. [AUTOT
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">pillu</column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2018:src}</column>
     </table>
     <table name="mem">
@@ -8060,7 +8060,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="entry_name">qIS</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be libidinous</column>
-      <column name="definition_de">triebhaft sein [AUTOTRANSLATED]</column>
+      <column name="definition_de">triebhaft sein</column>
       <column name="definition_fa">میل جنسی باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara libidinös [AUTOTRANSLATED]</column>
       <column name="definition_ru">быть страстным [AUTOTRANSLATED]</column>
@@ -8070,7 +8070,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
-      <column name="notes">There are also various slang terms: {Huy:v:3}, {jIr qIvon:sen}, {roSbe':v}, {wamtaH:v}.[1]</column>
+      <column name="notes">There are also various slang terms: {Huy:v:3}, {roSbe':v}, {jIr qIvon:sen}, {wamtaH:sen}.[1]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -8078,7 +8078,9 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">The English definitions of the slang terms were given as "be spicy, be piquant, be hot", "the qIvon twirls", "does not lick/use the third toe", and "hunting".</column>
+      <column name="hidden_notes">"Kiss".
+
+The English definitions of the slang terms were given as "be spicy, be piquant, be hot", "the qIvon twirls", "does not lick/use the third toe", and "hunting".</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -8095,7 +8097,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">kiimainen</column>
       <column name="source">[1] {qep'a' 29 (2022):src}</column>
     </table>
     <table name="mem">
@@ -9703,7 +9705,7 @@ On toinenkin verbi, {gher:v}, jota käytetään luetteloiden ja vastaavien kokoa
       <column name="definition_fi">robotti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also"></column>
+      <column name="see_also">{borgh:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -10938,7 +10940,7 @@ Ricardo Montalbán (Khan Noonien Singh) appeared in a series of Chrysler commerc
       <column name="definition_fi">nukke (-hallitsija, -valtio tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{woQ:n}</column>
+      <column name="see_also">{woQ:n}, {rubyo':n}</column>
       <column name="notes">This is used for example to denote a "puppet state" or "puppet government".</column>
       <column name="notes_de">Dies wird zum Beispiel verwendet, um einen "Marionettenstaat" oder eine "Marionettenregierung" zu bezeichnen. [AUTOTRANSLATED]</column>
       <column name="notes_fa">به عنوان مثال برای نشان دادن "دولت دست نشانده" یا "دولت دست نشانده" استفاده می شود. [AUTOTRANSLATED]</column>
@@ -12135,7 +12137,7 @@ There is no one way to say "firefighter". Some options are {qul SuvwI':n} "fire 
       <column name="definition_fi">valtio, julkinen puoli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{loH:n}, {teblaw':n}, {qum:v}</column>
+      <column name="see_also">{loH:n}, {teblaw':n}, {rubyo':n}, {qum:v}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -12911,13 +12913,13 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="entry_name">qurleH</column>
       <column name="part_of_speech">n:fic,weap</column>
       <column name="definition">kur'leth</column>
-      <column name="definition_de">kur'leth [AUTOTRANSLATED]</column>
+      <column name="definition_de">Kur'leth</column>
       <column name="definition_fa">کورلث [AUTOTRANSLATED]</column>
       <column name="definition_sv">kur'leth [AUTOTRANSLATED]</column>
       <column name="definition_ru">кур'лет [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">庫勒斯 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kur'leth [AUTOTRANSLATED]</column>
-      <column name="definition_fi">eräs teräase, kur'leth</column>
+      <column name="definition_fi">eräs ase, kur'leth</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>

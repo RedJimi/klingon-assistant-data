@@ -3808,13 +3808,13 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="entry_name">lew</column>
       <column name="part_of_speech">v:i</column>
       <column name="definition">bloom</column>
-      <column name="definition_de">blühen [AUTOTRANSLATED]</column>
+      <column name="definition_de">blühen</column>
       <column name="definition_fa">شکوفه [AUTOTRANSLATED]</column>
       <column name="definition_sv">blomma [AUTOTRANSLATED]</column>
       <column name="definition_ru">цвести [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">盛開 [AUTOTRANSLATED]</column>
       <column name="definition_pt">florescer [AUTOTRANSLATED]</column>
-      <column name="definition_fi">kukkia, kukoistaa (kukista ja kasveista)</column>
+      <column name="definition_fi">kukkia, puhjeta (kukasta, silmusta, lehdestä, ym.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'InSong:n}, {por:n}</column>
@@ -3826,7 +3826,7 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">A reference to stage actor Lew Bloom.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -8836,7 +8836,7 @@ Marc Okrand has said that he prefers to call the puns or "Easter Eggs" in the Kl
       <column name="notes_fi"></column>
       <column name="hidden_notes">This was defined as "use" in {TKDA:src}. The "mode" meaning was explained in a message to the {KLI mailing list:src}.</column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">{lo' law':n}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -9888,7 +9888,7 @@ This word was suggested by Marc Okrand to translate "asylum" (in the sense of "r
           <column name="entry_name">lunglIH Duj</column>
           <column name="part_of_speech">n:deriv</column>
           <column name="definition">helicopter</column>
-          <column name="definition_de">Hubschrauber [AUTOTRANSLATED]</column>
+          <column name="definition_de">Hubschrauber</column>
           <column name="definition_fa">بالگرد [AUTOTRANSLATED]</column>
           <column name="definition_sv">helikopter [AUTOTRANSLATED]</column>
           <column name="definition_ru">вертолет [AUTOTRANSLATED]</column>
