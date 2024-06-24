@@ -1923,7 +1923,7 @@ Ce verbe serait réservé uniquement aux situations se rapprochant d'Armageddon.
       <column name="definition_ru">видео (движущиеся изображения) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">影片（移動影像） [AUTOTRANSLATED]</column>
       <column name="definition_pt">vídeo (imagens em movimento) [AUTOTRANSLATED]</column>
-      <column name="definition_fi">video (liikkuvat kuvat) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">videokuva</column>
       <column name="definition_fr">vidéo (images animées) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1974,7 +1974,7 @@ Aluksen näytöllä ({jIH:n:2}) voi näkyä valokuvaa aluksen ulkopuolelta ({HaS
       <column name="definition_ru">Дисплей</column>
       <column name="definition_zh_HK">畫面顯示 [AUTOTRANSLATED]</column>
       <column name="definition_pt">exibição visual</column>
-      <column name="definition_fi">videokuva; (avaruusaluksen näytöllä) kuvanäkymä</column>
+      <column name="definition_fi">kuvanäkymä (avaruusaluksen näytöllä)</column>
       <column name="definition_fr">affichage visuel, vidéo [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2647,27 +2647,27 @@ This resembles the actual etymology of "pixel", which is shortened from "picture
       <column name="see_also">{cha' qabDu':n}, {vItHay':n}, {qab:n}, {baj:v}</column>
       <column name="notes">To challenge someone to a duel, say {qablIj HI'ang!:sen} (This is often shortened to {HI'ang!:sen:nolink}) It is said of the party issuing the challenge that {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "he/she shows his/her face". The act of issuing the challenge is {poQ:v}, which is short for {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "He/she demands to see a face". Hitting one's adversary with the back of the hand ({chap:n}) while issuing the challenge is to demand a duel to the death ({Hay'chu':v}).[2]
 
-To agree to the duel, say {vISo'be':sen@@vI-:v, So':v:1, -be':v} "I don't hide it" (or the longer {qabwIj vISo'be':sen} "I don't hide my face"). The challenged party is then said to {'angchu':sen@@'ang:v, -chu':v} (short for {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). One accepts a challenge ({qab 'ang:sen@@qab:n, 'ang:v}) in order to prove one's honor ({quv tob:sen@@quv:n, tob:v}).[2]</column>
+To agree to the duel, say {vISo'be':sen@@vI-:v, So':v:1, -be':v} "I don't hide it" (or the longer {qabwIj vISo'be'.:sen} "I don't hide my face"). The challenged party is then said to {'angchu':sen@@'ang:v, -chu':v} (short for {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). One accepts a challenge ({qab 'ang:sen@@qab:n, 'ang:v}) in order to prove one's honor ({quv tob:sen@@quv:n, tob:v}).[2]</column>
       <column name="notes_de">Um jemanden zu einem Duell herauszufordern, sagen Sie {qablIj HI'ang!:sen} (dies wird oft zu {HI'ang!:sen:nolink} abgekürzt). Es wird von der Partei, die die Herausforderung herausgibt, gesagt, dass {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "er / sie zeigt sein / ihr Gesicht". Der Akt der Herausgabe der Herausforderung ist {poQ:v}, was für {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} steht. "Er / sie verlangt, ein Gesicht zu sehen". Wenn Sie Ihren Gegner mit dem Handrücken treffen ({chap:n}), während Sie die Herausforderung stellen, müssen Sie ein Duell bis zum Tod fordern ({Hay'chu':v}) .[2]
 
-Um dem Duell zuzustimmen, sagen Sie {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Ich verstecke es nicht" (oder das längere {qabwIj vISo'be':sen} "Ich verstecke mein Gesicht nicht"). Die herausgeforderte Partei wird dann zu {'angchu':sen@@'ang:v, -chu':v} (kurz für {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}) gesagt. Man nimmt eine Herausforderung an ({qab 'ang:sen@@qab:n, 'ang:v}), um seine Ehre zu beweisen ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
+Um dem Duell zuzustimmen, sagen Sie {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Ich verstecke es nicht" (oder das längere {qabwIj vISo'be'.:sen} "Ich verstecke mein Gesicht nicht"). Die herausgeforderte Partei wird dann zu {'angchu':sen@@'ang:v, -chu':v} (kurz für {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}) gesagt. Man nimmt eine Herausforderung an ({qab 'ang:sen@@qab:n, 'ang:v}), um seine Ehre zu beweisen ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_fa">برای به چالش کشیدن کسی برای دوئل ، گفتن {qablIj HI'ang!:sen} (این اغلب به {HI'ang!:sen:nolink} کوتاه می شود) گفته می شود که طرف صادر کننده این چالش که {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "او چهره خود را نشان می دهد". عمل صدور چالش {poQ:v} است که برای {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} کوتاه است "او / او خواستار دیدن چهره است". ضربه زدن به طرف مقابل با پشت ({chap:n}) هنگام صدور چالش ، خواستار مرگ دوئل است ({Hay'chu':v}) .[2]
 
-برای موافقت با دوئل ، بگویید {vISo'be':sen@@vI-:v, So':v:1, -be':v} "من آن را پنهان نمی کنم" (یا طولانی ترین {qabwIj vISo'be':sen} "صورت من را پنهان نمی کنم"). سپس طرف مقابل به {'angchu':sen@@'ang:v, -chu':v} گفته می شود (کوتاه برای {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). یکی از افراد برای اثبات افتخار ({qab 'ang:sen@@qab:n, 'ang:v}) یک چالش را قبول می کند ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
+برای موافقت با دوئل ، بگویید {vISo'be':sen@@vI-:v, So':v:1, -be':v} "من آن را پنهان نمی کنم" (یا طولانی ترین {qabwIj vISo'be'.:sen} "صورت من را پنهان نمی کنم"). سپس طرف مقابل به {'angchu':sen@@'ang:v, -chu':v} گفته می شود (کوتاه برای {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). یکی از افراد برای اثبات افتخار ({qab 'ang:sen@@qab:n, 'ang:v}) یک چالش را قبول می کند ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_sv">För att utmana någon till en duell, säg {qablIj HI'ang!:sen} (Detta förkortas ofta till {HI'ang!:sen:nolink}) Det sägs om partiet som utfärdar utmaningen att {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "han / hon visar sitt ansikte". Handlingen att utfärda utmaningen är {poQ:v}, vilket är kort för {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "Han / hon kräver att se ett ansikte". Att slå ens motståndare med handen på baksidan ({chap:n}) medan man utmanar utmaningen är att kräva en duell till döds ({Hay'chu':v}) .[2]
 
-För att gå med på duellen, säg {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Jag döljer inte det" (eller längre {qabwIj vISo'be':sen} "Jag döljer inte mitt ansikte"). Det utmanade partiet sägs sedan till {'angchu':sen@@'ang:v, -chu':v} (kort för {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Man accepterar en utmaning ({qab 'ang:sen@@qab:n, 'ang:v}) för att bevisa sin ära ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
+För att gå med på duellen, säg {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Jag döljer inte det" (eller längre {qabwIj vISo'be'.:sen} "Jag döljer inte mitt ansikte"). Det utmanade partiet sägs sedan till {'angchu':sen@@'ang:v, -chu':v} (kort för {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Man accepterar en utmaning ({qab 'ang:sen@@qab:n, 'ang:v}) för att bevisa sin ära ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Para desafiar alguém para um duelo, diga {qablIj HI'ang!:sen} (geralmente abreviado para {HI'ang!:sen:nolink}). Diz-se que a parte que lança o desafio {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "mostra sua cara". O ato de lançar o desafio é {poQ:v}, que é a abreviação de {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "Ele exige ver um rosto". Bater no adversário com as costas da mão ({chap:n}) ao lançar o desafio é exigir um duelo até a morte ({Hay'chu':v}) .[2]
 
-Para concordar com o duelo, diga {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Eu não escondo" (ou o mais longo {qabwIj vISo'be':sen} "Eu não escondo meu rosto"). A parte desafiada é então chamada de {'angchu':sen@@'ang:v, -chu':v} (abreviação de {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Aceita-se um desafio ({qab 'ang:sen@@qab:n, 'ang:v}) para provar sua honra ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
+Para concordar com o duelo, diga {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Eu não escondo" (ou o mais longo {qabwIj vISo'be'.:sen} "Eu não escondo meu rosto"). A parte desafiada é então chamada de {'angchu':sen@@'ang:v, -chu':v} (abreviação de {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Aceita-se um desafio ({qab 'ang:sen@@qab:n, 'ang:v}) para provar sua honra ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Haasta joku kaksintaisteluun sano {qablIj HI'ang!:sen} (tämä lyhennetään usein sanaan {HI'ang!:sen:nolink}) Haasteen antaneesta osapuolesta sanotaan, että {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "hän näyttää kasvonsa". Haasteen antaminen on {poQ:v}, joka on lyhenne sanoista {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "Hän vaatii kasvojen näkymistä". Vastustajan lyöminen kädellä ({chap:n}) haasteen antamisen yhteydessä on vaatia kaksintaistelua kuolemaan ({Hay'chu':v}).
 
-Hyväksy kaksintaistelu sanomalla {vISo'be':sen@@vI-:v, So':v:1, -be':v} "En piilota sitä" (tai pidempi {qabwIj vISo'be':sen} "En piilota kasvoni"). Haasteteltava osapuoli sanotaan sitten {'angchu':sen@@'ang:v, -chu':v} (lyhenne sanoista {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Yksi hyväksyy haasteen ({qab 'ang:sen@@qab:n, 'ang:v}) osoittaakseen kunniansa ({quv tob:sen@@quv:n, tob:v}).[2][2] [AUTOTRANSLATED]</column>
+Hyväksy kaksintaistelu sanomalla {vISo'be':sen@@vI-:v, So':v:1, -be':v} "En piilota sitä" (tai pidempi {qabwIj vISo'be'.:sen} "En piilota kasvoni"). Haasteteltava osapuoli sanotaan sitten {'angchu':sen@@'ang:v, -chu':v} (lyhenne sanoista {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Yksi hyväksyy haasteen ({qab 'ang:sen@@qab:n, 'ang:v}) osoittaakseen kunniansa ({quv tob:sen@@quv:n, tob:v}).[2][2] [AUTOTRANSLATED]</column>
       <column name="notes_fr">Pour défier quelqu'un en duel, dites {qablIj HI'ang!:sen} (ceci est souvent abrégé en {HI'ang!:sen:nolink}). On dit de la partie qui lance le défi que {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "il/elle montre son visage". L'acte de lancer le défi est {poQ:v}, qui est l'abréviation de {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "Il/elle demande à voir un visage". Frapper son adversaire du revers de la main ({chap:n}) en lançant le défi, c'est exiger un duel à mort ({Hay'chu':v}).[2]
 
-Pour accepter le duel, dites {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Je ne le cache pas" (ou le plus long {qabwIj vISo'be':sen} "Je ne cache pas mon visage"). La partie contestée est alors appelée {'angchu':sen@@'ang:v, -chu':v} (abréviation de {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). On accepte un défi ({qab 'ang:sen@@qab:n, 'ang:v}) afin de prouver son honneur ({quv tob:sen@@quv:n, tob:v}).[2] [AUTOTRANSLATED]</column>
+Pour accepter le duel, dites {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Je ne le cache pas" (ou le plus long {qabwIj vISo'be'.:sen} "Je ne cache pas mon visage"). La partie contestée est alors appelée {'angchu':sen@@'ang:v, -chu':v} (abréviation de {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). On accepte un défi ({qab 'ang:sen@@qab:n, 'ang:v}) afin de prouver son honneur ({quv tob:sen@@quv:n, tob:v}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3034,7 +3034,7 @@ This was defined as "animal" in {TKD:src}, but as "meat, animal" in {TKDA:src}.<
       <column name="definition_de">Hefter, Tackergerät</column>
       <column name="definition_fa">منگنه [AUTOTRANSLATED]</column>
       <column name="definition_sv">häftapparat [AUTOTRANSLATED]</column>
-      <column name="definition_ru">стэплер [AUTOTRANSLATED]</column>
+      <column name="definition_ru">степлер</column>
       <column name="definition_zh_HK">訂書機 [AUTOTRANSLATED]</column>
       <column name="definition_pt">grampeador</column>
       <column name="definition_fi">nitoja</column>
@@ -3209,7 +3209,7 @@ Pour utiliser un tel appareil, on peut le {qIp:v}, {'uy:v} ou {ngaH:v}, selon l'
       <column name="see_also">{HeDon:n}, {tIgh:n}</column>
       <column name="notes">This word can only refer to a physical route, and not to a spiritual or metaphorical route. "The Klingon Way", for example, is {tlhIngan tIgh:n:nolink}.
 
-A physical path (which one can see and walk) on would be a {taw:n}.[2]</column>
+A physical path (which one can see and walk on) would be a {taw:n}.[2]</column>
       <column name="notes_de">Dieses Wort kann sich nur auf einen physischen Weg beziehen und nicht auf einen spirituellen oder metaphorischen Weg. "The Klingon Way" ist zum Beispiel {tlhIngan tIgh:n:nolink}.
 
 Ein physischer Pfad (den man sehen und gehen kann) wäre ein {taw:n}.[2] [AUTOTRANSLATED]</column>
@@ -3381,7 +3381,7 @@ This word is listed among other militaristic terminology in the body of {KGT:src
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">C'est juste le verbe {HeD:v} avec le suffixe {-chu':v}. Alors que le suffixe {-chu':v} est utilisé avec certains verbes de combat pour impliquer que le combat entraîne la mort (voir {Suvchu':v} et {Hay'chu':v}), il n'y a pas une telle implication avec {HeDchu':v:nolink}. Bien que la mort puisse survenir dans le cadre de la retraite, cela n’est pas nécessairement implicite.[broken link: 7][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{HeD:v}, {-chu':v}</column>
       <column name="examples"></column>
@@ -4266,7 +4266,7 @@ This word is listed among other militaristic terminology in the body of {KGT:src
       <column name="notes_zh_HK">這意味著在參與，接觸，熟悉或親身處理給定的知識或技能類型方面具有「經驗」。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isto significa "experiente" no sentido de envolvimento, exposição, familiaridade, ou lidar de forma prática com uma determinada área de conhecimento ou tipo de habilidade.[1]</column>
       <column name="notes_fi">Tämä tarkoittaa "kokenutta" siinä mielessä, että osallistuu tiettyyn osa-alueeseen tai taitotyyppiin, altistuu siihen, tuntee sen tai käyttää sitä käytännössä.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela signifie « expérimenté » dans le sens d'une implication, d'une exposition, d'une familiarité ou d'une gestion pratique d'un domaine de connaissances ou d'un type de compétence donné.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">A reference to The Jimi Hendrix Experience and its debut studio album "Are You Experienced".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5424,8 +5424,7 @@ Voir sous {nItlh:n} pour les verbes associés à chacun des doigts. [AUTOTRANSLA
       <column name="notes_pt"></column>
       <column name="notes_fi">{SoH:n}: {jIH:n:1h} = {HI-:v:pref,nolink} (imp.)
 {tlhIH:n}: {jIH:n:1h} = {HI-:v:pref,nolink} (imp.) [AUTOTRANSLATED]</column>
-      <column name="notes_fr">{SoH:n}:{jIH:n:1h} = [broken link: 3] (imp.)
-{tlhIH:n}:{jIH:n:1h} = [broken link: 6] (imp.){HI-:v:pref,nolink}{HI-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5866,7 +5865,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/Wq5mvIWRSKc} [A
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Il s'agit des frais payés lors de l'importation de certains produits dans une juridiction.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{HIj:v}, {-meH:v}, {'ap:n}</column>
       <column name="examples"></column>
@@ -6072,7 +6071,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/KArQlviVXMk} [A
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">L'objet de ce verbe est la personne dont la présence est annoncée. Il peut être utilisé pour indiquer pourquoi quelqu'un frappe à une porte.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">Reverse of {lIH:v:1}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7210,7 +7209,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/KArQlviVXMk} [A
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Un piano (qui n'est pas un instrument klingon) dans un piano-bar (où les clients sont parfois encouragés à boire et à chanter) est parfois appelé ainsi.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">Maltz said that he wasn't aware of this word being used for pianos elsewhere, but it might be.[1]
 
 Steinway ({HIvje':n} + {He:n}) is a company which produces pianos.</column>
@@ -7576,7 +7575,7 @@ Le premier élément d'une liste de mots (par exemple) serait {mu' wa'DIch:n@@mu
       <column name="definition_zh_HK">大部分、多數</column>
       <column name="definition_pt">maior parte</column>
       <column name="definition_fi">suurin osa, useimmat</column>
-      <column name="definition_fr">la plupart, la plus grande partie [AUTOTRANSLATED]</column>
+      <column name="definition_fr">la plupart, la plus grande partie</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'op:n}, {bID:n}</column>
@@ -8018,15 +8017,7 @@ If an alien calendar contains more than six days, additional days are numbered b
 ▶ {lojmItjaj:n} tai {ghInjaj:n} "lauantai"
 
 Jos ulkomaalaisen kalenteri sisältää yli kuusi päivää, lisäpäivät numeroidaan {wa':n:num}: lla. Siten "sunnuntai" olisi {jaj wa':n}. Kahdeksan päivän viikkoa käyttävän {lenmaq:n}: n viikon kahdeksas päivä on nimeltään {jaj cha':n:nolink} ja niin edelleen.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">La semaine Klingon compte six jours, qui sont :
-▶ [broken link: 1] "Lundi"
-▶ [broken link: 2] "Mardi"
-▶ [broken link: 3] "Mercredi"
-▶ [broken link: 4] "Jeudi"
-▶ [broken link: 5] "Vendredi"
-▶ {lojmItjaj:n} ou {ghInjaj:n} "Samedi"
-
-Si un calendrier extraterrestre contient plus de six jours, les jours supplémentaires sont numérotés en commençant par {wa':n:num}. Ainsi, « dimanche » serait {jaj wa':n}. Le huitième jour de la semaine sur {DaSjaj:n}0, qui utilise une semaine de huit jours, s'appelle {jaj cha':n:nolink}, et ainsi de suite.[2]{povjaj:n}{ghItlhjaj:n}{loghjaj:n}{buqjaj:n}{lenmaq:n} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9337,7 +9328,7 @@ En Klingon, « l'espace lointain » s'appelle {logh Hop:n}, littéralement « es
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Ceci est utilisé pour tirer un wagon d'enfant (par sa poignée) ou pour qu'une locomotive tire le train ou pour retirer une prise électrique du mur.[1] Pour tirer une corde d'arc ou tirer sur quelque chose sans le déplacer (le faire glisser), voir [broken link: 2]. Pour une traction soudaine, voir {luH:v:1}.{Hur:v} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">In Dutch, this verb is "trekken" (see {Hoq:n}).</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9378,7 +9369,7 @@ En Klingon, « l'espace lointain » s'appelle {logh Hop:n}, littéralement « es
       <column name="see_also">{DavHam:n}, {Qaq:v}, {quv:v}, {batlh:n}, {mIl:v}, {quvHa':v}</column>
       <column name="notes">Deception is implied by the use of this verb.
 
-This word is used in places where {quv:v} might be used, but when the honor was discovered to be illegitimate. For exampe, a {Duy quv:n:nolink} who turns out to be a spy would be called a {Duy HoQ:n:nolink}.
+This word is used in places where {quv:v} might be used, but when the honor was discovered to be illegitimate. For example, a {Duy quv:n:nolink} who turns out to be a spy would be called a {Duy HoQ:n:nolink}.
 
 It differs from {quvHa':v} in that it indicates that one has demanded respect which is unearned or undeserved. A warrior who shows cowardice in battle is a {SuvwI' quvHa':n:nolink}. One who hides his cowardice, is awarded for valor (i.e., becomes known as a {SuvwI' quv:n:nolink}), and is subsequently discovered to be a fraud, is a {SuvwI' HoQ:n:nolink}.
 
@@ -13319,7 +13310,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/tAK-hgXMH-M} [A
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Ce verbe s'est développé à partir de {HurwI':n}. Appliqué à un {HurwI':n:nolink}, cela fait référence au fait de tirer la corde de l'arc (avant de lâcher et de lancer la flèche). Dans d'autres contextes, cela peut faire référence au fait de tirer sur la poignée d'une porte pour ouvrir ou fermer la porte ou à tirer sur les bretelles de quelqu'un. [1] Pour tirer impliquant un mouvement de la chose tirée, voir [broken link: 4]. Pour une traction soudaine, voir {luH:v:1}.{Hoq:v} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -14529,7 +14520,7 @@ Cela n'est pas utilisé pour signifier « exécuter en bloquant », ce qui est {
       <column name="definition_de">summen</column>
       <column name="definition_fa">هوم [AUTOTRANSLATED]</column>
       <column name="definition_sv">brum [AUTOTRANSLATED]</column>
-      <column name="definition_ru">гул [AUTOTRANSLATED]</column>
+      <column name="definition_ru">гудеть, урчать, мурлыкать</column>
       <column name="definition_zh_HK">哼 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cantarolar</column>
       <column name="definition_fi">surista, hurista, kehrätä, hyräillä</column>

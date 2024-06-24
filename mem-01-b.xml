@@ -57,7 +57,7 @@
       <column name="definition_zh_HK">胡椒（辣椒） [AUTOTRANSLATED]</column>
       <column name="definition_pt">pimenta (capsicum)</column>
       <column name="definition_fi">eräs paprikaa muistuttava kasvi</column>
-      <column name="definition_fr">poivre (piment) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">poivre (capsicum)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{naH:n}</column>
@@ -69,7 +69,7 @@
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Cela fait référence à une sorte de plante, plutôt qu'à une épice finement moulue.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -104,7 +104,7 @@
       <column name="definition_zh_HK">射擊</column>
       <column name="definition_pt">atirar</column>
       <column name="definition_fi">ampua jollakin</column>
-      <column name="definition_fr">tirer [AUTOTRANSLATED]</column>
+      <column name="definition_fr">tirer (faisceau d'énergie)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bach:n}, {bachHa':v}, {Qeq:v:1}, {vI':n:1}</column>
@@ -171,7 +171,7 @@ That the target is marked with {-Daq:n:nolink} is known from {SkyBox 14:src} and
       <column name="definition_zh_HK">射擊</column>
       <column name="definition_pt">tiro</column>
       <column name="definition_fi">laukaus</column>
-      <column name="definition_fr">tir [AUTOTRANSLATED]</column>
+      <column name="definition_fr">tir</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bach:v}</column>
@@ -218,7 +218,7 @@ That the target is marked with {-Daq:n:nolink} is known from {SkyBox 14:src} and
       <column name="definition_zh_HK">弄錯、做錯</column>
       <column name="definition_pt">errar, cometer um erro</column>
       <column name="definition_fi">erehtyä, tehdä virhe</column>
-      <column name="definition_fr">euh, fais une erreur [AUTOTRANSLATED]</column>
+      <column name="definition_fr">se tromper, faire une erreur</column>
       <column name="synonyms">{Qagh:v}</column>
       <column name="antonyms"></column>
       <column name="see_also">{bach:v}</column>
@@ -265,7 +265,7 @@ That the target is marked with {-Daq:n:nolink} is known from {SkyBox 14:src} and
       <column name="definition_zh_HK">射擊有效範圍</column>
       <column name="definition_pt">alcance efetivo</column>
       <column name="definition_fi">(aseen) kantama, kantomatka</column>
-      <column name="definition_fr">portée efficace [AUTOTRANSLATED]</column>
+      <column name="definition_fr">portée efficace</column>
       <column name="synonyms">{Qapchu'meH chuq:n}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -320,7 +320,7 @@ That the target is marked with {-Daq:n:nolink} is known from {SkyBox 14:src} and
       <column name="definition_zh_HK">綁</column>
       <column name="definition_pt">amarrar</column>
       <column name="definition_fi">sitoa, solmia</column>
-      <column name="definition_fr">cravate [AUTOTRANSLATED]</column>
+      <column name="definition_fr">attacher, nouer</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{QeymoH:v}, {QeyHa'moH:v}, {tay':v}, {meS:v:1}</column>
@@ -414,7 +414,7 @@ That the target is marked with {-Daq:n:nolink} is known from {SkyBox 14:src} and
       <column name="definition_zh_HK">匙羹</column>
       <column name="definition_pt">colher (utensílios de cozinha)</column>
       <column name="definition_fi">lusikka</column>
-      <column name="definition_fr">cuillère [AUTOTRANSLATED]</column>
+      <column name="definition_fr">cuillère</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{puq chonnaQ:n}</column>
@@ -461,7 +461,7 @@ That the target is marked with {-Daq:n:nolink} is known from {SkyBox 14:src} and
       <column name="definition_zh_HK">發射（魚雷、火箭、飛彈）</column>
       <column name="definition_pt">atirar (torpedo, foguete, míssil)</column>
       <column name="definition_fi">laukaista (torpedo, raketti, ohjus)</column>
-      <column name="definition_fr">feu (torpille, fusée, missile) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">tirer, lancer (torpille, fusée, missile)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bach:v}, {ghuS:v:1}, {vI':n:1}, {peng:n}, {cha:n}</column>
@@ -544,7 +544,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="definition_zh_HK">發射器、火箭筒</column>
       <column name="definition_pt">lançador</column>
       <column name="definition_fi">raketinheitin, sinko</column>
-      <column name="definition_fr">lanceur [AUTOTRANSLATED]</column>
+      <column name="definition_fr">lanceur</column>
       <column name="synonyms">{tal:n:1}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -650,7 +650,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="notes_zh_HK">在一種傳統的對決形式中，每個男性戰鬥人員的目標都是「贏得女人的青睞」（{vuv be' 'e' baj:sen@@vuv:v, be':n, 'e':n, baj:v}，字面意思是「贏得女人的尊敬」）。[1, p.69] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Numa forma tradicional de duelo, o objetivo de cada um dos combatentes do sexo masculino é "conquistar o favor de uma mulher" ({vuv be' 'e' baj:sen@@vuv:v, be':n, 'e':n, baj:v}, literalmente, "fazer com que a mulher o respeite").[1, p.69] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Yhdessä perinteisessä kaksintaistelumuodossa jokaisen miespuolisen taistelijan tavoitteena on "voittaa naisen suosio" ({vuv be' 'e' baj:sen@@vuv:v, be':n, 'e':n, baj:v}, kirjaimellisesti "ansaita, että nainen kunnioittaa häntä").[1, p.69] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Dans une forme traditionnelle de duel, le but de chacun des combattants masculins est de « gagner la faveur d'une femme » ([broken link: 1], littéralement « gagner qu'une femme le respecte »).[broken link: 2]{vuv be' 'e' baj:sen@@vuv:v, be':n, 'e':n, baj:v}[1, p.69] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">A "badge" is something that has to be earned.</column>
       <column name="components"></column>
       <column name="examples">
@@ -687,7 +687,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="definition_zh_HK">罐、樽</column>
       <column name="definition_pt">jarro, jarra, garrafa</column>
       <column name="definition_fi">kannu, purkki, pullo</column>
-      <column name="definition_fr">cruche, pot, bouteille [AUTOTRANSLATED]</column>
+      <column name="definition_fr">cruche, carafe, pichet, pot, bouteille</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngaSwI':n}, {qorghwI':n}, {noq:n:2}</column>
@@ -711,7 +711,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
       <column name="examples_fr"></column>
-      <column name="search_tags">container</column>
+      <column name="search_tags">container, pitcher</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -734,7 +734,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="definition_zh_HK">面對</column>
       <column name="definition_pt">encarar, ter a perpectiva de enfrentar alguma coisa</column>
       <column name="definition_fi">kohdata, joutua käsittelemään jotakin</column>
-      <column name="definition_fr">faire face (avoir la perspective d'avoir à faire face à) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">faire face à</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qaD:v}</column>
@@ -782,7 +782,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="definition_zh_HK">受瘀、瘀傷</column>
       <column name="definition_pt">ser machucado</column>
       <column name="definition_fi">olla mustelmilla</column>
-      <column name="definition_fr">être meurtri [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être meurtri</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{moqtay':n}, {rIQ:v}, {Hampong:n}</column>
@@ -829,7 +829,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="definition_zh_HK">瘀傷</column>
       <column name="definition_pt">machucar</column>
       <column name="definition_fi">ruhjoa</column>
-      <column name="definition_fr">hématome [AUTOTRANSLATED]</column>
+      <column name="definition_fr">contusionner</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -924,7 +924,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="definition_zh_HK">情歌</column>
       <column name="definition_pt">canção de amor</column>
       <column name="definition_fi">rakkauslaulu</column>
-      <column name="definition_fr">chanson d'amour [AUTOTRANSLATED]</column>
+      <column name="definition_fr">chanson d'amour</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bom:n}</column>
@@ -1267,7 +1267,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUT
       <column name="notes_zh_HK">當用於噓聲時，通常會在抱怨或咆哮之前或之後。有時，僅僅抱怨和咆哮也可以表達這種情緒。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Quando usado para vaiar, geralmente é precedido ou seguido por resmungos e rosnados gerais. Às vezes, apenas resmungar e rosnar sozinho também pode expressar esse sentimento.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Kun sitä käytetään möykkyyn, sitä edeltää tai seuraa usein yleinen nurina ja murina. Joskus pelkkä murehtiminen ja röyhkeily yksin voi myös ilmaista tämän mielipiteen.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Lorsqu'il est utilisé pour huer, il est souvent précédé ou suivi de grognements et de grognements généraux. Parfois, le simple fait de grogner et de grogner peut également exprimer ce sentiment.[broken link: 1][2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">This was defined in {TKD:src} as "general invective". At {qep'a' 26 (2019):src}, it was explained that this could be used as the equivalent to the English "boo! hiss!"
 
 In Japanese, "baka" means "fool" or "idiot".</column>
@@ -1492,7 +1492,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_zh_HK">「巴羅特」</column>
       <column name="definition_pt">Barot</column>
       <column name="definition_fi">Barot</column>
-      <column name="definition_fr">Barot [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Barot</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1504,7 +1504,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="notes_zh_HK">T'vis的父親。參見{tI'vIS:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O pai de T'vis. Consulte {tI'vIS:n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">T'visin isä. Katso {tI'vIS:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Le père de T'vis. Voir [broken link: 1].{tI'vIS:n} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1539,7 +1539,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_zh_HK">樹枝</column>
       <column name="definition_pt">ramo (de uma árvore)</column>
       <column name="definition_fi">(puun) oksa, haara</column>
-      <column name="definition_fr">branche (d'un arbre) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">branche (d'un arbre)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Sor:n}, {por:n}, {Qechjem'a':n}, {pu'veng:n}</column>
@@ -1586,7 +1586,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_zh_HK">金屬</column>
       <column name="definition_pt">metal</column>
       <column name="definition_fi">metalli</column>
-      <column name="definition_fr">métal [AUTOTRANSLATED]</column>
+      <column name="definition_fr">métal</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Sor Hap:n}, {mep:n}, {'al'on:n}</column>
@@ -1660,29 +1660,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
 ▶ {yuHSIQ:n}
 ▶ {'apraQ:n}
 ▶ {'uSqan:n}</column>
-      <column name="notes_fr">Les mots connus pour les métaux (et les composés métalliques) incluent :
-▶ [broken link: 1]
-▶ [broken link: 2]
-▶ [broken link: 3]
-▶ [broken link: 4]
-▶ [broken link: 5]
-▶ [broken link: 6]
-▶ [broken link: 7]
-▶ [broken link: 8]
-▶ [broken link: 9]
-▶ [broken link: 10]
-▶ [broken link: 11]
-▶ [broken link: 12]
-▶ [broken link: 13]
-▶ [broken link: 14]
-▶ [broken link: 15]
-▶ [broken link: 16]
-▶ [broken link: 17]
-▶ [broken link: 18]
-▶ [broken link: 19]
-▶ [broken link: 20]
-▶ [broken link: 21]
-▶ [broken link: 22]{bettI':n}{ghav 'uSqan:n}{jey':n}{jey' Sorpuq:n}{letbIng:n}{ngIDvoS:n}{qol'om:n}{rom'on:n}{SIrlIy:n}{Sorpuq:n}{tallIt:n}{targho'nI':n}{tarngeb:n}{tI'yap:n}{velSo':n}{velSo' 'uSqan:n}{wa'ngoQ:n}{yayal:n}{yelneHSIQ:n}{yuHSIQ:n}{'apraQ:n}{'uSqan:n} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">Something you "bash", or "base" metal. See {baS 'In:n}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1764,7 +1742,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
           <column name="definition_zh_HK">煉鐵廠</column>
           <column name="definition_pt">fundição</column>
           <column name="definition_fi">valimo</column>
-          <column name="definition_fr">fonderie [AUTOTRANSLATED]</column>
+          <column name="definition_fr">fonderie</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{mItlh:v}, {Qu:v}, {vIncha':n}, {QumeH ngaSwI':n}</column>
@@ -1811,7 +1789,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
           <column name="definition_zh_HK">金屬線</column>
           <column name="definition_pt">fio</column>
           <column name="definition_fi">johto</column>
-          <column name="definition_fr">fil [AUTOTRANSLATED]</column>
+          <column name="definition_fr">fil, câble</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1858,7 +1836,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
           <column name="definition_zh_HK">鐵鼓、鐵鐘</column>
           <column name="definition_pt">tambor metálico, sino</column>
           <column name="definition_fi">metallirumpu, -kello</column>
-          <column name="definition_fr">tambour en métal, cloche [AUTOTRANSLATED]</column>
+          <column name="definition_fr">tambour en métal, cloche</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{'In:n}</column>
@@ -1905,7 +1883,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_zh_HK">向量</column>
       <column name="definition_pt">vetor</column>
       <column name="definition_fi">vektori</column>
-      <column name="definition_fr">vecteur (mathématiques) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">vecteur (mathématiques)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Quv:n}, {rober:n}, {roDSer:n}</column>
@@ -1999,7 +1977,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_zh_HK">光榮、尊嚴（與人格相關的哲學概念）</column>
       <column name="definition_pt">honra (geral, conceito filosófico, associado à integridade)</column>
       <column name="definition_fi">kunnia (filosofinen käsite, liittyy rehellisyyteen)</column>
-      <column name="definition_fr">honneur (concept général, philosophique, associé à l'intégrité) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">honneur (concept général, philosophique, associé à l'intégrité)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{DavHam:n}, {chIvo':n}</column>
       <column name="see_also">{quv:v}</column>
@@ -2046,7 +2024,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_zh_HK">光榮地、光明正大地</column>
       <column name="definition_pt">honrado, com honra</column>
       <column name="definition_fi">kunniakkaasti, kunniallisesti, rehellisesti</column>
-      <column name="definition_fr">honoré, avec honneur [AUTOTRANSLATED]</column>
+      <column name="definition_fr">honoré, avec honneur</column>
       <column name="synonyms"></column>
       <column name="antonyms">{batlhHa':adv}</column>
       <column name="see_also">{quv:n}, {quv:v}</column>
@@ -2237,7 +2215,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_zh_HK">光榮的死亡是不需要復仇的。</column>
       <column name="definition_pt">Uma morte honrosa não exige vingança.</column>
       <column name="definition_fi">Kunniallinen kuolema ei vaadi kostoa.</column>
-      <column name="definition_fr">Une mort honorable ne nécessite aucune vengeance. [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Une mort honorable ne nécessite aucune vengeance.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3768,9 +3746,7 @@ To say "when I was X years old", the construction is, for example, {qaStaHvIS DI
       <column name="notes_fi">Klingonissa sen sijaan, että sanottaisiin "Olen X-vuotias", ihmisen ikä ilmaistaan ​​sanomalla "Olen syntynyt X vuotta sitten".[2]
 
 Sanoa "kun olin X-vuotias", rakennus on esimerkiksi {qaStaHvIS DISwIj javDIch...:sen@@qaS:v, -taH:v, -vIS:v, DIS:n:2, -wIj:n, jav:n:1, -DIch:n} "Kun olin kuusi vuotta vanha ...". Syntymäpäivän ja ensimmäisen syntymäpäivän välistä aikaa pidetään nolla-vuotena[4] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">En Klingon, au lieu de dire « J'ai X ans », l'âge d'une personne s'exprime en disant « Je suis né il y a X ans ».
-
-Pour dire "quand j'avais X ans", la construction est par exemple [broken link: 2] "Quand j'avais six ans...". Le temps entre la naissance et le premier anniversaire est considéré comme la zéro année.[broken link: 3][2]{qaStaHvIS DISwIj javDIch...:sen@@qaS:v, -taH:v, -vIS:v, DIS:n:2, -wIj:n, jav:n:1, -DIch:n}[4] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4530,11 +4506,7 @@ O {betleH:n:nolink} também é chamado de {betleH quv:n:nolink}, para diferenci�
 Klingonin legendassa {qeylIS'e' lIjlaHbe'bogh vay':n:name} vääristi alkuperäisen kunniamiekan hiussaarnasta, joka oli kastettu {QIStaq:n}-tulivuoren {qul ngeng:n}-tulppaan. Ase on muotoiltu {maS'e' loQ So'be'bogh QIb:n}.[5]-muotoon
 
 {betleH:n:nolink}: ta kutsutaan myös {betleH quv:n:nolink}: ksi, jotta se erotettaisiin vastaavasta kuulostavasta {meqleH:n}: stä. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Les éléments du nom de cette arme sont archaïques, mais elle signifie « épée d'honneur ». En Klingon moderne, bien sûr, « épée d'honneur » serait {batlh 'etlh:n:nolink}. Voir [broken link: 2].
-
-Dans la légende Klingon, l'épée d'honneur originale a été forgée par {qeylIS'e' lIjlaHbe'bogh vay':n:name} à partir d'une mèche de ses cheveux trempée dans le {qul ngeng:n} du volcan {QIStaq:n}. L'arme a la forme d'un {maS'e' loQ So'be'bogh QIb:n}.[5]
-
-Le {betleH:n:nolink} est également appelé {betleH quv:n:nolink}, pour le différencier du {meqleH:n} au son similaire.{paq'batlh:n} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">This word is misspelled {batleH:n:hyp,nolink} on {SkyBox 8:src}.[3] A message on the {s.k:src} newsgroup gives a bit of history behind the various spellings used in English for this word.[4]</column>
       <column name="components">{batlh:n}, {'etlh:n}</column>
       <column name="examples">
@@ -5396,7 +5368,7 @@ Le {betleH:n:nolink} est également appelé {betleH quv:n:nolink}, pour le diff�
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">{SoH:n}: {pagh:n:1h} = {bI-:v:pref,nolink} [AUTOTRANSLATED]</column>
-      <column name="notes_fr">[broken link: 1] : [broken link: 2] = [broken link: 3]{SoH:n}{pagh:n:1h}{bI-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5651,25 +5623,7 @@ Verbien etuliitteet, kun {bIH:n:nolink} on objekti:
 ▶ {ghaH:n} / {'oH:n} / {chaH:n} / {bIH:n:nolink}: {bIH:n:nolink} = {0:v:pref}
 
 Pakollinen verbin etuliite, kun kohde on {bIH:n:nolink}, on {tI-:v:pref}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">C’est le pluriel de {'oH:n:pro}.
-
-Préfixes verbaux lorsque {bIH:n:nolink} est le sujet :
-▶ [broken link: 3]: [broken link: 4] = [broken link: 5]
-▶ [broken link: 6] : {jIH:n:1h} = [broken link: 8]
-▶ [broken link: 9]: [broken link: 10] = [broken link: 11]
-▶ [broken link: 12] : [broken link: 13] = [broken link: 14]
-▶ [broken link: 15] : [broken link: 16] = [broken link: 17]
-▶ {bIH:n:nolink} :{ghaH:n}/{'oH:n} = {lu-:v:pref}
-▶ {bIH:n:nolink} :{chaH:n}/{bIH:n:nolink} = {0:v:pref}
-
-Préfixes de verbe lorsque {bIH:n:nolink} est l'objet :
-▶ [broken link: 27] : [broken link: 28] = [broken link: 29]
-▶ [broken link: 30] : [broken link: 31] = [broken link: 32]
-▶ [broken link: 33] : [broken link: 34] = [broken link: 35]
-▶ [broken link: 36] : [broken link: 37] = [broken link: 38]
-▶ {bIH:n:nolink}9/{pagh:n:1h}0/[broken link: 41]/[broken link: 42] :[broken link: 43] = [broken link: 44]
-
-Le préfixe du verbe impératif lorsque {bIH:n:nolink} est l'objet est {tI-:v:pref}.{0:v:pref}{bIH:n:nolink}{mu-:v:pref}{bIH:n:nolink}{maH:n:1h}{nu-:v:pref}{bIH:n:nolink}{SoH:n}{nI-:v:pref}{bIH:n:nolink}{tlhIH:n}{lI-:v:pref}{jIH:n:1h}{bIH:n:nolink}{vI-:v:pref}{maH:n:1h}{bIH:n:nolink}{DI-:v:pref}{SoH:n}{bIH:n:nolink}{Da-:v:pref}{tlhIH:n}{bIH:n:nolink}{bo-:v:pref}{ghaH:n}{'oH:n}{chaH:n}{bIH:n:nolink}{bIH:n:nolink}{0:v:pref} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6115,7 +6069,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/NpFDKTzINH8} [AUT
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Il s’agit d’une idée ou d’une fantaisie capricieuse, excentrique et souvent soudaine.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7395,7 +7349,7 @@ Pour des dizaines de millions, on pourrait combiner {maH:n:2,num} avec {'uy':n:n
           <column name="definition_zh_HK">重氫、氘同位素</column>
           <column name="definition_pt">isótopo de deutério</column>
           <column name="definition_fi">deuterium-isotooppi</column>
-          <column name="definition_fr">isotope du deutérium [AUTOTRANSLATED]</column>
+          <column name="definition_fr">isotope du deutérium</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{rugh bIQSIp:n}, {choH lISbogh Hap'e':n}</column>
@@ -7494,7 +7448,7 @@ Pour des dizaines de millions, on pourrait combiner {maH:n:2,num} avec {'uy':n:n
           <column name="definition_zh_HK">海洋</column>
           <column name="definition_pt">oceano</column>
           <column name="definition_fi">meri</column>
-          <column name="definition_fr">océan, mer [AUTOTRANSLATED]</column>
+          <column name="definition_fr">océan, mer</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{yu'egh:n}, {vI'Ir:n}, {bIQtIq:n}, {bIQ'a' HeH:n}, {tlher'aq:n}</column>
@@ -8423,7 +8377,7 @@ L’expression ne comporte un élément de défi que lorsque le préfixe pronomi
 
 Maltz était sûr qu'il y avait un lien entre cette expression et le juron {taHqeq:excl}, mais il ne pouvait pas expliquer de quoi il s'agissait.[1]
 
-Pour "oh, ouais ?" signifiant simplement "Est-ce vrai ?", voir {qar'a' ?:sen}[1]{SutaHrup'a'?:sen@@Su-:v, taH:v:1, -rup:v, -'a':v}{bItaHrup'a'?:sen:nolink}{SutaHrup'a'?:sen:nolink}{qar'a'?:sen} [AUTOTRANSLATED]</column>
+Pour "oh, ouais ?" signifiant simplement "Est-ce vrai ?", voir {qar'a'?:sen}[1]{SutaHrup'a'?:sen@@Su-:v, taH:v:1, -rup:v, -'a':v}{bItaHrup'a'?:sen:nolink}{SutaHrup'a'?:sen:nolink}{qar'a'?:sen} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{bI-:v}, {taH:v:1}, {-rup:v}, {-'a':v}</column>
       <column name="examples"></column>
@@ -9188,9 +9142,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="notes_fi">{tlhIH:n}: {ghaH:n} / {'oH:n} / {chaH:n} / {bIH:n} = {bo-:v:pref,nolink}
 
 Kun sitä käytetään {-lu':v}:n kanssa, tämä etuliite tarkoittaa "Joku (määrittelemätön) tekee teille jotain".</column>
-      <column name="notes_fr">{tlhIH:n} :{ghaH:n}/[broken link: 3]/[broken link: 4]/[broken link: 5] = [broken link: 6]
-
-Lorsqu'il est utilisé avec {-lu':v}, ce préfixe signifie « Quelqu'un (sujet indéfini) vous fait quelque chose (pluriel) ».{'oH:n}{chaH:n}{bIH:n}{bo-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -12052,7 +12004,7 @@ Ce mot est utilisé dans les expressions {bo'Dagh'a' lo':sen} et {bo'DaghHom lo'
       <column name="notes_zh_HK">鳥的種類包括：{borghel:n}、{cha'bIp:n}、{cha'Do':n}、{cha'naS:n}、{cha'par:n}、{cha'qu':n}、{Da'nal:n}、{Da'vI':n}、{Her'IS:n}, {jentu':n}、{lIr:n}、{lotlhmoq:n}、{notqa':n}、{parbIng:n}、{qanraD:n}、{qaryoq:n}、{qaryoq'a':n}、{qa'rol:n}、{ramjep:n:2}、{raw':n}、{toQ:n}、{vem'eq:n}、{vIlInHoD:n}、{waqboch:n}、{yatqap:n}、{'apuStoQ:n}、{'uSgheb:n}以及可能的{qISa'ruj:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Tipos de aves incluem: {borghel:n}, {cha'bIp:n}, {cha'Do':n}, {cha'naS:n}, {cha'par:n}, {cha'qu':n}, {Da'nal:n}, {Da'vI':n}, {Her'IS:n}, {jentu':n}, {lIr:n}, {lotlhmoq:n}, {notqa':n}, {parbIng:n}, {qanraD:n}, {qaryoq:n}, {qaryoq'a':n}, {qa'rol:n}, {ramjep:n:2}, {raw':n}, {toQ:n}, {vem'eq:n}, {vIlInHoD:n}, {waqboch:n} , {yatqap:n}, {'apuStoQ:n}, {'uSgheb:n} e possivelmente {qISa'ruj:n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tyypit linnut ovat: {borghel:n}, {cha'bIp:n}, {cha'Do':n}, {cha'naS:n}, {cha'par:n}, {cha'qu':n}, {Da'nal:n}, {Da'vI':n}, {Her'IS:n}, {jentu':n}, {lIr:n}, {lotlhmoq:n}, {notqa':n}, {parbIng:n}, {qanraD:n}, {qaryoq:n}, {qaryoq'a':n}, {qa'rol:n}, {ramjep:n:2}, {raw':n}, {toQ:n}, {vem'eq:n}, {vIlInHoD:n}, {waqboch:n} , {yatqap:n}, {'apuStoQ:n}, {'uSgheb:n} ja mahdollisesti {qISa'ruj:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Les types d'oiseaux comprennent : {borghel:n}, {cha'bIp:n}, {cha'Do':n}, [broken link: 4], [broken link: 5], [broken link: 6], [broken link: 7], [broken link: 8], [broken link: 9], [broken link: 10], [broken link: 11], [broken link: 12], [broken link: 13], [broken link: 14] , {qanraD:n}, [broken link: 16], [broken link: 17], [broken link: 18], [broken link: 19], [broken link: 20], [broken link: 21], [broken link: 22], [broken link: 23] , {waqboch:n}, {yatqap:n}, {'apuStoQ:n}, {'uSgheb:n} et éventuellement {qISa'ruj:n}.{cha'naS:n}{cha'par:n}{cha'qu':n}{Da'nal:n}{Da'vI':n}{Her'IS:n}{jentu':n}{lIr:n}{lotlhmoq:n}{notqa':n}{parbIng:n}{qaryoq:n}{qaryoq'a':n}{qa'rol:n}{ramjep:n:2}{raw':n}{toQ:n}{vem'eq:n}{vIlInHoD:n} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">The Alfred Hitchcock movie "The Birds" takes place in Bodega Bay.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -12405,10 +12357,7 @@ A história da promessa afirma que:
 
 Lupauksen tarinassa todetaan:
 ▶ {ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen}</column>
-      <column name="notes_fr">Une planète de l'Empire Klingon. Selon la mythologie Klingonne, c'est ici que reviendra {qeylIS'e' lIjlaHbe'bogh vay':n:name}.
-
-L’histoire de la promesse déclare que :
-▶ [broken link: 2]{ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -12967,7 +12916,7 @@ The 2009 {Star Trek:src} movie has a deleted scene with the line: {buqmeylIjDaq 
       <column name="definition_ru">Икота</column>
       <column name="definition_zh_HK">嗝 [AUTOTRANSLATED]</column>
       <column name="definition_pt">soluçar</column>
-      <column name="definition_fi">hikka</column>
+      <column name="definition_fi">nikotella, olla hikka</column>
       <column name="definition_fr">hoquet [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>

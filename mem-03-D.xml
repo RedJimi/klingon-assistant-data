@@ -151,9 +151,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="notes_fi">{SoH:n}: {ghaH:n} / {'oH:n} / {chaH:n} / {bIH:n} = {Da-:v:pref,nolink}
 
 Kun sitä käytetään {-lu':v}: n kanssa, tämä etuliite tarkoittaa "Joku (määrittelemätön aihe) tekee sinulle jotain". [AUTOTRANSLATED]</column>
-      <column name="notes_fr">{SoH:n} :{ghaH:n}/[broken link: 3]/[broken link: 4]/[broken link: 5] = [broken link: 6]
-
-Lorsqu'il est utilisé avec {-lu':v}, ce préfixe signifie « Quelqu'un (sujet indéfini) vous fait quelque chose ».{'oH:n}{chaH:n}{bIH:n}{Da-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -200,7 +198,7 @@ Lorsqu'il est utilisé avec {-lu':v}, ce préfixe signifie « Quelqu'un (sujet 
       <column name="notes_zh_HK">在克林崗，當一個人居住在一個地方時，他或她被認為是居住或居住於該地方。也就是說，他或她不被視為在某個位置做某事，而是在對該位置做某事。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em Klingon, quando se vive em um lugar, ele ou ela é considerado como ocupando ou habitando. Ou seja, ele ou ela não é visto como fazendo algo em um local, mas como fazendo algo a ele.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Kun joku asuu paikassa Klingonissa, hänen ajatellaan asuvan tai asuttavan sitä. Toisin sanoen hänen ei katsota tekevän jotain paikassa, vaan pikemminkin tekevänsä jotain sille.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">En Klingon, lorsqu'une personne vit dans un endroit, on considère qu'elle l'occupe ou l'habite. Autrement dit, il ou elle n'est pas perçu comme faisant quelque chose à un endroit, mais plutôt comme y faisant quelque chose.[broken link: 1][2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -796,17 +794,7 @@ Lauseen aiheena {jajvam:n:nolink} löytyy tyypillisemmin, vaikka {DaHjaj:n:nolin
 {DaHjaj:n:nolink}-sanaa käytetään myös sanoilla, jotka osoittavat kellonajan viittaamaan kuluvan päivän kyseiseen osaan. Esimerkiksi {DaHjaj ram:n}, kirjaimellisesti "tämän päivän yö", tarkoittaa "tänä iltana".
 
 Aikaelementtinä {DaHjaj:n} edeltää kaikkia adverbaaleja.[2][2][2][1, sec. 6.7] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Bien que {DaHjaj:n:nolink} et {jajvam:n} signifient « aujourd'hui », ils ne sont pas tout à fait interchangeables. {DaHjaj:n:nolink} (mais pas {jajvam:n:nolink}) est utilisé comme élément temporel dans une phrase : {DaHjaj romuluSngan vIHoHpu':sen:nolink} "aujourd'hui, j'ai tué un Romulien".[2]
-
-En tant que sujet d'une phrase, {jajvam:n:nolink} est plus généralement trouvé, bien que {DaHjaj:n:nolink} ne soit pas impossible. Comparer:
-▶ [broken link: 9] "cette journée est longue"
-▶ {nI' DaHjaj:sen:nolink} "aujourd'hui est longue"[2]
-
-{DaHjaj:n:nolink} se comporte également comme un nom dans des constructions nom-nom telles que {DaHjaj gheD:n} "la proie d'aujourd'hui", un terme souvent entendu dans les restaurants Klingons avec une signification comparable à "la prise du jour".[2]
-
-{DaHjaj:n:nolink} est également utilisé avec des mots indiquant une heure de la journée pour faire référence à cette partie de la journée en cours. Par exemple, {DaHjaj ram:n}, littéralement « la nuit d'aujourd'hui », signifie « ce soir ».[2]
-
-En tant qu'élément temporel, {DaHjaj:n} précède tout adverbial.[1, sec. 6.7]{nI' jajvam:sen:nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{DaH:adv}, {jaj:n}</column>
       <column name="examples"></column>
@@ -1127,7 +1115,7 @@ En tant qu'élément temporel, {DaHjaj:n} précède tout adverbial.[1, sec. 6.7]
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
-      <column name="notes">This is short for {DaHjaj po:n@@DaHjaj:n, pov:n}.[1]</column>
+      <column name="notes">This is short for {DaHjaj pov:n@@DaHjaj:n, pov:n}.[1]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -2798,7 +2786,7 @@ The sentence {tlhIngan yoH Daj verengan yoH qetlh:sen:nolink} on {KGT p.179:src}
       <column name="notes_zh_HK">該詞後不帶位置後綴{-Daq:n:suff}。 （{TKD 3.3.5:src}） [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra nunca é seguida pelo sufixo locativo {-Daq:n:suff}. ({TKD 3.3.5:src}) [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä sanaa ei koskaan seuraa paikallinen loppuliite {-Daq:n:suff}. ({TKD 3.3.5:src}) [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ce mot n'est jamais suivi du suffixe locatif {-Daq:n:suff}. ([broken link: 2]){TKD 3.3.5:src} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4987,6 +4975,53 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
         </table>
         <table name="mem">
           <column name="_id"></column>
+          <column name="entry_name">DeS Do'ghI'</column>
+          <column name="part_of_speech">n:body,deriv</column>
+          <column name="definition">forearm (inner side)</column>
+          <column name="definition_de">Unterarm (Innenseite)</column>
+          <column name="definition_fa">ساعد (سمت داخلی) [AUTOTRANSLATED]</column>
+          <column name="definition_sv">underarm (innersida) [AUTOTRANSLATED]</column>
+          <column name="definition_ru">предплечье (внутренняя сторона) [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">前臂（內側） [AUTOTRANSLATED]</column>
+          <column name="definition_pt">antebraço (lado interno) [AUTOTRANSLATED]</column>
+          <column name="definition_fi">kyynärvarsi (sisäpuoli)</column>
+          <column name="definition_fr">avant-bras (côté intérieur) [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{DeS reStav:n}</column>
+          <column name="notes">This refers to the inner part of the forearm, which extends from the palm to the elbow pit ({DeS tutren:n}).[1]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{DeS:n:1}, {Do'ghI':n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {KLI mailing list 2023.12.29:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
           <column name="entry_name">DeS nev'ob</column>
           <column name="part_of_speech">n:body,deriv</column>
           <column name="definition">upper arm</column>
@@ -5001,7 +5036,7 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
-          <column name="notes"></column>
+          <column name="notes">This refers to the entire upper part of the arm. Unless specificity is called for, {DeS:n:nolink} is generally left out of {DeS nev'ob:n:nolink}.[2]</column>
           <column name="notes_de"></column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
@@ -5030,25 +5065,25 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
           <column name="search_tags_fr"></column>
-          <column name="source">[1] {KLI mailing list 2020.03.30:src}</column>
+          <column name="source">[1] {KLI mailing list 2020.03.30:src}, [2] {KLI mailing list 2023.12.29:src}</column>
         </table>
         <table name="mem">
           <column name="_id"></column>
           <column name="entry_name">DeS reStav</column>
           <column name="part_of_speech">n:body,deriv</column>
-          <column name="definition">forearm (one side)</column>
+          <column name="definition">forearm (outer side)</column>
           <column name="definition_de">Unterarm (eine Seite)</column>
           <column name="definition_fa">ساعد (زیر دست) [AUTOTRANSLATED]</column>
           <column name="definition_sv">underarm (undersida) [AUTOTRANSLATED]</column>
           <column name="definition_ru">предплечье (нижняя сторона) [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">前臂（下側） [AUTOTRANSLATED]</column>
           <column name="definition_pt">antebraço (parte inferior) [AUTOTRANSLATED]</column>
-          <column name="definition_fi">kyynärvarsi</column>
+          <column name="definition_fi">kyynärvarsi (ulkopuoli)</column>
           <column name="definition_fr">avant-bras (un côté) [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
-          <column name="see_also"></column>
-          <column name="notes">This seems to refer to one side of the forearm (as {'uS reStav:n} refers to the shin), but it's not clear which. In comparison, {cha'neH:n} refers to the entire lower arm.</column>
+          <column name="see_also">{DeS Do'ghI':n}</column>
+          <column name="notes">This refers to the outer part of the forearm, which extends from the back of the hand to the outer part of the elbow. The other side is the {DeS Do'ghI':n}, while the entire forearm is the {cha'neH:n}. Unless specificity is called for, {DeS:n:nolink} is generally left out of {DeS reStav:n:nolink}.[2]</column>
           <column name="notes_de"></column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
@@ -5056,7 +5091,7 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="notes_fr">Cela semble faire référence à un côté de l'avant-bras (comme {'uS reStav:n} fait référence au tibia), mais on ne sait pas lequel. En comparaison, {cha'neH:n} fait référence à l’ensemble de l’avant-bras. [AUTOTRANSLATED]</column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{DeS:n:1}, {reStav:n}</column>
           <column name="examples"></column>
@@ -5077,7 +5112,7 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
           <column name="search_tags_fr"></column>
-          <column name="source">[1] {KLI mailing list 2020.03.30:src}</column>
+          <column name="source">[1] {KLI mailing list 2020.03.30:src}, [2] {KLI mailing list 2023.12.29:src}</column>
         </table>
         <table name="mem">
           <column name="_id"></column>
@@ -5248,7 +5283,7 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {juDev 'ej Dujvam ra'wI' DagheS 'e' vItlhob:sen}</column>
+▶ {juDev 'ej Dujvam ra'wI' DagheS 'e' vItlhob.:sen}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -5756,7 +5791,7 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
       <column name="definition_zh_HK">順便說一句 [AUTOTRANSLATED]</column>
       <column name="definition_pt">a propósito, entre parênteses</column>
       <column name="definition_fi">muuten, asiasta puheen ollen</column>
-      <column name="definition_fr">au fait, entre parenthèses [AUTOTRANSLATED]</column>
+      <column name="definition_fr">d'ailleurs, au fait</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6429,7 +6464,7 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">{maH:n:1h}: {chaH:n} / {bIH:n} = {DI-:v:pref,nolink} [AUTOTRANSLATED]</column>
-      <column name="notes_fr">[broken link: 1] : [broken link: 2]/{bIH:n} = [broken link: 4]{maH:n:1h}{chaH:n}{DI-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6876,11 +6911,7 @@ Detta verb kan användas för att producera en visuell bild även om ingen färg
 Piirrettävä asia voidaan määritellä verbillä {cha':v} (näyttää) tai {nargh:v:0} (ilmestyä, paeta, karata). Jälkimmäinen verbi on samanlainen kuin kirjoittamisen ja säveltämisen yhteydessä käytettävä {qon:v}: kuvan ajatellaan olevan jo olemassa ja maalaaja ({DIjwI':n}) mahdollistaa sen pakenemisen ja ilmestymisen. Yleensä {nargh:v:0,nolink}-verbiä käytetään {-moH:v}-päätteen kanssa, vaikka sen käyttäminen ilman päätettä on myös sallittua joskin harvinaisempaa. {cha':v:nolink}-verbin käyttäminen on yleisempää epämuodollisemmissa tilanteissa ja {nargh:v:nolink} (yleensä {narghmoH:v:nolink})-verbi on yleisempi kirjallisuudessa ja taiteessa käytävissä keskusteluissa.
 
 Tätä verbiä käytetään myös muunlaisesta piirtämisestä kuin maalitikulla maalaamisesta. Sitä voi käyttää esimerkiksi kynällä tai tietokoneella piirtämisestä.[2]</column>
-      <column name="notes_fr">L'objet de ce verbe est la chose qui est touchée par un {rItlh naQ:n}, par exemple un {nagh beQ:n}. Puisque {DIj:v:2,nolink} est déjà associé à {nagh beQ:n:nolink}, il peut être laissé de côté. Cependant, si vous peignez ou dessinez sur autre chose qu'un {nagh beQ:n:nolink}, cela doit être précisé.[2]
-
-Pour préciser la chose à dessiner, on peut utiliser les verbes {cha':v} ou {nargh:v:0}. Ce dernier signifie à la fois « apparaître » et « s'échapper », et de la même manière que {qon:v} est utilisé pour composer de la musique ou écrire des histoires, son utilisation suggère que l'image existe déjà et que {DIjwI':n} lui permet d'une manière ou d'une autre de s'échapper et d'apparaître. Habituellement, {nargh:v:0,nolink} est utilisé avec le suffixe {-moH:v}, mais il est également possible de l'utiliser sans, bien que cette construction soit moins fréquemment entendue. La version {cha':v:nolink} est plus courante dans les contextes informels et la version {nargh:v:nolink} (généralement {narghmoH:v:nolink}) est plus courante dans la littérature ou dans les discussions sur l'art.[2]
-
-Ce verbe peut être utilisé pour produire une image visuelle même si aucune peinture ou bâton de pigment n'est utilisé, par exemple avec un crayon, ou avec un appareil ou un logiciel informatique.[broken link: 17][2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -7418,39 +7449,7 @@ Liitetyyppi 5: sijamuodot
 ▶ {-mo':n:suff}
 ▶ {-vaD:n:suff}
 ▶ {-'e':n:suff}</column>
-      <column name="notes_fr">Il existe cinq types de suffixes nominaux en Klingon.
-
-Type de nom 1 : Augmentatif/Diminutif
-▶ [broken link: 1]
-▶ [broken link: 2]
-▶ [broken link: 3]
-
-Type de nom 2 : Nombre
-▶ [broken link: 4]
-▶ [broken link: 5]
-▶ [broken link: 6]
-
-Type de nom 3 : Qualification
-▶ [broken link: 7]
-▶ [broken link: 8]
-▶ [broken link: 9]
-
-Type de nom 4 : Possession/spécification
-▶ [broken link: 10] / [broken link: 11]
-▶ [broken link: 12] / [broken link: 13]
-▶ [broken link: 14]
-▶ [broken link: 15] / [broken link: 16]
-▶ [broken link: 17] / [broken link: 18]
-▶ [broken link: 19]
-▶ [broken link: 20]
-▶ [broken link: 21]
-
-Type de nom 5 : marqueurs syntaxiques
-▶ [broken link: 22]
-▶ [broken link: 23]
-▶ [broken link: 24]
-▶ [broken link: 25]
-▶ [broken link: 26]{-'a':n:suff}{-Hom:n:suff}{-oy:n:suff}{-pu':n:suff}{-Du':n:suff}{-mey:n:suff}{-qoq:n:suff}{-Hey:n:suff}{-na':n:suff}{-wIj:n:suff}{-wI':n:suff}{-lIj:n:suff}{-lI':n:suff}{-Daj:n:suff}{-maj:n:suff}{-ma':n:suff}{-raj:n:suff}{-ra':n:suff}{-chaj:n:suff}{-vam:n:suff}{-vetlh:n:suff}{-Daq:n:suff}{-vo':n:suff}{-mo':n:suff}{-vaD:n:suff}{-'e':n:suff} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -8822,7 +8821,7 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
           <column name="definition_zh_HK">形而上學 [AUTOTRANSLATED]</column>
           <column name="definition_pt">metafísica</column>
           <column name="definition_fi">metafysiikka</column>
-          <column name="definition_fr">métaphysique [AUTOTRANSLATED]</column>
+          <column name="definition_fr">métaphysique</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{HapQeD:n}</column>
@@ -11136,7 +11135,7 @@ This was defined as "side". The clarification "direction, face" was added to dif
       <column name="definition_de">Wagen, Karren (einachsiges Fahrzeug, gezogen oder geschoben)</column>
       <column name="definition_fa">سبد خرید (وسیله نقلیه چرخ دار ، کشیده شده یا تحت فشار) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vagn (hjulfordon, dras eller skjuts) [AUTOTRANSLATED]</column>
-      <column name="definition_ru">тележка (транспортное средство на колесах, потянув или толкнул) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">тележка (транспортное средство на колесах, которое тянут или толкают)</column>
       <column name="definition_zh_HK">推車（輪式車輛，拉動或推入） [AUTOTRANSLATED]</column>
       <column name="definition_pt">carrinho (veículo com rodas, puxado ou empurrado)</column>
       <column name="definition_fi">kärry (vedetty tai työnnetty pyörillä kulkeva ajoneuvo)</column>
@@ -11521,7 +11520,7 @@ This was defined as "side". The clarification "direction, face" was added to dif
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'uS:n}, {cha'neH:n}, {reStav:n}</column>
-      <column name="notes">This means the back of the lower leg.</column>
+      <column name="notes">This means the back of the lower leg. It's possible to say {'uS Do'ghI':n:nolink}, but {'uS:n:nolink} tends to be used only if a distinction or comparison is being made with {DeS Do'ghI':n}.[2]</column>
       <column name="notes_de">Dies bedeutet die Rückseite des Unterschenkels. [AUTOTRANSLATED]</column>
       <column name="notes_fa">این به معنی قسمت پایینی پا است. [AUTOTRANSLATED]</column>
       <column name="notes_sv">Detta betyder bakbenet på underbenet. [AUTOTRANSLATED]</column>
@@ -11550,7 +11549,7 @@ This was defined as "side". The clarification "direction, face" was added to dif
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="search_tags_fr"></column>
-      <column name="source">[1] {KLI mailing list 2020.03.30:src}</column>
+      <column name="source">[1] {KLI mailing list 2020.03.30:src}, [2] {KLI mailing list 2023.12.29:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -11811,7 +11810,7 @@ This was defined as "side". The clarification "direction, face" was added to dif
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">{ghaH:n} / {'oH:n}: {SoH:n} = {Du-:v:pref,nolink} [AUTOTRANSLATED]</column>
-      <column name="notes_fr">{ghaH:n}/{'oH:n}:[broken link: 3] = [broken link: 4]{SoH:n}{Du-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -12777,7 +12776,7 @@ Les classes connues de vaisseaux Klingons incluent {neghvar:n}, {vorcha':n}, {qI
       <column name="notes_zh_HK">這個表達的意思是「有經驗」。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta expressão significa "ser experimentado". [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä ilmaisu tarkoittaa "ole kokenut". [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cette expression signifie « être expérimenté ».[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{Duj:n:1}, {-mey:n}, {law':v}, {chIj:v}, {-pu':v}</column>
       <column name="examples">
@@ -13189,7 +13188,7 @@ The logo of Star Alliance, the largest airline alliance on Earth, is often paint
       <column name="definition_de">schockiert sein, erstaunt sein</column>
       <column name="definition_fa">خشمگین شو [AUTOTRANSLATED]</column>
       <column name="definition_sv">bli bedövas [AUTOTRANSLATED]</column>
-      <column name="definition_ru">быть оглушенным, быть остолбеневшим</column>
+      <column name="definition_ru">быть ошеломлённым</column>
       <column name="definition_zh_HK">被驚呆了 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser chocado, ser espantado</column>
       <column name="definition_fi">olla hämmästynyt, olla järkyttynyt</column>
@@ -13197,11 +13196,11 @@ The logo of Star Alliance, the largest airline alliance on Earth, is often paint
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mer:v}, {mot:v}</column>
-      <column name="notes">This means in the sense of astonished, astounded, dumbfounded, shocked. It is stronger than {yay':v}</column>
-      <column name="notes_de">Dies ist im sinne von erstaunt, umgeworfen, schockiert. Es ist stärker als {yay':v}</column>
+      <column name="notes">This means in the sense of astonished, astounded, dumbfounded, shocked. It is stronger than {yay':v}.</column>
+      <column name="notes_de">Dies ist im sinne von erstaunt, umgeworfen, schockiert. Es ist stärker als {yay':v}.</column>
       <column name="notes_fa">این به معنای حیرت زده ، حیرت زده ، گنگ ، شوکه شده است. از {yay':v} قوی تر است [AUTOTRANSLATED]</column>
       <column name="notes_sv">Detta innebär i betydelsen förvånad, förvånad, dumfundad, chockad. Det är starkare än {yay':v} [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это употребляется в смысле изумленный, ошеломленный, шокированый. Это сильнее, чем {yay':v}</column>
+      <column name="notes_ru">Это употребляется в смысле изумленный, ошеломленный, шокированый. Это сильнее, чем {yay':v}.</column>
       <column name="notes_zh_HK">這意味著驚訝，震驚，傻眼，震驚。它比{yay':v}強 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa, no sentido de atônito, atônito, aturdido, chocado. É mais forte que {yay':v} [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä tarkoittaa hämmästyneenä, hämmästyneenä, tyhmänä, järkyttyneenä. Se on vahvempi kuin {yay':v} [AUTOTRANSLATED]</column>

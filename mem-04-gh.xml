@@ -356,25 +356,7 @@ Verbien etuliitteet, kun {ghaH:n:nolink} on objekti:
 ▶ {chaH:n} / {bIH:n}: {ghaH:n:nolink} = {lu-:v:pref}
 
 Pakollinen verbin etuliite, kun kohde on {ghaH:n:nolink}, on {yI-:v:pref}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Le pluriel de ce pronom est {chaH:n:pro}.
-
-Préfixes verbaux lorsque {ghaH:n:nolink} est le sujet :
-▶ [broken link: 3]: [broken link: 4] = [broken link: 5]
-▶ [broken link: 6] : {jIH:n:1h} = [broken link: 8]
-▶ [broken link: 9]: [broken link: 10] = [broken link: 11]
-▶ [broken link: 12] : [broken link: 13] = [broken link: 14]
-▶ [broken link: 15] : [broken link: 16] = [broken link: 17]
-▶ {ghaH:n:nolink} :{ghaH:n:nolink}/[broken link: 20]/[broken link: 21]/[broken link: 22] = [broken link: 23]
-
-Préfixes de verbe lorsque {ghaH:n:nolink} est l'objet :
-▶ [broken link: 25] : [broken link: 26] = [broken link: 27]
-▶ [broken link: 28] : [broken link: 29] = [broken link: 30]
-▶ [broken link: 31] : [broken link: 32] = [broken link: 33]
-▶ [broken link: 34] : [broken link: 35] = [broken link: 36]
-▶ {ghaH:n:nolink}7/{'oH:n}:{ghaH:n:nolink} = {pagh:n:1h}0
-▶ {chaH:n}/{bIH:n}:{ghaH:n:nolink} = {lu-:v:pref}
-
-Le préfixe du verbe impératif lorsque {ghaH:n:nolink} est l'objet est {yI-:v:pref}.{0:v:pref}{ghaH:n:nolink}{mu-:v:pref}{ghaH:n:nolink}{maH:n:1h}{nu-:v:pref}{ghaH:n:nolink}{SoH:n}{Du-:v:pref}{ghaH:n:nolink}{tlhIH:n}{lI-:v:pref}{'oH:n}{chaH:n}{bIH:n}{0:v:pref}{jIH:n:1h}{ghaH:n:nolink}{vI-:v:pref}{maH:n:1h}{ghaH:n:nolink}{wI-:v:pref}{SoH:n}{ghaH:n:nolink}{Da-:v:pref}{tlhIH:n}{ghaH:n:nolink}{bo-:v:pref}{ghaH:n:nolink}{0:v:pref} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1474,7 +1456,7 @@ This is the "cornerstone" ({qor:sen:nolink}-{nagh:n}) of something.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Il s’agit d’une catégorie biologique.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2534,7 +2516,7 @@ In the list of vocabulary used in {KCD:src} which was given to the KLI in advanc
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
-      <column name="hidden_notes">{gheb rIl:sen:nolink} is a reference to the horn of Gabriel.</column>
+      <column name="hidden_notes">{gheb rIl:sen@@gheb:n, rIl:v:2} is a reference to the horn of Gabriel.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {nItlh gheb:n}</column>
@@ -4776,7 +4758,7 @@ Il existe également un mot régional {ley':n} qui signifie « nez ». [AUTOTRAN
       <column name="notes_zh_HK">指建築物或建築物群，包括任何附屬場地，例如花園。它不是指在那裡生活，工作或學習的人群。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a um edifício ou grupo de edifícios, incluindo quaisquer terrenos que o acompanham, como jardins. Não se refere ao grupo de pessoas que vive, trabalha ou estuda lá.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä tarkoittaa rakennusta tai rakennusten ryhmää, mukaan lukien kaikki siihen liittyvät tontit, kuten puutarhat. Se ei tarkoita ihmisryhmää, joka asuu, työskentelee tai opiskelee siellä[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'un bâtiment ou d'un groupe de bâtiments, y compris les terrains qui l'accompagnent tels que les jardins. Il ne fait pas référence au groupe de personnes qui y vivent, y travaillent ou y étudient.[broken link: 1][2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">Plymouth Gin is produced by The Black Friars Distillery, formerly a Dominican monastery in Plymouth, England.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5288,7 +5270,7 @@ Il existe également un mot régional {ley':n} qui signifie « nez ». [AUTOTRAN
       <column name="entry_name">ghIS</column>
       <column name="part_of_speech">v:i_c</column>
       <column name="definition">wiggle, squirm</column>
-      <column name="definition_de">wackeln, winden</column>
+      <column name="definition_de">schlängeln, zappeln, sich winden</column>
       <column name="definition_fa">جنبیدن، لولیدن</column>
       <column name="definition_sv">wiggle, squirm [AUTOTRANSLATED]</column>
       <column name="definition_ru">покачиваться, извиваться [AUTOTRANSLATED]</column>
@@ -5630,7 +5612,7 @@ Il existe également un mot régional {ley':n} qui signifie « nez ». [AUTOTRAN
       <column name="definition_fr">manuscrit [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{Se'vIr:n}, {paq:n:1h}</column>
+      <column name="see_also">{Se'vIr:n}, {paq:n:1h}, {ghItlh:v}</column>
       <column name="notes">This originally referred to the marks made by engravings or carvings or chiseling or the like, and it can still be used in this way. Later, the word also came to be used for a handwritten document, and then a draft (in any format) of a document (or book), i.e., a "manuscript".[4]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -5639,7 +5621,7 @@ Il existe également un mot régional {ley':n} qui signifie « nez ». [AUTOTRAN
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">À l'origine, cela faisait référence aux marques faites par des gravures, des sculptures, des burins ou autres, et il peut encore être utilisé de cette manière. Plus tard, le mot a également été utilisé pour désigner un document manuscrit, puis une ébauche (sous n'importe quel format) d'un document (ou d'un livre), c'est-à-dire un « manuscrit ».[broken link: 1][4] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">The word {ghItlhHom:n:nolink} was used for the "string" variable type in Klingon Blockly.[2]
 
 At {qep'a' 30 (2023):src}, Okrand clarified that {ghItlh:n:nolink} refers to physical markings on a surface and not to the text contents of a document. It is not used to refer to books, though the physical pages of a book do technically contain {ghItlh:n:nolink}. He was unsure whether digital letters on a screen counted as {ghItlh:n:nolink}.[3] It was further explained at {Saarbrücken qepHom'a' 2023:src} how the word evolved to its current meaning.[4]</column>
@@ -5680,7 +5662,7 @@ At {qep'a' 30 (2023):src}, Okrand clarified that {ghItlh:n:nolink} refers to phy
       <column name="definition_fr">graver, inciser, marquer (sur), écrire [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{Hew:n}, {nan:v:1}, {tey:v:1}, {laD:v}</column>
+      <column name="see_also">{Hew:n}, {nan:v:1}, {tey:v:1}, {laD:v}, {ghItlh:n}</column>
       <column name="notes">This verb is used to indicate the making of markings on a surface. It applies not just to writing, but to any kind of marking. To "write" in this sense refers to the physical act of writing, and not to the creation of compositions, for which {qon:v} is used instead.[2; 3] Another verb, {gher:v}, is used for the compilation of lists and the like.[4]</column>
       <column name="notes_de">Dieses Verb wird verwendet, um das Erstellen von Markierungen auf einer Oberfläche anzuzeigen. Es gilt nicht nur für das Schreiben, sondern für jede Art von Kennzeichnung. "Schreiben" in diesem Sinne bezieht sich auf den physischen Akt des Schreibens und nicht auf die Erstellung von Kompositionen, für die stattdessen {qon:v} verwendet wird. [2; 3] Ein anderes Verb, {gher:v}, wird für die Zusammenstellung von Listen und dergleichen verwendet.[4] [AUTOTRANSLATED]</column>
       <column name="notes_fa"></column>
@@ -5726,7 +5708,7 @@ At {qep'a' 30 (2023):src}, Okrand clarified that {ghItlh:n:nolink} refers to phy
       <column name="definition_zh_HK">星期三</column>
       <column name="definition_pt">Quarta-feira</column>
       <column name="definition_fi">keskiviikko</column>
-      <column name="definition_fr">Mercredi [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Mercredi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hogh:n}</column>
@@ -6088,8 +6070,7 @@ Dans {TNK:src}, {ghItlhwI':n:nolink} est utilisé pour « stylo » et {ghojmeH g
       <column name="notes_pt"></column>
       <column name="notes_fi">{SoH:n}: {maH:n:1h} = {gho-:v:pref,nolink} (imp.)
 {tlhIH:n}: {maH:n:1h} = {gho-:v:pref,nolink} (imp.) [AUTOTRANSLATED]</column>
-      <column name="notes_fr">{SoH:n}:{maH:n:1h} = [broken link: 3] (imp.)
-{tlhIH:n}:{maH:n:1h} = [broken link: 6] (imp.){gho-:v:pref,nolink}{gho-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6242,7 +6223,7 @@ Il y a 243 {lawmey:n:nolink} dans un {gho:n:nolink}, soit 360 {lawrI'mey:n:nolin
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
-          <column name="notes">This refers not to a bound notebook, but rather to a ringer binder that one can add papers to and take them out of.</column>
+          <column name="notes">This refers not to a bound notebook, but rather to a ringed binder that one can add papers to and take them out of.</column>
           <column name="notes_de">Dies bezieht sich nicht auf ein gebundenes Notizbuch, sondern auf einen Wecker, zu dem man Papiere hinzufügen und herausnehmen kann. [AUTOTRANSLATED]</column>
           <column name="notes_fa">این نه به یک نوت بوک محدود ، بلکه به یک اتصال دهنده رینگر مربوط می شود که می توان کاغذها را به آن اضافه کرد و آنها را بیرون آورد. [AUTOTRANSLATED]</column>
           <column name="notes_sv">Detta hänvisar inte till en bunden anteckningsbok, utan snarare till ett ringband som man kan lägga till papper till och ta ut dem från. [AUTOTRANSLATED]</column>
@@ -7155,7 +7136,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/7_rXiSTQmAE} [AUT
       <column name="notes_zh_HK">這是一本課本，就像在教科書中一樣，並不是「讓這對您來說就是一課！」（{ghuH:n}）。它也可以用來表示「關於X的教程」，例如{X ghojmeH mIw:n:nolink}。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma lição como em um livro didático, e não no sentido de "Que isso seja uma lição para você!", Que é {ghuH:n}. Também pode ser usado para expressar "tutorial sobre X", como {X ghojmeH mIw:n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä on oppitunti kuten oppikirjassa, eikä merkityksessä "Olkoon tämä sinulle oppitunti!", Joka on {ghuH:n}. Sitä voidaan käyttää myös ilmaisemaan "opetusohjelma X: stä" {X ghojmeH mIw:n:nolink}-muodossa.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'une leçon comme dans un manuel, et non dans le sens de « Que cela vous soit une leçon ! », qui est [broken link: 1]. Il peut également être utilisé pour exprimer un "tutoriel sur X", comme {X ghojmeH mIw:n:nolink}.[1]{ghuH:n} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{ghoj:v}, {-meH:v}, {mIw:n}</column>
       <column name="examples"></column>
@@ -7635,7 +7616,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/7_rXiSTQmAE} [AUT
       <column name="notes_zh_HK">該動詞可以與或不與賓語一起使用。如果有一個對象，則表明該對象正在遇到該對象。如果沒有任何物體，則各主體彼此聚集或相遇。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo pode ser usado com ou sem um objeto. Se houver um objeto, o assunto está encontrando o objeto. Se não houver objeto, os sujeitos estão se reunindo ou se encontrando.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä verbiä voidaan käyttää objektin kanssa tai ilman. Jos objektia on, kohde tapaa objektin. Jos kohdetta ei ole, koehenkilöt kokoontuvat tai kohtaavat toisiaan[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ce verbe peut être utilisé avec ou sans objet. S'il y a un objet, alors le sujet rencontre l'objet. S'il n'y a pas d'objet, alors les sujets se rassemblent ou se rencontrent.[broken link: 1][2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -8097,7 +8078,7 @@ This was defined as "slot" at {qep'a' 28 (2021):src}. The meaning of "slit" was 
       <column name="definition_ru">злоупотребление</column>
       <column name="definition_zh_HK">濫用 [AUTOTRANSLATED]</column>
       <column name="definition_pt">abusar</column>
-      <column name="definition_fi">väärinkäyttö</column>
+      <column name="definition_fi">väärinkäyttö, hyväksikäyttö</column>
       <column name="definition_fr">abus [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8109,7 +8090,7 @@ This was defined as "slot" at {qep'a' 28 (2021):src}. The meaning of "slit" was 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
+      <column name="notes_fi">Tätä ei käytetä pahoinpitelemisestä, seksuaalisesta hyväksikäytöstä, tms. (ks. {ghong:v})</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -8144,7 +8125,7 @@ This was defined as "slot" at {qep'a' 28 (2021):src}. The meaning of "slit" was 
       <column name="definition_ru">злоупотреблять</column>
       <column name="definition_zh_HK">濫用 [AUTOTRANSLATED]</column>
       <column name="definition_pt">abusar, explorar</column>
-      <column name="definition_fi">käyttää väärin</column>
+      <column name="definition_fi">käyttää väärin, käyttää hyväksi</column>
       <column name="definition_fr">abuser, exploiter [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8156,9 +8137,11 @@ This was defined as "slot" at {qep'a' 28 (2021):src}. The meaning of "slit" was 
       <column name="notes_ru">Это относится к жестокому обращению или эксплуатации, но не относится к физическому насилию.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指虐待或剝削，但不是指身體虐待。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a abuso ou exploração, mas não se refere a abuso físico.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa väärinkäyttöön tai hyväksikäyttöön, mutta ei tarkoita fyysistä hyväksikäyttöä[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela fait référence à la maltraitance ou à l'exploitation, mais ne fait pas référence à la violence physique.[broken link: 1][1] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">This was defined as "abuse" in {TKD:src}, and expanded to include "exploit" at {qep'a' 26 (2019):src}.</column>
+      <column name="notes_fi">Tätä ei käytetä pahoinpitelemisestä, seksuaalisesta hyväksikäytöstä, tms. ([1]: "does not refer to physical abuse")</column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes">This was defined as "abuse" in {TKD:src}, and expanded to include "exploit" at {qep'a' 26 (2019):src}.
+
+In {TOS - The Trouble with Tribbles:src}, Nilz Baris says to Kirk, "You have abused your authority", which might be translated as {woQlIj Daghongpu':sen@@woQ:n, -lIj:n, Da-:v, ghong:v, -pu':v}.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -8176,7 +8159,7 @@ This was defined as "slot" at {qep'a' 28 (2021):src}. The meaning of "slit" was 
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">väärinkäyttää, hyväksikäyttää</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}, [2] {qep'a' 26 (2019):src}</column>
     </table>
@@ -8919,7 +8902,7 @@ L'un de ses ancêtres légendaires s'appelait également "Gorkon", mais le nom �
       <column name="definition_zh_HK">《Gorn》、蜥蜴人</column>
       <column name="definition_pt">Gorn</column>
       <column name="definition_fi">eräs laji, gorn</column>
-      <column name="definition_fr">Gorn [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Gorn</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -10247,7 +10230,7 @@ Ce mot est d'origine étrangère. La raison pour laquelle les Klingons utilisent
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Les mots relatifs à la température concernent en réalité la température et non l'effet ou la perception, de sorte que les vêtements, par exemple, ne sont pas dits « chauds » ou « froids » en Klingon.[broken link: 1][2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">The clarification that temperature words are not about effect or perception was made during the Q &amp; A session at {qep'a' 27 (2020):src}.
 
 The example also makes clear that "be warm" refers to temperature, and not to perception, emotion, or character.</column>
@@ -10619,9 +10602,7 @@ Consulte também os sufixos {-rup:v} e {-beH:v} para indicar a preparação ou p
       <column name="notes_fi">Tämän verbin tarkoitus on käynnistettävä asia, yleensä torpedot. Jos kohdetta ei ole määritelty nimenomaisesti tai kontekstin mukaan, sen oletetaan olevan torpedot. Torpedojen lisäksi tätä verbiä voidaan käyttää raketteihin, ohjuksiin, energiapalkkeihin tai mihin tahansa muuhun pisteestä toiseen. Sitä käytetään myös kuvaamaan toimintoa, jolla vedetään ritsa-joustavan nauhan taakse, tai keihään laskemista vaakasuoraan asentoon hyökätä varten (katso {ghuS:v:2}). Tämä verbi ei koskaan ota loppuliitettä {-rup:v}. ({TKD 4.2.2:src})
 
 Katso myös loppuliitteet {-rup:v} ja {-beH:v} valmistelun tai valmiuden osoittamiseksi. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">L'objet de ce verbe est la chose à lancer, généralement des torpilles. Si l'objet n'est spécifié ni explicitement ni par contexte, il est supposé qu'il s'agit de torpilles. Outre les torpilles, ce verbe peut être utilisé pour les roquettes, les missiles, les faisceaux d'énergie ou tout ce qui va d'un point à un autre. Il est également utilisé pour décrire l'action de tirer l'élastique d'une fronde ou d'abaisser une lance en position horizontale pour attaquer (voir {ghuS:v:2}). Ce verbe ne prend jamais le suffixe {-rup:v}. ([broken link: 3])
-
-Voir également les suffixes {-rup:v} et {-beH:v} pour indiquer la préparation ou l'état de préparation.{TKD 4.2.2:src} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">Even though the definition starts with "be", this is not a stative verb. The subject is a person getting ready to use a device to launch something, not the device itself.</column>
       <column name="components"></column>
       <column name="examples">
